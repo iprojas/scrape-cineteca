@@ -135,10 +135,15 @@ function gitCommitAndPush(commitMessage) {
     const changes = execSync('git status --porcelain').toString().trim();
     if (changes) {
       const gitCommitCommand = `git commit -m "${commitMessage}"`;
-      const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
 
       console.log(`Running command: ${gitCommitCommand}`);
       execSync(gitCommitCommand, { stdio: 'inherit' });
+
+      // Set up the remote URL with GITHUB_TOKEN for authentication
+      const repoUrl = `https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git`;
+      execSync(`git remote set-url origin ${repoUrl}`, { stdio: 'inherit' });
+
+      const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
 
       console.log(`Running command: ${gitPushCommand}`);
       execSync(gitPushCommand, { stdio: 'inherit' });
