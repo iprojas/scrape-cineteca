@@ -2,8 +2,7 @@ name: Fetch Movies and Commit to GitHub
 
 on:
   schedule:
-    # Runs at 00:00 UTC every Monday
-    - cron: '0 0 * * 1'
+    - cron: '0 10 * * 4'
 
   workflow_dispatch: # Allows you to manually trigger the workflow from GitHub Actions
 
