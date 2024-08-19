@@ -1,0 +1,42 @@
+name: Fetch Movies and Commit to GitHub
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Monday
+    - cron: '0 0 * * 1'
+
+  workflow_dispatch: # Allows you to manually trigger the workflow from GitHub Actions
+
+jobs:
+  fetch-movies:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Node.js environment
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'  # Ensure to match the Node version your script requires
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: npm install
+
+    # Step 4: Run the fetch script
+    - name: Run fetchMovies.js
+      run: node fetchMovies.js
+
+    # Step 5: Commit and Push changes
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Weekly movie data update"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

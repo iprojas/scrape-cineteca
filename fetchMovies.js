@@ -127,6 +127,10 @@ function gitAddFile(filePath) {
 
 function gitCommitAndPush(commitMessage) {
   try {
+    // Set Git user name and email
+    execSync('git config user.name "iprojas"', { stdio: 'inherit' });
+    execSync('git config user.email "rojas.ip@gmail.com"', { stdio: 'inherit' });
+
     const gitCommitCommand = `git commit -m "${commitMessage}"`;
     const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
 
