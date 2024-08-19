@@ -1,0 +1,340 @@
+[
+  {
+    "filmid": "HO00007311",
+    "movie": "20,000 especies de abejas",
+    "int_name": "20.000 especies de abejas",
+    "dir": "Estibaliz Urresola Solaguren",
+    "pais": "España",
+    "year": 2023,
+    "dur": "128",
+    "date": "21/08/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00005710",
+    "movie": "Boreal",
+    "int_name": "Boreal",
+    "dir": "Federico Adorno",
+    "pais": "Paraguay-México",
+    "year": 2022,
+    "dur": "88",
+    "date": "21/08/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007044",
+    "movie": "Club cero",
+    "int_name": "Club Zero",
+    "dir": "Jessica Hausner",
+    "pais": "Austria-Francia-Reino Unido-Alemania-Dinamarca-Catar",
+    "year": 2023,
+    "dur": "110",
+    "date": "21/08/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007784",
+    "movie": "Demasiada ternura",
+    "int_name": "So much tenderness",
+    "dir": "Lina Rodriguez",
+    "pais": "Canadá",
+    "year": 2022,
+    "dur": "118",
+    "date": "21/08/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007765",
+    "movie": "El mal no existe",
+    "int_name": "Aku wa Sonzai Shinai",
+    "dir": "Ryūsuke Hamaguchi",
+    "pais": "Japón",
+    "year": 2023,
+    "dur": "106",
+    "date": "21/08/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "16:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007689",
+    "movie": "El sacrificio",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "21/08/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007686",
+    "movie": "El tío",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "21/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00007685",
+    "movie": "El último bar",
+    "int_name": "The Old Oak",
+    "dir": "Ken Loach",
+    "pais": "Reino Unido-Francia-Bélgica",
+    "year": 2023,
+    "dur": "113",
+    "date": "21/08/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:00",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00007683",
+    "movie": "La favorita del rey",
+    "int_name": "Jeanne du Barry",
+    "dir": "Maïwenn",
+    "pais": "Francia-Bélgica-Reino Unido-Rusia-Arabia Saudita",
+    "year": 2023,
+    "dur": "116",
+    "date": "21/08/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007783",
+    "movie": "La sudestada",
+    "int_name": "La sudestada",
+    "dir": "Daniel Casabé y Edgardo Dieleke",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "21/08/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007000",
+    "movie": "Los Bilbao",
+    "int_name": "Los Bilbao",
+    "dir": "Pedro Speroni",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "74",
+    "date": "21/08/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00006777",
+    "movie": "Los Jardines colgantes",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "21/08/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007561",
+    "movie": "Metok",
+    "int_name": "Metok - A Tibetan Nun",
+    "dir": "Martín Solá",
+    "pais": "Italia-Argentina",
+    "year": 2021,
+    "dur": "70",
+    "date": "21/08/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007680",
+    "movie": "Mr. London Night",
+    "int_name": "Mr. London Night",
+    "dir": "Rafael Rangel",
+    "pais": "México",
+    "year": 2024,
+    "dur": "98",
+    "date": "21/08/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00006197",
+    "movie": "Sansón y yo",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "21/08/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00006606",
+    "movie": "Teorema de tiempo",
+    "int_name": "Teorema de tiempo",
+    "dir": "Andrés Kaiser",
+    "pais": "México",
+    "year": 2022,
+    "dur": "90",
+    "date": "21/08/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00006868",
+    "movie": "Un trabajo en serio",
+    "int_name": "Un métier sérieux",
+    "dir": "Thomas Lilti",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "111",
+    "date": "21/08/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007556",
+    "movie": "Yurei (fantasmas)",
+    "int_name": "Yūrei (fantasmas)",
+    "dir": "Sumie García Hirata",
+    "pais": "México",
+    "year": 2023,
+    "dur": "83",
+    "date": "21/08/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00",
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00006437",
+    "movie": "Ziuta travesías",
+    "int_name": "Ziuta Travesías",
+    "dir": "Carolina Kerlow",
+    "pais": "México",
+    "year": 2023,
+    "dur": "99",
+    "date": "21/08/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00001264",
+    "movie": "El principio",
+    "int_name": "El principio",
+    "dir": "Gonzalo Martínez Ortega",
+    "pais": "México",
+    "year": 1973,
+    "dur": "135",
+    "date": "21/08/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007920",
+    "movie": "Presentación editorial:Acervo de Animación Mexican",
+    "int_name": "Presentación editorial: Acervo de Animación Mexicana",
+    "dir": "Varios",
+    "pais": "México",
+    "year": 2024,
+    "dur": "60",
+    "date": "21/08/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007760",
+    "movie": "El cielo y el infierno",
+    "int_name": "Tengoku to jigoku",
+    "dir": "Akira Kurosawa",
+    "pais": "Japón",
+    "year": 1963,
+    "dur": "143",
+    "date": "21/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00007244",
+    "movie": "Ran",
+    "int_name": "Ran",
+    "dir": "Akira Kurosawa.",
+    "pais": "Japón-Francia",
+    "year": 1985,
+    "dur": "160",
+    "date": "21/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00007832",
+    "movie": "La Choza del lobo",
+    "int_name": "Vlci bouda",
+    "dir": "Věra Chytilová",
+    "pais": "Checoslovaquia",
+    "year": 1986,
+    "dur": "92",
+    "date": "21/08/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:30"
+    ]
+  }
+]
