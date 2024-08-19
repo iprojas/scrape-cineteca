@@ -110,18 +110,25 @@ function writeJSONFile(movies, cinemaId, date) {
   fs.writeFileSync(filePath, JSON.stringify(movies, null, 2));
   console.log(`Movie data has been written to ${filePath}`);
 
-  // Commit and push to GitHub
-  gitCommitAndPush(filePath, `${cinemaId}-${year}-${month}-${day}.json`);
+  // Add the file to be committed later
+  gitAddFile(filePath);
 }
 
-function gitCommitAndPush(filePath, filename) {
+function gitAddFile(filePath) {
   try {
     const gitAddCommand = `git add ${filePath}`;
-    const gitCommitCommand = `git commit -m "Add ${filename}"`;
-    const gitPushCommand = `git push`;
-
     console.log(`Running command: ${gitAddCommand}`);
     execSync(gitAddCommand, { stdio: 'inherit' });
+  } catch (error) {
+    console.error(`Error adding file ${filePath} to Git:`, error.message);
+    console.error('Stack Trace:', error.stack);
+  }
+}
+
+function gitCommitAndPush(commitMessage) {
+  try {
+    const gitCommitCommand = `git commit -m "${commitMessage}"`;
+    const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
 
     console.log(`Running command: ${gitCommitCommand}`);
     execSync(gitCommitCommand, { stdio: 'inherit' });
@@ -129,7 +136,7 @@ function gitCommitAndPush(filePath, filename) {
     console.log(`Running command: ${gitPushCommand}`);
     execSync(gitPushCommand, { stdio: 'inherit' });
 
-    console.log(`Successfully pushed ${filename} to the repository.`);
+    console.log(`Successfully pushed changes to the repository.`);
   } catch (error) {
     console.error('Error committing and pushing to Git:', error.message);
     console.error('Stack Trace:', error.stack);
@@ -137,6 +144,7 @@ function gitCommitAndPush(filePath, filename) {
 }
 
 async function main() {
+  let changesMade = false;
   for (const url of urls) {
     const cinemaIdMatch = url.match(/cinemaId=(\d+)/);
     const dateMatch = url.match(/dia=(\d{4}-\d{2}-\d{2})/);
@@ -147,7 +155,14 @@ async function main() {
 
       const movies = await fetchMovieData(url);
       writeJSONFile(movies, cinemaId, date);
+      changesMade = true;
     }
+  }
+
+  if (changesMade) {
+    gitCommitAndPush("Update movie data");
+  } else {
+    console.log("No changes were made.");
   }
 }
 
