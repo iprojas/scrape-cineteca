@@ -131,16 +131,22 @@ function gitCommitAndPush(commitMessage) {
     execSync('git config user.name "iprojas"', { stdio: 'inherit' });
     execSync('git config user.email "rojas.ip@gmail.com"', { stdio: 'inherit' });
 
-    const gitCommitCommand = `git commit -m "${commitMessage}"`;
-    const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
+    // Check if there are any changes to commit
+    const changes = execSync('git status --porcelain').toString().trim();
+    if (changes) {
+      const gitCommitCommand = `git commit -m "${commitMessage}"`;
+      const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
 
-    console.log(`Running command: ${gitCommitCommand}`);
-    execSync(gitCommitCommand, { stdio: 'inherit' });
+      console.log(`Running command: ${gitCommitCommand}`);
+      execSync(gitCommitCommand, { stdio: 'inherit' });
 
-    console.log(`Running command: ${gitPushCommand}`);
-    execSync(gitPushCommand, { stdio: 'inherit' });
+      console.log(`Running command: ${gitPushCommand}`);
+      execSync(gitPushCommand, { stdio: 'inherit' });
 
-    console.log(`Successfully pushed changes to the repository.`);
+      console.log(`Successfully pushed changes to the repository.`);
+    } else {
+      console.log("No changes to commit.");
+    }
   } catch (error) {
     console.error('Error committing and pushing to Git:', error.message);
     console.error('Stack Trace:', error.stack);
