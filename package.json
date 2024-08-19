@@ -1,0 +1,15 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "fetchMovies.js",
+  "scripts": {
+    "start": "node fetchMovies.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "date-fns": "^3.6.0",
+    "fs": "^0.0.1-security",
+    "jsdom": "^16.7.0"
+  }
+}
