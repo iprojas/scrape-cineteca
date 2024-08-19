@@ -128,8 +128,8 @@ function gitAddFile(filePath) {
 function gitCommitAndPush(commitMessage) {
   try {
     // Set Git user name and email
-    execSync('git config user.name "iprojas"', { stdio: 'inherit' });
-    execSync('git config user.email "rojas.ip@gmail.com"', { stdio: 'inherit' });
+    execSync('git config user.name "github-actions[bot]"', { stdio: 'inherit' });
+    execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'inherit' });
 
     // Check if there are any changes to commit
     const changes = execSync('git status --porcelain').toString().trim();
