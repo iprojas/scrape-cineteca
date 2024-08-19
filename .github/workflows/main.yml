@@ -30,7 +30,7 @@ jobs:
     - name: Run fetchMovies.js
       run: node fetchMovies.js
 
-    # Step 5: Commit and push changes
+    # Step 5: Commit and Push changes
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
@@ -38,3 +38,5 @@ jobs:
         git add .
         git commit -m "Weekly movie data update"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
