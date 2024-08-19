@@ -1,0 +1,42 @@
+[
+  {
+    "filmid": "HO00007880",
+    "movie": "Dersu Uzala",
+    "int_name": "Dersu Uzala",
+    "dir": "Akira Kurosawa.",
+    "pais": "Unión Soviética-Japón",
+    "year": 1975,
+    "dur": "142",
+    "date": "24/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00004728",
+    "movie": "Kagemusha, la sombra del guerreo",
+    "int_name": "Kagemusha",
+    "dir": "Akira Kurosawa",
+    "pais": "Japón",
+    "year": 1980,
+    "dur": "179",
+    "date": "24/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007881",
+    "movie": "Los sueños de Akira Kurosawa",
+    "int_name": "Yume",
+    "dir": "Akira Kurosawa.",
+    "pais": "Japón-Estados Unidos",
+    "year": 1990,
+    "dur": "120",
+    "date": "24/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  }
+]
