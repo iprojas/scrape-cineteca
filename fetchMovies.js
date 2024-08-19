@@ -125,39 +125,6 @@ function gitAddFile(filePath) {
   }
 }
 
-function gitCommitAndPush(commitMessage) {
-  try {
-    // Set Git user name and email
-    execSync('git config user.name "github-actions[bot]"', { stdio: 'inherit' });
-    execSync('git config user.email "github-actions[bot]@users.noreply.github.com"', { stdio: 'inherit' });
-
-    // Check if there are any changes to commit
-    const changes = execSync('git status --porcelain').toString().trim();
-    if (changes) {
-      const gitCommitCommand = `git commit -m "${commitMessage}"`;
-
-      console.log(`Running command: ${gitCommitCommand}`);
-      execSync(gitCommitCommand, { stdio: 'inherit' });
-
-      // Set up the remote URL with GITHUB_TOKEN for authentication
-      const repoUrl = `https://x-access-token:${process.env.GITHUB_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git`;
-      execSync(`git remote set-url origin ${repoUrl}`, { stdio: 'inherit' });
-
-      const gitPushCommand = `git push origin HEAD:${process.env.GITHUB_REF}`;
-
-      console.log(`Running command: ${gitPushCommand}`);
-      execSync(gitPushCommand, { stdio: 'inherit' });
-
-      console.log(`Successfully pushed changes to the repository.`);
-    } else {
-      console.log("No changes to commit.");
-    }
-  } catch (error) {
-    console.error('Error committing and pushing to Git:', error.message);
-    console.error('Stack Trace:', error.stack);
-  }
-}
-
 async function main() {
   let changesMade = false;
   for (const url of urls) {
@@ -175,7 +142,7 @@ async function main() {
   }
 
   if (changesMade) {
-    gitCommitAndPush("Update movie data");
+    console.log("Changes detected and committed.");
   } else {
     console.log("No changes were made.");
   }
