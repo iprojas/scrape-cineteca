@@ -7,10 +7,24 @@
     "pais": "Paraguay-México",
     "year": 2022,
     "dur": "88",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007682",
+    "movie": "Caminos cruzados",
+    "int_name": "Crossing",
+    "dir": "Levan Akin",
+    "pais": "Suecia-Dinamarca-Francia-Turquía-Georgia",
+    "year": 2024,
+    "dur": "106",
+    "date": "20/08/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
     ]
   },
   {
@@ -21,9 +35,10 @@
     "pais": "Austria-Francia-Reino Unido-Alemania-Dinamarca-Catar",
     "year": 2023,
     "dur": "110",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 3 Xoco",
     "times": [
+      "14:00",
       "21:00"
     ]
   },
@@ -35,10 +50,24 @@
     "pais": "Canadá",
     "year": 2022,
     "dur": "118",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00006862",
+    "movie": "El libro de las soluciones",
+    "int_name": "Le livre des solutions",
+    "dir": "Michel Gondry",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "103",
+    "date": "20/08/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:15"
     ]
   },
   {
@@ -49,7 +78,7 @@
     "pais": "Japón",
     "year": 2023,
     "dur": "106",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 3 Xoco",
     "times": [
       "16:30",
@@ -64,10 +93,24 @@
     "pais": "",
     "year": null,
     "dur": "",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 2 Xoco",
     "times": [
       "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007686",
+    "movie": "El tío",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "20/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
     ]
   },
   {
@@ -78,9 +121,10 @@
     "pais": "Reino Unido-Francia-Bélgica",
     "year": 2023,
     "dur": "113",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 2 Xoco",
     "times": [
+      "15:00",
       "17:30"
     ]
   },
@@ -92,7 +136,7 @@
     "pais": "Francia-Bélgica-Reino Unido-Rusia-Arabia Saudita",
     "year": 2023,
     "dur": "116",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 1 Xoco",
     "times": [
       "15:30",
@@ -107,25 +151,11 @@
     "pais": "Argentina",
     "year": 2023,
     "dur": "86",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 7 Xoco",
     "times": [
       "16:30",
       "21:00"
-    ]
-  },
-  {
-    "filmid": "HO00007560",
-    "movie": "Lobo y perro",
-    "int_name": "",
-    "dir": "",
-    "pais": "",
-    "year": null,
-    "dur": "",
-    "date": "19/08/2024",
-    "sala": "SALA 4 Xoco",
-    "times": [
-      "20:45"
     ]
   },
   {
@@ -136,9 +166,10 @@
     "pais": "",
     "year": null,
     "dur": "",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 7 Xoco",
     "times": [
+      "14:00",
       "18:30"
     ]
   },
@@ -150,10 +181,24 @@
     "pais": "México",
     "year": 2024,
     "dur": "98",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 10 Xoco",
     "times": [
       "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00006696",
+    "movie": "Música",
+    "int_name": "Music",
+    "dir": "Angela Schanelec",
+    "pais": "Alemania-Francia-Grecia-Serbia",
+    "year": 2023,
+    "dur": "108",
+    "date": "20/08/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30"
     ]
   },
   {
@@ -164,25 +209,10 @@
     "pais": "",
     "year": null,
     "dur": "",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "16:00"
-    ]
-  },
-  {
-    "filmid": "HO00006606",
-    "movie": "Teorema de tiempo",
-    "int_name": "Teorema de tiempo",
-    "dir": "Andrés Kaiser",
-    "pais": "México",
-    "year": 2022,
-    "dur": "90",
-    "date": "19/08/2024",
-    "sala": "SALA 6 Xoco",
-    "times": [
-      "16:30",
-      "18:30"
     ]
   },
   {
@@ -193,7 +223,7 @@
     "pais": "Francia",
     "year": 2023,
     "dur": "111",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 1 Xoco",
     "times": [
       "18:00"
@@ -207,10 +237,11 @@
     "pais": "México",
     "year": 2023,
     "dur": "83",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 10 Xoco",
     "times": [
-      "16:30"
+      "14:00",
+      "16:00"
     ]
   },
   {
@@ -221,57 +252,73 @@
     "pais": "México",
     "year": 2023,
     "dur": "99",
-    "date": "19/08/2024",
+    "date": "20/08/2024",
     "sala": "SALA 6 Xoco",
     "times": [
-      "20:30"
+      "15:00"
     ]
   },
   {
-    "filmid": "HO00007793",
-    "movie": "Cineclub: Underground había una vez un país...",
-    "int_name": "Underground",
-    "dir": "Emir Kusturica",
-    "pais": "Yugoslavia Yugoslavia",
-    "year": 1995,
-    "dur": "165",
-    "date": "19/08/2024",
+    "filmid": "HO00007792",
+    "movie": "Cineclub: Gato negro, gato blanco",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "20/08/2024",
     "sala": "SALA 5 Xoco",
     "times": []
   },
   {
-    "filmid": "HO00000729",
-    "movie": "Los siete samuráis",
-    "int_name": "Shichinin no samurai",
+    "filmid": "HO00007882",
+    "movie": "Presentación editorial: Constelación Buñuel",
+    "int_name": "Presentación editorial: Constelación Buñuel",
+    "dir": "José Luis Barrios Lara",
+    "pais": "México",
+    "year": 2024,
+    "dur": "60",
+    "date": "20/08/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007762",
+    "movie": "Dodeskaden",
+    "int_name": "Dodesukaden",
     "dir": "Akira Kurosawa",
     "pais": "Japón",
-    "year": 1954,
-    "dur": "207",
-    "date": "19/08/2024",
+    "year": 1970,
+    "dur": "140",
+    "date": "20/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00007756",
+    "movie": "Sanjuro",
+    "int_name": "Tsubaki Sanjūrō",
+    "dir": "Akira Kurosawa",
+    "pais": "Japón",
+    "year": 1962,
+    "dur": "96",
+    "date": "20/08/2024",
     "sala": "SALA 9 Xoco",
     "times": []
   },
   {
-    "filmid": "HO00007755",
-    "movie": "Yojimbo",
-    "int_name": "Yôjinbô",
-    "dir": "Akira Kurosawa",
-    "pais": "Japón",
-    "year": 1961,
-    "dur": "110",
-    "date": "19/08/2024",
-    "sala": "SALA 9 Xoco",
-    "times": []
-  },
-  {
-    "filmid": "HO00007830",
-    "movie": "Dos vidas",
-    "int_name": "O něčem jiném",
+    "filmid": "HO00007829",
+    "movie": "Panelstory o cómo nace una urbanizacion",
+    "int_name": "Panelstory aneb Jak se rodí sídliste",
     "dir": "Věra Chytilová",
     "pais": "Checoslovaquia",
-    "year": 1963,
-    "dur": "81",
-    "date": "19/08/2024",
+    "year": 1979,
+    "dur": "96",
+    "date": "20/08/2024",
     "sala": "SALA 10 Xoco",
     "times": [
       "18:30"

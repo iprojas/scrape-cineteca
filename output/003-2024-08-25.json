@@ -1,0 +1,40 @@
+[
+  {
+    "filmid": "HO00004728",
+    "movie": "Kagemusha, la sombra del guerreo",
+    "int_name": "Kagemusha",
+    "dir": "Akira Kurosawa",
+    "pais": "Japón",
+    "year": 1980,
+    "dur": "179",
+    "date": "25/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007881",
+    "movie": "Los sueños de Akira Kurosawa",
+    "int_name": "Yume",
+    "dir": "Akira Kurosawa.",
+    "pais": "Japón-Estados Unidos",
+    "year": 1990,
+    "dur": "120",
+    "date": "25/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00007244",
+    "movie": "Ran",
+    "int_name": "Ran",
+    "dir": "Akira Kurosawa.",
+    "pais": "Japón-Francia",
+    "year": 1985,
+    "dur": "160",
+    "date": "25/08/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  }
+]
