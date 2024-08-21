@@ -1,41 +1,18 @@
-import axios from 'axios';
-import { JSDOM } from 'jsdom';
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-import { parse, format } from 'date-fns';
-import { es } from 'date-fns/locale';
-import { execSync } from 'child_process';
-
-// Convert import.meta.url to a file path
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const urls = [
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(0)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(1)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(2)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(3)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(4)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(5)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=003&dia=${generateDate(6)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(0)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(1)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(2)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(3)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(4)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(5)}`,
-  `https://www.cinetecanacional.net/sedes/cartelera.php?cinemaId=002&dia=${generateDate(6)}`
-];
-
-function generateDate(offset) {
-  const today = new Date();
-  const targetDate = new Date(today.getTime() + offset * 24 * 60 * 60 * 1000);
-  const year = targetDate.getFullYear();
-  const month = String(targetDate.getMonth() + 1).padStart(2, '0');
-  const day = String(targetDate.getDate()).padStart(2, '0');
+function parseMovieInfo(infoText) {
+  // This regex attempts to match the typical pattern, but with more flexibility
+  const match = infoText.match(/\(([^,]*)(?:, Dir\.: ([^,]*))?(?:, ([^,]*))?(?:, (\d{4}))?(?:, Dur\.: ([^)]+))?\)/);
   
-  return `${year}-${month}-${day}`;
+  if (match) {
+    const int_name = match[1]?.trim() || "";
+    const dir = match[2]?.trim() || "";
+    const pais = match[3]?.trim() || "";
+    const year = match[4]?.trim() || "";
+    const dur = match[5]?.trim() || "";
+    return [int_name, dir, pais, year, dur];
+  }
+  
+  // Return default empty values if no match
+  return ["", "", "", "", ""];
 }
 
 async function fetchMovieData(url) {
@@ -46,19 +23,19 @@ async function fetchMovieData(url) {
 
     const movies = [];
     movieElements.forEach((element) => {
-      const anchorElement = element.children[0];
-      const filmid = anchorElement.href.match(/FilmId=([^&]+)/)?.[1] || "";
+      const anchorElement = element.querySelector("a");
+      const filmid = anchorElement?.href.match(/FilmId=([^&]+)/)?.[1] || "";
 
-      const movie = element.children[1].querySelector("p")?.textContent?.trim() || "";
+      const movie = element.querySelector("p.font-weight-bold")?.textContent?.trim() || "";
 
-      const infoText = element.children[2].textContent?.trim() || "";
+      const infoText = element.querySelector(".small")?.textContent?.trim() || "";
       const [int_name, dir, pais, year, dur] = parseMovieInfo(infoText);
 
-      const dateString = element.children[3].children[1].textContent?.trim() || "";
-      const date = format(parse(dateString, "EEEE d 'de' MMMM 'de' yyyy", new Date(), { locale: es }), 'dd/MM/yyyy');
+      const dateString = element.querySelector("p.pb-1 span.font-weight-bold")?.textContent?.trim() || "";
+      const date = dateString ? format(parse(dateString, "EEEE d 'de' MMMM 'de' yyyy", new Date(), { locale: es }), 'dd/MM/yyyy') : "";
 
-      const salaElement = element.children[3];
-      let sala = salaElement.childNodes[5]?.textContent?.trim() || "";
+      const salaElement = element.querySelector(".pb-1");
+      let sala = salaElement?.childNodes[5]?.textContent?.trim() || "";
       sala = sala.endsWith(":") ? sala.slice(0, -1) : sala;
 
       const times = Array.from(salaElement.querySelectorAll("a")).map(a => a.textContent?.trim() || "");
@@ -69,7 +46,7 @@ async function fetchMovieData(url) {
         int_name,
         dir,
         pais,
-        year: parseInt(year),
+        year: year ? parseInt(year) : null,
         dur: dur.replace(/\D/g, ''),
         date,
         sala,
@@ -83,69 +60,3 @@ async function fetchMovieData(url) {
     throw error;
   }
 }
-
-function parseMovieInfo(infoText) {
-  const match = infoText.match(/\(([^,]+), Dir\.: ([^,]+), ([^,]+), (\d{4}), Dur\.: ([^)]+)\)/);
-  if (match) {
-    const [, int_name, dir, pais, year, dur] = match;
-    return [int_name.trim(), dir.trim(), pais.trim(), year.trim(), dur.trim()];
-  }
-  return ["", "", "", "", ""];
-}
-
-function writeJSONFile(movies, cinemaId, date) {
-  const outputDir = path.join(__dirname, 'output');
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir);
-  }
-
-  const [year, month, day] = date.split('-');
-  const filePath = path.join(outputDir, `${cinemaId}-${year}-${month}-${day}.json`);
-
-  // Ensure the file exists, or create it
-  if (!fs.existsSync(filePath)) {
-    fs.writeFileSync(filePath, '[]');
-  }
-
-  fs.writeFileSync(filePath, JSON.stringify(movies, null, 2));
-  console.log(`Movie data has been written to ${filePath}`);
-
-  // Add the file to be committed later
-  gitAddFile(filePath);
-}
-
-function gitAddFile(filePath) {
-  try {
-    const gitAddCommand = `git add ${filePath}`;
-    console.log(`Running command: ${gitAddCommand}`);
-    execSync(gitAddCommand, { stdio: 'inherit' });
-  } catch (error) {
-    console.error(`Error adding file ${filePath} to Git:`, error.message);
-    console.error('Stack Trace:', error.stack);
-  }
-}
-
-async function main() {
-  let changesMade = false;
-  for (const url of urls) {
-    const cinemaIdMatch = url.match(/cinemaId=(\d+)/);
-    const dateMatch = url.match(/dia=(\d{4}-\d{2}-\d{2})/);
-
-    if (cinemaIdMatch && dateMatch) {
-      const cinemaId = cinemaIdMatch[1];
-      const date = dateMatch[1];
-
-      const movies = await fetchMovieData(url);
-      writeJSONFile(movies, cinemaId, date);
-      changesMade = true;
-    }
-  }
-
-  if (changesMade) {
-    console.log("Changes detected and committed.");
-  } else {
-    console.log("No changes were made.");
-  }
-}
-
-main();
