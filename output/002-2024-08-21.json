@@ -48,11 +48,11 @@
   {
     "filmid": "HO00007689",
     "movie": "El sacrificio",
-    "int_name": "",
-    "dir": "",
-    "pais": "",
-    "year": null,
-    "dur": "",
+    "int_name": "El sacrificio",
+    "dir": "Andrei Tarkovsky",
+    "pais": "Francia",
+    "year": 1986,
+    "dur": "149",
     "date": "21/08/2024",
     "sala": "SALA 4 CNA",
     "times": [
@@ -252,11 +252,11 @@
   {
     "filmid": "HO00007884",
     "movie": "Cenizo/Carne de Dios/Nisei(segunda generación)",
-    "int_name": "",
-    "dir": "",
+    "int_name": "Programa IMCINE 2024",
+    "dir": "Varios",
     "pais": "",
-    "year": null,
-    "dur": "",
+    "year": 2024,
+    "dur": "83",
     "date": "21/08/2024",
     "sala": "SALA 5 CNA",
     "times": [
@@ -308,11 +308,11 @@
   {
     "filmid": "HO00007745",
     "movie": "Las Nubes son de Música/ Bombones/ Espero que",
-    "int_name": "",
-    "dir": "",
+    "int_name": "Programa de Cortos 10",
+    "dir": "Varios",
     "pais": "",
-    "year": null,
-    "dur": "",
+    "year": 2010,
+    "dur": "62",
     "date": "21/08/2024",
     "sala": "SALA 11 CNA",
     "times": [

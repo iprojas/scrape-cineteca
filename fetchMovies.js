@@ -51,7 +51,7 @@ async function fetchMovieData(url) {
 
       const movie = element.children[1].querySelector("p")?.textContent?.trim() || "";
 
-      const infoText = element.children[2].textContent?.trim() || "";
+      const infoText = element.querySelector("div.small")?.textContent?.trim() || "";
       const [int_name, dir, pais, year, dur] = parseMovieInfo(infoText);
 
       const dateString = element.children[3].children[1].textContent?.trim() || "";
@@ -85,13 +85,15 @@ async function fetchMovieData(url) {
 }
 
 function parseMovieInfo(infoText) {
-  const match = infoText.match(/\(([^,]+), Dir\.: ([^,]+), ([^,]+), (\d{4}), Dur\.: ([^)]+)\)/);
-  if (match) {
-    const [, int_name, dir, pais, year, dur] = match;
-    return [int_name.trim(), dir.trim(), pais.trim(), year.trim(), dur.trim()];
-  }
-  return ["", "", "", "", ""];
+  const int_name = infoText.match(/\(([^,]+)/)?.[1]?.trim() || "";
+  const dir = infoText.match(/Dir\.: ([^,]+)/)?.[1]?.trim() || "";
+  const pais = infoText.match(/, ([^,]+), (\d{4}),/i)?.[1]?.trim() || "";
+  const year = infoText.match(/(\d{4})/)?.[0]?.trim() || "";
+  const dur = infoText.match(/Dur\.: ([^)]+)\)/)?.[1]?.trim() || "";
+
+  return [int_name, dir, pais, year, dur];
 }
+
 
 function writeJSONFile(movies, cinemaId, date) {
   const outputDir = path.join(__dirname, 'output');
