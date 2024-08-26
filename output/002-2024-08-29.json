@@ -7,7 +7,7 @@
     "pais": "México",
     "year": 2014,
     "dur": "80",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 11 CNA",
     "times": [
       "14:30"
@@ -21,7 +21,7 @@
     "pais": "México",
     "year": 2022,
     "dur": "97",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 6 CNA",
     "times": [
       "15:20",
@@ -37,7 +37,7 @@
     "pais": "Estados Unidos",
     "year": 2018,
     "dur": "93",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 4 CNA",
     "times": [
       "15:30",
@@ -52,7 +52,7 @@
     "pais": "Francia",
     "year": 1986,
     "dur": "149",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 4 CNA",
     "times": [
       "18:00"
@@ -66,7 +66,7 @@
     "pais": "Reino Unido-Francia-Bélgica",
     "year": 2023,
     "dur": "113",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 3 CNA",
     "times": [
       "17:20"
@@ -80,7 +80,7 @@
     "pais": "Corea del Sur",
     "year": 2024,
     "dur": "134",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 10 CNA",
     "times": [
       "14:00",
@@ -95,7 +95,7 @@
     "pais": "Estados Unidos-Japón",
     "year": 2024,
     "dur": "100",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 7 CNA",
     "times": [
       "16:20",
@@ -110,7 +110,7 @@
     "pais": "Francia-Bélgica-Reino Unido-Rusia-Arabia Saudita",
     "year": 2023,
     "dur": "116",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 2 CNA",
     "times": [
       "13:50",
@@ -125,7 +125,7 @@
     "pais": "Estados Unidos",
     "year": 1979,
     "dur": "93",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 7 CNA",
     "times": [
       "14:20",
@@ -140,11 +140,11 @@
     "pais": "España-Estonia",
     "year": 2022,
     "dur": "115",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 3 CNA",
     "times": [
       "14:40",
-      "19:50"
+      "19:40"
     ]
   },
   {
@@ -155,7 +155,7 @@
     "pais": "España-Francia",
     "year": 2023,
     "dur": "95",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 10 CNA",
     "times": [
       "16:40"
@@ -169,14 +169,12 @@
     "pais": "México",
     "year": 2022,
     "dur": "53",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 5 CNA",
     "times": [
-      "14:30",
-      "15:50",
-      "17:40",
-      "19:00",
-      "20:50"
+      "14:00",
+      "17:20",
+      "20:30"
     ]
   },
   {
@@ -187,7 +185,7 @@
     "pais": "México",
     "year": 2007,
     "dur": "98",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 1 CNA",
     "times": [
       "15:00",
@@ -202,7 +200,7 @@
     "pais": "México",
     "year": 2016,
     "dur": "105",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 9 CNA",
     "times": [
       "14:20"
@@ -216,7 +214,7 @@
     "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
     "year": 2024,
     "dur": "164",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 12 CNA",
     "times": [
       "13:40",
@@ -232,24 +230,24 @@
     "pais": "Francia",
     "year": 2023,
     "dur": "111",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 2 CNA",
     "times": [
       "16:10"
     ]
   },
   {
-    "filmid": "HO00007436",
-    "movie": "Conferencia 50 años CNA",
-    "int_name": "La camarista",
-    "dir": "Lila Avilés",
+    "filmid": "HO00007743",
+    "movie": "Cine Creación: El Lugar Sin Limites",
+    "int_name": "El lugar sin límites",
+    "dir": "Arturo Ripstein",
     "pais": "México",
-    "year": 2018,
-    "dur": "102",
-    "date": "27/08/2024",
-    "sala": "SALA 9 CNA",
+    "year": 1978,
+    "dur": "110",
+    "date": "29/08/2024",
+    "sala": "SALA 11 CNA",
     "times": [
-      "17:00"
+      "18:00"
     ]
   },
   {
@@ -260,7 +258,7 @@
     "pais": "",
     "year": 2010,
     "dur": "62",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 11 CNA",
     "times": [
       "13:00"
@@ -274,7 +272,7 @@
     "pais": "España-Alemania-Italia-Países Bajos",
     "year": 2022,
     "dur": "85",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 8 CNA",
     "times": [
       "14:10",
@@ -289,7 +287,7 @@
     "pais": "Chile-Francia",
     "year": 2022,
     "dur": "110",
-    "date": "27/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 8 CNA",
     "times": [
       "16:00",
@@ -297,14 +295,14 @@
     ]
   },
   {
-    "filmid": "HO00007894",
-    "movie": "Domo",
-    "int_name": "Domo",
-    "dir": "Tayo Cortés",
-    "pais": "Colombia",
+    "filmid": "HO00007896",
+    "movie": "Cortometrajes Mexicanos 2",
+    "int_name": "Cortometrajes Mexicanos. Programa 2",
+    "dir": "Varios",
+    "pais": "",
     "year": 2023,
-    "dur": "95",
-    "date": "27/08/2024",
+    "dur": "100",
+    "date": "29/08/2024",
     "sala": "SALA 1 CNA",
     "times": [
       "20:00"

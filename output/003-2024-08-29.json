@@ -7,10 +7,10 @@
     "pais": "México",
     "year": 2022,
     "dur": "80",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 10 Xoco",
     "times": [
-      "14:45"
+      "15:30"
     ]
   },
   {
@@ -21,7 +21,7 @@
     "pais": "Paraguay-México",
     "year": 2022,
     "dur": "88",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 6 Xoco",
     "times": [
       "14:30",
@@ -36,10 +36,10 @@
     "pais": "Canadá",
     "year": 2022,
     "dur": "118",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
-      "16:30"
+      "16:00"
     ]
   },
   {
@@ -50,7 +50,7 @@
     "pais": "Japón",
     "year": 2023,
     "dur": "106",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 2 Xoco",
     "times": [
       "17:45"
@@ -64,10 +64,24 @@
     "pais": "Francia",
     "year": 1986,
     "dur": "149",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 9 Xoco",
     "times": [
       "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007685",
+    "movie": "El último bar",
+    "int_name": "The Old Oak",
+    "dir": "Ken Loach",
+    "pais": "Reino Unido-Francia-Bélgica",
+    "year": 2023,
+    "dur": "113",
+    "date": "29/08/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
     ]
   },
   {
@@ -78,25 +92,10 @@
     "pais": "Uruguay",
     "year": 2022,
     "dur": "81",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
-      "14:30",
-      "19:00"
-    ]
-  },
-  {
-    "filmid": "HO00007683",
-    "movie": "La favorita del rey",
-    "int_name": "Jeanne du Barry",
-    "dir": "Maïwenn",
-    "pais": "Francia-Bélgica-Reino Unido-Rusia-Arabia Saudita",
-    "year": 2023,
-    "dur": "116",
-    "date": "26/08/2024",
-    "sala": "SALA 4 Xoco",
-    "times": [
-      "15:00"
+      "18:30"
     ]
   },
   {
@@ -107,25 +106,10 @@
     "pais": "Argentina",
     "year": 2023,
     "dur": "86",
-    "date": "26/08/2024",
-    "sala": "SALA 7 Xoco",
+    "date": "29/08/2024",
+    "sala": "SALA 9 Xoco",
     "times": [
-      "14:00"
-    ]
-  },
-  {
-    "filmid": "HO00007000",
-    "movie": "Los Bilbao",
-    "int_name": "Los Bilbao",
-    "dir": "Pedro Speroni",
-    "pais": "Argentina",
-    "year": 2023,
-    "dur": "74",
-    "date": "26/08/2024",
-    "sala": "SALA 5 Xoco",
-    "times": [
-      "14:45",
-      "18:45"
+      "16:00"
     ]
   },
   {
@@ -136,7 +120,7 @@
     "pais": "Arabia Saudita",
     "year": 2022,
     "dur": "117",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "21:00"
@@ -150,10 +134,10 @@
     "pais": "Brasil-Francia-Alemania",
     "year": 2024,
     "dur": "112",
-    "date": "26/08/2024",
-    "sala": "SALA 7 Xoco",
+    "date": "29/08/2024",
+    "sala": "SALA 9 Xoco",
     "times": [
-      "16:00"
+      "18:00"
     ]
   },
   {
@@ -164,11 +148,10 @@
     "pais": "Estados Unidos",
     "year": 2022,
     "dur": "83",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 5 Xoco",
     "times": [
-      "16:45",
-      "20:45"
+      "14:30"
     ]
   },
   {
@@ -179,10 +162,10 @@
     "pais": "Argentina",
     "year": 2022,
     "dur": "100",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 10 Xoco",
     "times": [
-      "16:45"
+      "17:30"
     ]
   },
   {
@@ -193,7 +176,7 @@
     "pais": "México",
     "year": 2022,
     "dur": "90",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 6 Xoco",
     "times": [
       "16:30"
@@ -207,7 +190,7 @@
     "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
     "year": 2024,
     "dur": "164",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 2 Xoco",
     "times": [
       "14:30",
@@ -222,10 +205,10 @@
     "pais": "México",
     "year": 2023,
     "dur": "83",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 9 Xoco",
     "times": [
-      "16:15"
+      "14:00"
     ]
   },
   {
@@ -236,23 +219,11 @@
     "pais": "México",
     "year": 2023,
     "dur": "99",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 6 Xoco",
     "times": [
       "20:30"
     ]
-  },
-  {
-    "filmid": "HO00007947",
-    "movie": "50 aniversario UAM",
-    "int_name": "",
-    "dir": "",
-    "pais": "",
-    "year": null,
-    "dur": "",
-    "date": "26/08/2024",
-    "sala": "SALA 10 Xoco",
-    "times": []
   },
   {
     "filmid": "HO00007078",
@@ -262,39 +233,38 @@
     "pais": "Uruguay",
     "year": 2022,
     "dur": "81",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 8 Xoco",
     "times": [
-      "14:30",
-      "19:00"
+      "18:30"
     ]
   },
   {
-    "filmid": "HO00000620",
-    "movie": "Cineclub: El ciudadano Kane",
-    "int_name": "Citizen Kane",
-    "dir": "Orson Welles",
-    "pais": "EUA",
-    "year": 1941,
-    "dur": "119",
-    "date": "26/08/2024",
+    "filmid": "HO00005197",
+    "movie": "Cineclub: 8 1/2",
+    "int_name": "Otto e mezzo",
+    "dir": "Federico Fellini",
+    "pais": "Italia-Francia",
+    "year": 1963,
+    "dur": "140",
+    "date": "29/08/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00007207",
+    "movie": "Conversando con Nuestros Cineastas 2024",
+    "int_name": "Tótem",
+    "dir": "Lila Avilés",
+    "pais": "México",
+    "year": 2023,
+    "dur": "95",
+    "date": "29/08/2024",
     "sala": "SALA 4 Xoco",
     "times": [
       "18:00"
-    ]
-  },
-  {
-    "filmid": "HO00007756",
-    "movie": "Sanjuro",
-    "int_name": "Tsubaki Sanjūrō",
-    "dir": "Akira Kurosawa",
-    "pais": "Japón",
-    "year": 1962,
-    "dur": "96",
-    "date": "26/08/2024",
-    "sala": "SALA 9 Xoco",
-    "times": [
-      "18:15"
     ]
   },
   {
@@ -305,11 +275,10 @@
     "pais": "Dinamarca",
     "year": 1984,
     "dur": "104",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 3 Xoco",
     "times": [
-      "16:00",
-      "21:00"
+      "18:30"
     ]
   },
   {
@@ -320,52 +289,67 @@
     "pais": "Dinamarca-Suecia-Francia-Alemania-Suiza",
     "year": 1991,
     "dur": "112",
-    "date": "26/08/2024",
+    "date": "29/08/2024",
     "sala": "SALA 3 Xoco",
     "times": [
-      "18:30"
+      "16:00",
+      "21:00"
     ]
   },
   {
-    "filmid": "HO00007853",
-    "movie": "Breathing in",
-    "int_name": "Breathing in",
-    "dir": "Jaco Bouwer",
-    "pais": "Sudáfrica",
-    "year": 2023,
-    "dur": "101",
-    "date": "26/08/2024",
+    "filmid": "HO00007862",
+    "movie": "Birdboy / Psiconautas: los niños olvidados",
+    "int_name": "Birdboy / psiconautas: los niños olvidados",
+    "dir": "Alberto Vázquez",
+    "pais": "",
+    "year": 2010,
+    "dur": "87",
+    "date": "29/08/2024",
     "sala": "SALA 1 Xoco",
     "times": [
       "18:00"
     ]
   },
   {
-    "filmid": "HO00007923",
-    "movie": "M",
-    "int_name": "M",
-    "dir": "Vardan Tozija",
-    "pais": "",
-    "year": null,
-    "dur": "99",
-    "date": "26/08/2024",
+    "filmid": "HO00007861",
+    "movie": "Breed of greed",
+    "int_name": "Breed of greed",
+    "dir": "Ralph Hemecker",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "115",
+    "date": "29/08/2024",
     "sala": "SALA 1 Xoco",
     "times": [
       "15:30"
     ]
   },
   {
-    "filmid": "HO00007854",
-    "movie": "Pesadilla maligna",
-    "int_name": "NIGHTMARE",
-    "dir": "Kjersti Helen Rasmussen",
-    "pais": "Noruega",
-    "year": 2022,
-    "dur": "100",
-    "date": "26/08/2024",
+    "filmid": "HO00007863",
+    "movie": "El hoyo",
+    "int_name": "El hoyo",
+    "dir": "Galder Gaztelu-Urrutia",
+    "pais": "España",
+    "year": 2019,
+    "dur": "94",
+    "date": "29/08/2024",
     "sala": "SALA 1 Xoco",
     "times": [
       "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007924",
+    "movie": "La hembrita",
+    "int_name": "La hembrita",
+    "dir": "Laura Amelia Guzmán",
+    "pais": "República Dominicana",
+    "year": 2023,
+    "dur": "92",
+    "date": "29/08/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:00"
     ]
   }
 ]
