@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00006134",
+    "movie": "Coraje",
+    "int_name": "Coraje",
+    "dir": "Rubén Rojo Aura",
+    "pais": "España",
+    "year": 2022,
+    "dur": "90",
+    "date": "06/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007775",
+    "movie": "Hypnosis",
+    "int_name": "Hypnosis",
+    "dir": "Ernst De Geer",
+    "pais": "Suecia",
+    "year": 2023,
+    "dur": "98",
+    "date": "06/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "filmid": "HO00007739",
+    "movie": "Armas Blancas",
+    "int_name": "Armas blancas",
+    "dir": "Mariana Musalem Ramos",
+    "pais": "México",
+    "year": 2022,
+    "dur": "80",
+    "date": "04/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007784",
+    "movie": "Demasiada ternura",
+    "int_name": "So much tenderness",
+    "dir": "Lina Rodriguez",
+    "pais": "Canadá",
+    "year": 2022,
+    "dur": "118",
+    "date": "04/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "04/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007689",
+    "movie": "El sacrificio",
+    "int_name": "El sacrificio",
+    "dir": "Andrei Tarkovsky",
+    "pais": "Francia",
+    "year": 1986,
+    "dur": "149",
+    "date": "04/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007686",
+    "movie": "El tío",
+    "int_name": "Stric",
+    "dir": "David Kapac",
+    "pais": "Croacia-Serbia",
+    "year": 2022,
+    "dur": "104",
+    "date": "04/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007685",
+    "movie": "El último bar",
+    "int_name": "The Old Oak",
+    "dir": "Ken Loach",
+    "pais": "Reino Unido-Francia-Bélgica",
+    "year": 2023,
+    "dur": "113",
+    "date": "04/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00007078",
+    "movie": "Ida Vitale",
+    "int_name": "Ida Vitale",
+    "dir": "María Arrillaga",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "81",
+    "date": "04/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007683",
+    "movie": "La favorita del rey",
+    "int_name": "Jeanne du Barry",
+    "dir": "Maïwenn",
+    "pais": "Francia-Bélgica-Reino Unido-Rusia-Arabia Saudita",
+    "year": 2023,
+    "dur": "116",
+    "date": "04/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007783",
+    "movie": "La sudestada",
+    "int_name": "La sudestada",
+    "dir": "Daniel Casabé y Edgardo Dieleke",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "04/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00007000",
+    "movie": "Los Bilbao",
+    "int_name": "Los Bilbao",
+    "dir": "Pedro Speroni",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "74",
+    "date": "04/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00006777",
+    "movie": "Los Jardines colgantes",
+    "int_name": "Janain mualaqa",
+    "dir": "Ahmed Al-Daradji",
+    "pais": "Arabia Saudita",
+    "year": 2022,
+    "dur": "117",
+    "date": "04/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007786",
+    "movie": "Motel Destino",
+    "int_name": "Motel Destino",
+    "dir": "Karim Aïnouz",
+    "pais": "Brasil-Francia-Alemania",
+    "year": 2024,
+    "dur": "112",
+    "date": "04/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00007680",
+    "movie": "Mr. London Night",
+    "int_name": "Mr. London Night",
+    "dir": "Rafael Rangel",
+    "pais": "México",
+    "year": 2024,
+    "dur": "98",
+    "date": "04/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00006197",
+    "movie": "Sansón y yo",
+    "int_name": "Sansón y yo",
+    "dir": "Rodrigo Reyes",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "83",
+    "date": "04/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00006784",
+    "movie": "Sublime",
+    "int_name": "Sublime",
+    "dir": "Mariano Biasin",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "100",
+    "date": "04/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00006606",
+    "movie": "Teorema de tiempo",
+    "int_name": "Teorema de tiempo",
+    "dir": "Andrés Kaiser",
+    "pais": "México",
+    "year": 2022,
+    "dur": "90",
+    "date": "04/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "04/09/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:30",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00006868",
+    "movie": "Un trabajo en serio",
+    "int_name": "Un métier sérieux",
+    "dir": "Thomas Lilti",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "111",
+    "date": "04/09/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007316",
+    "movie": "Conferencia Cineteca Nacional 50 años",
+    "int_name": "El esqueleto de la señora Morales",
+    "dir": "Rogelio A. González",
+    "pais": "México",
+    "year": 1960,
+    "dur": "85",
+    "date": "04/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007718",
+    "movie": "Melancolía",
+    "int_name": "Melancholia",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Francia-Alemania",
+    "year": 2011,
+    "dur": "136",
+    "date": "04/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:00",
+      "17:45",
+      "20:30"
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "filmid": "HO00000283",
+    "movie": "Carmín Tropical",
+    "int_name": "Carmín tropical",
+    "dir": "Rigoberto Perezcano",
+    "pais": "México",
+    "year": 2014,
+    "dur": "80",
+    "date": "05/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:20"
+    ]
+  },
+  {
+    "filmid": "HO00007737",
+    "movie": "Celeste Soledad",
+    "int_name": "Celeste soledad",
+    "dir": "Alex Argüelles",
+    "pais": "México",
+    "year": 2022,
+    "dur": "97",
+    "date": "05/09/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "15:10",
+      "17:40",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00007785",
+    "movie": "Desolation Center",
+    "int_name": "Desolation Center",
+    "dir": "Stuart Swezey",
+    "pais": "Estados Unidos",
+    "year": 2018,
+    "dur": "93",
+    "date": "05/09/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "05/09/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "14:30",
+      "16:40",
+      "18:50",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007689",
+    "movie": "El sacrificio",
+    "int_name": "El sacrificio",
+    "dir": "Andrei Tarkovsky",
+    "pais": "Francia",
+    "year": 1986,
+    "dur": "149",
+    "date": "05/09/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007685",
+    "movie": "El último bar",
+    "int_name": "The Old Oak",
+    "dir": "Ken Loach",
+    "pais": "Reino Unido-Francia-Bélgica",
+    "year": 2023,
+    "dur": "113",
+    "date": "05/09/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "17:20"
+    ]
+  },
+  {
+    "filmid": "HO00007750",
+    "movie": "El Último Canto del Pájaro/La Carta/ Camille/ Amor",
+    "int_name": "IMCINE 2024: Programa de Cortos 11",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "58",
+    "date": "05/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:50"
+    ]
+  },
+  {
+    "filmid": "HO00007580",
+    "movie": "Exhuma la tumba del diablo",
+    "int_name": "Pa-myo",
+    "dir": "Jang Jae-hyun",
+    "pais": "Corea del Sur",
+    "year": 2024,
+    "dur": "134",
+    "date": "05/09/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:00",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00007683",
+    "movie": "La favorita del rey",
+    "int_name": "Jeanne du Barry",
+    "dir": "Maïwenn",
+    "pais": "Francia-Bélgica-Reino Unido-Rusia-Arabia Saudita",
+    "year": 2023,
+    "dur": "116",
+    "date": "05/09/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:40",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00006475",
+    "movie": "Los Guerreros",
+    "int_name": "The Warriors",
+    "dir": "Walter Hill",
+    "pais": "Estados Unidos",
+    "year": 1979,
+    "dur": "93",
+    "date": "05/09/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:10",
+      "16:20",
+      "18:30",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00007687",
+    "movie": "Mantícora",
+    "int_name": "Mantícora",
+    "dir": "Carlos Vermut",
+    "pais": "España-Estonia",
+    "year": 2022,
+    "dur": "115",
+    "date": "05/09/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:50",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00007272",
+    "movie": "Mi amigo el robot",
+    "int_name": "Robot Dreams",
+    "dir": "Pablo Berger",
+    "pais": "España-Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "05/09/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "16:40"
+    ]
+  },
+  {
+    "filmid": "HO00007087",
+    "movie": "Norte",
+    "int_name": "Norte",
+    "dir": "Natalia Bermúdez",
+    "pais": "México",
+    "year": 2022,
+    "dur": "53",
+    "date": "05/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:10",
+      "15:30",
+      "17:10",
+      "19:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007704",
+    "movie": "Párpados azules",
+    "int_name": "Párpados azules",
+    "dir": "Ernesto Contreras",
+    "pais": "México",
+    "year": 2007,
+    "dur": "98",
+    "date": "05/09/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:40",
+      "17:00",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00002067",
+    "movie": "Tempestad",
+    "int_name": "Tempestad",
+    "dir": "Tatiana Huezo",
+    "pais": "México",
+    "year": 2016,
+    "dur": "105",
+    "date": "05/09/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:20"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "05/09/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "16:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00006868",
+    "movie": "Un trabajo en serio",
+    "int_name": "Un métier sérieux",
+    "dir": "Thomas Lilti",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "111",
+    "date": "05/09/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007746",
+    "movie": "Cine Creación: Nocaut",
+    "int_name": "Nocaut",
+    "dir": "José Luis García Agraz",
+    "pais": "México",
+    "year": 1984,
+    "dur": "110",
+    "date": "05/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "18:00"
+    ]
+  }
+]

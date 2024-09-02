@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00006134",
+    "movie": "Coraje",
+    "int_name": "Coraje",
+    "dir": "Rubén Rojo Aura",
+    "pais": "España",
+    "year": 2022,
+    "dur": "90",
+    "date": "07/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007775",
+    "movie": "Hypnosis",
+    "int_name": "Hypnosis",
+    "dir": "Ernst De Geer",
+    "pais": "Suecia",
+    "year": 2023,
+    "dur": "98",
+    "date": "07/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "07/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007902",
+    "movie": "Una canción nocturna (a tres voces)",
+    "int_name": "An Evening Song (For Three Voices)",
+    "dir": "Graham Swon",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "86",
+    "date": "07/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  }
+]
