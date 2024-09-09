@@ -1,0 +1,266 @@
+[
+  {
+    "filmid": "HO00005710",
+    "movie": "Boreal",
+    "int_name": "Boreal",
+    "dir": "Federico Adorno",
+    "pais": "Paraguay-México",
+    "year": 2022,
+    "dur": "88",
+    "date": "12/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00006528",
+    "movie": "Cielo rojo",
+    "int_name": "Roter Himmel",
+    "dir": "Christian Petzold",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "12/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "12/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007765",
+    "movie": "El mal no existe",
+    "int_name": "Aku wa Sonzai Shinai",
+    "dir": "Ryūsuke Hamaguchi",
+    "pais": "Japón",
+    "year": 2023,
+    "dur": "106",
+    "date": "12/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00007783",
+    "movie": "La sudestada",
+    "int_name": "La sudestada",
+    "dir": "Daniel Casabé y Edgardo Dieleke",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "12/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007000",
+    "movie": "Los Bilbao",
+    "int_name": "Los Bilbao",
+    "dir": "Pedro Speroni",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "74",
+    "date": "12/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00006777",
+    "movie": "Los Jardines colgantes",
+    "int_name": "Janain mualaqa",
+    "dir": "Ahmed Al-Daradji",
+    "pais": "Arabia Saudita",
+    "year": 2022,
+    "dur": "117",
+    "date": "12/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00006784",
+    "movie": "Sublime",
+    "int_name": "Sublime",
+    "dir": "Mariano Biasin",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "100",
+    "date": "12/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "12/09/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00",
+      "17:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007315",
+    "movie": "Tres colores: azul",
+    "int_name": "Trois couleurs: Bleu",
+    "dir": "Krzysztof Kieślowski",
+    "pais": "Francia-Polonia-Suiza",
+    "year": 1993,
+    "dur": "94",
+    "date": "12/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:15",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00005531",
+    "movie": "Cineclub: La sombra del caudillo",
+    "int_name": "La sombra del caudillo",
+    "dir": "Julio Bracho",
+    "pais": "México",
+    "year": 1960,
+    "dur": "130",
+    "date": "12/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007718",
+    "movie": "Melancolía",
+    "int_name": "Melancholia",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Francia-Alemania",
+    "year": 2011,
+    "dur": "136",
+    "date": "12/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:00",
+      "17:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007903",
+    "movie": "Historia de pastores",
+    "int_name": "Historia de pastores",
+    "dir": "Jaime Puertas Castillo",
+    "pais": "España",
+    "year": 2024,
+    "dur": "80",
+    "date": "12/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "12/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "12/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "12/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007902",
+    "movie": "Una canción nocturna (a tres voces)",
+    "int_name": "An Evening Song (For Three Voices)",
+    "dir": "Graham Swon",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "86",
+    "date": "12/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007905",
+    "movie": "Vergüenza",
+    "int_name": "Vergüenza",
+    "dir": "Miguel Salgado",
+    "pais": "México",
+    "year": 2023,
+    "dur": "103",
+    "date": "12/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  }
+]

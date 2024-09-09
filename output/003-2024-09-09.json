@@ -1,0 +1,324 @@
+[
+  {
+    "filmid": "HO00007739",
+    "movie": "Armas Blancas",
+    "int_name": "Armas blancas",
+    "dir": "Mariana Musalem Ramos",
+    "pais": "México",
+    "year": 2022,
+    "dur": "80",
+    "date": "09/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00005710",
+    "movie": "Boreal",
+    "int_name": "Boreal",
+    "dir": "Federico Adorno",
+    "pais": "Paraguay-México",
+    "year": 2022,
+    "dur": "88",
+    "date": "09/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00006528",
+    "movie": "Cielo rojo",
+    "int_name": "Roter Himmel",
+    "dir": "Christian Petzold",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "09/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007686",
+    "movie": "El tío",
+    "int_name": "Stric",
+    "dir": "David Kapac",
+    "pais": "Croacia-Serbia",
+    "year": 2022,
+    "dur": "104",
+    "date": "09/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007685",
+    "movie": "El último bar",
+    "int_name": "The Old Oak",
+    "dir": "Ken Loach",
+    "pais": "Reino Unido-Francia-Bélgica",
+    "year": 2023,
+    "dur": "113",
+    "date": "09/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00007078",
+    "movie": "Ida Vitale",
+    "int_name": "Ida Vitale",
+    "dir": "María Arrillaga",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "81",
+    "date": "09/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007000",
+    "movie": "Los Bilbao",
+    "int_name": "Los Bilbao",
+    "dir": "Pedro Speroni",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "74",
+    "date": "09/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "09/09/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00",
+      "17:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007315",
+    "movie": "Tres colores: azul",
+    "int_name": "Trois couleurs: Bleu",
+    "dir": "Krzysztof Kieślowski",
+    "pais": "Francia-Polonia-Suiza",
+    "year": 1993,
+    "dur": "94",
+    "date": "09/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:15",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00000685",
+    "movie": "Cineclub: El séptimo sello",
+    "int_name": "Det sjunde inseglet",
+    "dir": "Ingmar Bergman",
+    "pais": "Suecia",
+    "year": 1957,
+    "dur": "92",
+    "date": "09/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007723",
+    "movie": "Bailando en la oscuridad",
+    "int_name": "Dancer in the Dark",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Alemania-Países Bajos-Italia-Estados Unidos-Reino Unido-Francia-Suecia-Finlandia-Islandia-Noruega",
+    "year": 2000,
+    "dur": "140",
+    "date": "09/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007722",
+    "movie": "Dogville",
+    "int_name": "Dogville",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Reino Unido-Francia-Alemania-Países Bajos",
+    "year": 2003,
+    "dur": "171",
+    "date": "09/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00006134",
+    "movie": "Coraje",
+    "int_name": "Coraje",
+    "dir": "Rubén Rojo Aura",
+    "pais": "España",
+    "year": 2022,
+    "dur": "90",
+    "date": "09/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007903",
+    "movie": "Historia de pastores",
+    "int_name": "Historia de pastores",
+    "dir": "Jaime Puertas Castillo",
+    "pais": "España",
+    "year": 2024,
+    "dur": "80",
+    "date": "09/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007775",
+    "movie": "Hypnosis",
+    "int_name": "Hypnosis",
+    "dir": "Ernst De Geer",
+    "pais": "Suecia",
+    "year": 2023,
+    "dur": "98",
+    "date": "09/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "09/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "09/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007902",
+    "movie": "Una canción nocturna (a tres voces)",
+    "int_name": "An Evening Song (For Three Voices)",
+    "dir": "Graham Swon",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "86",
+    "date": "09/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007978",
+    "movie": "Shorts 2024:Competencia mexicana de ficción 6",
+    "int_name": "Shorts 2024:Competencia mexicana de ficción 6",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "70",
+    "date": "09/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007979",
+    "movie": "Shorts 2024:Competencia mexicana de ficción 7",
+    "int_name": "Shorts 2024:Competencia mexicana de ficción 7",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "76",
+    "date": "09/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007976",
+    "movie": "Shorts 2024:Muestra mexicana experimental 1",
+    "int_name": "Shorts 2024:Muestra mexicana experimental 1",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "63",
+    "date": "09/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007977",
+    "movie": "Shorts 2024:Queer shorts cine LGBTTTQ+ 6",
+    "int_name": "Shorts 2024:Queer shorts cine LGBTTTQ+ 6",
+    "dir": "Varios",
+    "pais": "México",
+    "year": 2024,
+    "dur": "77",
+    "date": "09/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:00"
+    ]
+  }
+]

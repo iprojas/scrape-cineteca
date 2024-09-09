@@ -1,0 +1,92 @@
+[
+  {
+    "filmid": "HO00007766",
+    "movie": "An endless sunday",
+    "int_name": "An Endless Sunday",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania-Irlanda",
+    "year": 2023,
+    "dur": "115",
+    "date": "13/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007903",
+    "movie": "Historia de pastores",
+    "int_name": "Historia de pastores",
+    "dir": "Jaime Puertas Castillo",
+    "pais": "España",
+    "year": 2024,
+    "dur": "80",
+    "date": "13/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "13/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007907",
+    "movie": "La otra piel",
+    "int_name": "La otra piel",
+    "dir": "Patricia Correa",
+    "pais": "Chile-Colombia",
+    "year": 2024,
+    "dur": "70",
+    "date": "13/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00",
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "13/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007905",
+    "movie": "Vergüenza",
+    "int_name": "Vergüenza",
+    "dir": "Miguel Salgado",
+    "pais": "México",
+    "year": 2023,
+    "dur": "103",
+    "date": "13/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "filmid": "HO00007737",
+    "movie": "Celeste Soledad",
+    "int_name": "Celeste soledad",
+    "dir": "Alex Argüelles",
+    "pais": "México",
+    "year": 2022,
+    "dur": "97",
+    "date": "11/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00007725",
+    "movie": "Contra viento y marea",
+    "int_name": "Breaking the Waves",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Francia-Países Bajos-Noruega-Islandia-España-Reino Unido",
+    "year": 1996,
+    "dur": "159",
+    "date": "11/09/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:00",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00007785",
+    "movie": "Desolation Center",
+    "int_name": "Desolation Center",
+    "dir": "Stuart Swezey",
+    "pais": "Estados Unidos",
+    "year": 2018,
+    "dur": "93",
+    "date": "11/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "12:40"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "11/09/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:00",
+      "17:10",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00004811",
+    "movie": "El padrino",
+    "int_name": "The Godfather",
+    "dir": "Francis Ford Coppola",
+    "pais": "EUA",
+    "year": 1972,
+    "dur": "175",
+    "date": "11/09/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "15:30",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007689",
+    "movie": "El sacrificio",
+    "int_name": "El sacrificio",
+    "dir": "Andrei Tarkovsky",
+    "pais": "Francia",
+    "year": 1986,
+    "dur": "149",
+    "date": "11/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:40"
+    ]
+  },
+  {
+    "filmid": "HO00007750",
+    "movie": "El Último Canto del Pájaro/La Carta/ Camille/ Amor",
+    "int_name": "IMCINE 2024: Programa de Cortos 11",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "58",
+    "date": "11/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "12:10"
+    ]
+  },
+  {
+    "filmid": "HO00007580",
+    "movie": "Exhuma la tumba del diablo",
+    "int_name": "Pa-myo",
+    "dir": "Jang Jae-hyun",
+    "pais": "Corea del Sur",
+    "year": 2024,
+    "dur": "134",
+    "date": "11/09/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:50",
+      "17:30",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00005829",
+    "movie": "La civil",
+    "int_name": "La Civil",
+    "dir": "Teodora Ana Mihai",
+    "pais": "México-Rumania-Bélgica",
+    "year": 2021,
+    "dur": "145",
+    "date": "11/09/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007925",
+    "movie": "La montaña",
+    "int_name": "La Montaña",
+    "dir": "Diego Enrique Osorno",
+    "pais": "México",
+    "year": 2023,
+    "dur": "92",
+    "date": "11/09/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "13:50",
+      "15:50",
+      "17:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00006475",
+    "movie": "Los Guerreros",
+    "int_name": "The Warriors",
+    "dir": "Walter Hill",
+    "pais": "Estados Unidos",
+    "year": 1979,
+    "dur": "93",
+    "date": "11/09/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:20",
+      "16:20",
+      "18:20",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007087",
+    "movie": "Norte",
+    "int_name": "Norte",
+    "dir": "Natalia Bermúdez",
+    "pais": "México",
+    "year": 2022,
+    "dur": "53",
+    "date": "11/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00007921",
+    "movie": "Sísifos",
+    "int_name": "Sísifos",
+    "dir": "Nicolás Gutiérrez Wenhammar y Santiago Mohar Volkow",
+    "pais": "México",
+    "year": 2019,
+    "dur": "90",
+    "date": "11/09/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:10",
+      "15:10",
+      "17:20",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00007836",
+    "movie": "Technoboys",
+    "int_name": "Technoboys",
+    "dir": "Gerardo Gatica González",
+    "pais": "México",
+    "year": 2024,
+    "dur": "110",
+    "date": "11/09/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:10",
+      "16:30",
+      "18:40",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "11/09/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "13:30",
+      "16:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00006868",
+    "movie": "Un trabajo en serio",
+    "int_name": "Un métier sérieux",
+    "dir": "Thomas Lilti",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "111",
+    "date": "11/09/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007936",
+    "movie": "Cineclub: Lolo",
+    "int_name": "Lolo",
+    "dir": "Francisco Athié",
+    "pais": "México",
+    "year": 1992,
+    "dur": "88",
+    "date": "11/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "18:00"
+    ]
+  }
+]

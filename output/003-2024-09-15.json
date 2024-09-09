@@ -1,0 +1,89 @@
+[
+  {
+    "filmid": "HO00007766",
+    "movie": "An endless sunday",
+    "int_name": "An Endless Sunday",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania-Irlanda",
+    "year": 2023,
+    "dur": "115",
+    "date": "15/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00007908",
+    "movie": "Creatura",
+    "int_name": "Creatura",
+    "dir": "Elena Martín",
+    "pais": "España",
+    "year": 2023,
+    "dur": "112",
+    "date": "15/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "15/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007907",
+    "movie": "La otra piel",
+    "int_name": "La otra piel",
+    "dir": "Patricia Correa",
+    "pais": "Chile-Colombia",
+    "year": 2024,
+    "dur": "70",
+    "date": "15/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00",
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00007900",
+    "movie": "Salaryman",
+    "int_name": "Salaryman",
+    "dir": "Allegra Pacheco",
+    "pais": "Costa Rica",
+    "year": 2021,
+    "dur": "80",
+    "date": "15/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007905",
+    "movie": "Vergüenza",
+    "int_name": "Vergüenza",
+    "dir": "Miguel Salgado",
+    "pais": "México",
+    "year": 2023,
+    "dur": "103",
+    "date": "15/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  }
+]
