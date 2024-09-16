@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00007909",
+    "movie": "Dormir con los ojos abiertos",
+    "int_name": "Dormir de Olhos Abertos",
+    "dir": "Nele Wohlatz",
+    "pais": "Brasil-Argentina-Taiwán-Alemania",
+    "year": 2024,
+    "dur": "97",
+    "date": "22/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007901",
+    "movie": "El grosor del polvo",
+    "int_name": "El grosor del polvo",
+    "dir": "Jonathan Hernández",
+    "pais": "México",
+    "year": 2022,
+    "dur": "82",
+    "date": "22/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  }
+]

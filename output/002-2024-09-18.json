@@ -1,0 +1,299 @@
+[
+  {
+    "filmid": "HO00007927",
+    "movie": "Casi el paraíso",
+    "int_name": "Casi el paraíso",
+    "dir": "Edgar San Juan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "113",
+    "date": "18/09/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:40",
+      "17:00",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00007725",
+    "movie": "Contra viento y marea",
+    "int_name": "Breaking the Waves",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Francia-Países Bajos-Noruega-Islandia-España-Reino Unido",
+    "year": 1996,
+    "dur": "159",
+    "date": "18/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "12:40"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "18/09/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:50",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00004811",
+    "movie": "El padrino",
+    "int_name": "The Godfather",
+    "dir": "Francis Ford Coppola",
+    "pais": "EUA",
+    "year": 1972,
+    "dur": "175",
+    "date": "18/09/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:10",
+      "18:40"
+    ]
+  },
+  {
+    "filmid": "HO00007750",
+    "movie": "El Último Canto del Pájaro/La Carta/ Camille/ Amor",
+    "int_name": "IMCINE 2024: Programa de Cortos 11",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "58",
+    "date": "18/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "12:00"
+    ]
+  },
+  {
+    "filmid": "HO00007580",
+    "movie": "Exhuma la tumba del diablo",
+    "int_name": "Pa-myo",
+    "dir": "Jang Jae-hyun",
+    "pais": "Corea del Sur",
+    "year": 2024,
+    "dur": "134",
+    "date": "18/09/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "13:40",
+      "16:20",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00001940",
+    "movie": "La delgada línea amarilla",
+    "int_name": "La delgada línea amarilla",
+    "dir": "Celso R. García",
+    "pais": "México",
+    "year": 2015,
+    "dur": "98",
+    "date": "18/09/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:50",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00007925",
+    "movie": "La montaña",
+    "int_name": "La Montaña",
+    "dir": "Diego Enrique Osorno",
+    "pais": "México",
+    "year": 2023,
+    "dur": "92",
+    "date": "18/09/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "16:10",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00006475",
+    "movie": "Los Guerreros",
+    "int_name": "The Warriors",
+    "dir": "Walter Hill",
+    "pais": "Estados Unidos",
+    "year": 1979,
+    "dur": "93",
+    "date": "18/09/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:10",
+      "15:40",
+      "17:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00007921",
+    "movie": "Sísifos",
+    "int_name": "Sísifos",
+    "dir": "Nicolás Gutiérrez Wenhammar y Santiago Mohar Volkow",
+    "pais": "México",
+    "year": 2019,
+    "dur": "90",
+    "date": "18/09/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "13:00",
+      "17:10"
+    ]
+  },
+  {
+    "filmid": "HO00007836",
+    "movie": "Technoboys",
+    "int_name": "Technoboys",
+    "dir": "Gerardo Gatica González",
+    "pais": "México",
+    "year": 2024,
+    "dur": "110",
+    "date": "18/09/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "13:40",
+      "16:00",
+      "18:10",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00000541",
+    "movie": "Temporada de patos",
+    "int_name": "Temporada de patos",
+    "dir": "Fernando Eimbcke",
+    "pais": "México",
+    "year": 2004,
+    "dur": "90",
+    "date": "18/09/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:40"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "18/09/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "13:30",
+      "16:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00006868",
+    "movie": "Un trabajo en serio",
+    "int_name": "Un métier sérieux",
+    "dir": "Thomas Lilti",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "111",
+    "date": "18/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "15:40"
+    ]
+  },
+  {
+    "filmid": "HO00008057",
+    "movie": "Cineclub: El Imperio de los Sentidos",
+    "int_name": "Ai no korîda",
+    "dir": "Nagisa Ôshima",
+    "pais": "Japón",
+    "year": 1976,
+    "dur": "100",
+    "date": "18/09/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008009",
+    "movie": "La Tregua",
+    "int_name": "La Tregua",
+    "dir": "Alonso Rosas Pliego Jr",
+    "pais": "México",
+    "year": 2003,
+    "dur": "101",
+    "date": "18/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008008",
+    "movie": "Vagabunda",
+    "int_name": "Vagabunda",
+    "dir": "Alonso Rosas Pliego Jr",
+    "pais": "México",
+    "year": 1992,
+    "dur": "106",
+    "date": "18/09/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:20"
+    ]
+  },
+  {
+    "filmid": "HO00003949",
+    "movie": "Así es la vida...",
+    "int_name": "Así es la vida...",
+    "dir": "Arturo Ripstein",
+    "pais": "México-España-Francia",
+    "year": 1999,
+    "dur": "98",
+    "date": "18/09/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00003035",
+    "movie": "El imperio de la fortuna",
+    "int_name": "El imperio de la fortuna",
+    "dir": "Arturo Ripstein",
+    "pais": "México",
+    "year": 1985,
+    "dur": "130",
+    "date": "18/09/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00003947",
+    "movie": "Profundo carmesí",
+    "int_name": "Profundo carmesí",
+    "dir": "Arturo Ripstein",
+    "pais": "México-España-Francia",
+    "year": 1996,
+    "dur": "110",
+    "date": "18/09/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "17:15"
+    ]
+  }
+]
