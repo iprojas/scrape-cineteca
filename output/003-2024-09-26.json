@@ -1,0 +1,315 @@
+[
+  {
+    "filmid": "HO00007739",
+    "movie": "Armas Blancas",
+    "int_name": "Armas blancas",
+    "dir": "Mariana Musalem Ramos",
+    "pais": "México",
+    "year": 2022,
+    "dur": "80",
+    "date": "26/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00005710",
+    "movie": "Boreal",
+    "int_name": "Boreal",
+    "dir": "Federico Adorno",
+    "pais": "Paraguay-México",
+    "year": 2022,
+    "dur": "88",
+    "date": "26/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007927",
+    "movie": "Casi el paraíso",
+    "int_name": "Casi el paraíso",
+    "dir": "Edgar San Juan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "113",
+    "date": "26/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:15",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00006528",
+    "movie": "Cielo rojo",
+    "int_name": "Roter Himmel",
+    "dir": "Christian Petzold",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "26/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "26/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007765",
+    "movie": "El mal no existe",
+    "int_name": "Aku wa Sonzai Shinai",
+    "dir": "Ryūsuke Hamaguchi",
+    "pais": "Japón",
+    "year": 2023,
+    "dur": "106",
+    "date": "26/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:15"
+    ]
+  },
+  {
+    "filmid": "HO00005468",
+    "movie": "Espíritu sagrado",
+    "int_name": "Espíritu sagrado",
+    "dir": "Chema García Ibarra",
+    "pais": "España-Francia-Turquía",
+    "year": 2021,
+    "dur": "97",
+    "date": "26/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "26/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00006777",
+    "movie": "Los Jardines colgantes",
+    "int_name": "Janain mualaqa",
+    "dir": "Ahmed Al-Daradji",
+    "pais": "Arabia Saudita",
+    "year": 2022,
+    "dur": "117",
+    "date": "26/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00007305",
+    "movie": "Mal vivir",
+    "int_name": "Mal Viver",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "127",
+    "date": "26/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007786",
+    "movie": "Motel Destino",
+    "int_name": "Motel Destino",
+    "dir": "Karim Aïnouz",
+    "pais": "Brasil-Francia-Alemania",
+    "year": 2024,
+    "dur": "112",
+    "date": "26/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00006784",
+    "movie": "Sublime",
+    "int_name": "Sublime",
+    "dir": "Mariano Biasin",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "100",
+    "date": "26/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "26/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "16:45",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007999",
+    "movie": "Toda la luz que podemos ver",
+    "int_name": "Toda la luz que podemos ver",
+    "dir": "Pablo Escoto",
+    "pais": "México",
+    "year": 2020,
+    "dur": "123",
+    "date": "26/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007315",
+    "movie": "Tres colores: azul",
+    "int_name": "Trois couleurs: Bleu",
+    "dir": "Krzysztof Kieślowski",
+    "pais": "Francia-Polonia-Suiza",
+    "year": 1993,
+    "dur": "94",
+    "date": "26/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007989",
+    "movie": "Cineclub: La imagen mutable de lo eterno",
+    "int_name": "La imagen mutable de lo eterno",
+    "dir": "Juan Mora",
+    "pais": "México",
+    "year": 2020,
+    "dur": "60",
+    "date": "26/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007207",
+    "movie": "Conversando con Nuestros Cineastas 2024",
+    "int_name": "Luces de la noche",
+    "dir": "Sergio Muñoz Güemes",
+    "pais": "México",
+    "year": 1994,
+    "dur": "96",
+    "date": "26/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008007",
+    "movie": "Toni y su familia",
+    "int_name": "Toni",
+    "dir": "Nathan Ambrosion",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "96",
+    "date": "26/09/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "18:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007997",
+    "movie": "Golden Delicious",
+    "int_name": "Golden Delicious",
+    "dir": "Jason Karman",
+    "pais": "Canadá",
+    "year": 2022,
+    "dur": "120",
+    "date": "26/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008015",
+    "movie": "¿Cuándo volverá a ser lo que nunca fue?",
+    "int_name": "Wann wird es endlich wieder so",
+    "dir": "Sonja Heiss",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "116",
+    "date": "26/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00007779",
+    "movie": "Teaches of peaches",
+    "int_name": "Teaches of Peaches",
+    "dir": "Philipp Fussenegger",
+    "pais": "Alemania",
+    "year": 2024,
+    "dur": "102",
+    "date": "26/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00001733",
+    "movie": "Una mujer sin historia",
+    "int_name": "Abschied von gestern",
+    "dir": "Alexander Kluge",
+    "pais": "República Democrática de Alemania",
+    "year": 1966,
+    "dur": "88",
+    "date": "26/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "17:00"
+    ]
+  }
+]
