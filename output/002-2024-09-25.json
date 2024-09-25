@@ -258,6 +258,20 @@
     ]
   },
   {
+    "filmid": "HO00008046",
+    "movie": "Raíces en la Sal/El Santo Marginal",
+    "int_name": "El Santo Marginal",
+    "dir": "Carlos Daniel Kbal",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "90",
+    "date": "25/09/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
     "filmid": "HO00008045",
     "movie": "Refugio Nómade/Rebote en San José/Terra Vista",
     "int_name": "Refugio Nómade/ Rebote en San José/ Terra Vista",
