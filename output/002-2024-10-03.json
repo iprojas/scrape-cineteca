@@ -7,12 +7,11 @@
     "pais": "México",
     "year": 2024,
     "dur": "113",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 7 CNA",
     "times": [
-      "12:00",
-      "14:20",
-      "16:40",
+      "14:00",
+      "16:20",
       "19:00"
     ]
   },
@@ -24,7 +23,7 @@
     "pais": "Dinamarca-Suecia-Francia-Países Bajos-Noruega-Islandia-España-Reino Unido",
     "year": 1996,
     "dur": "159",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 8 CNA",
     "times": [
       "15:30"
@@ -38,10 +37,9 @@
     "pais": "EUA",
     "year": 1968,
     "dur": "136",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 1 CNA",
     "times": [
-      "11:40",
       "14:20",
       "17:10",
       "20:00"
@@ -55,11 +53,13 @@
     "pais": "México-Alemania",
     "year": 2023,
     "dur": "102",
-    "date": "28/09/2024",
-    "sala": "SALA 2 CNA",
+    "date": "03/10/2024",
+    "sala": "SALA 4 CNA",
     "times": [
+      "13:30",
       "15:50",
-      "20:30"
+      "18:00",
+      "20:10"
     ]
   },
   {
@@ -70,12 +70,10 @@
     "pais": "EUA",
     "year": 1972,
     "dur": "175",
-    "date": "28/09/2024",
-    "sala": "SALA 6 CNA",
+    "date": "03/10/2024",
+    "sala": "SALA 8 CNA",
     "times": [
-      "12:20",
-      "15:40",
-      "19:00"
+      "18:40"
     ]
   },
   {
@@ -86,26 +84,10 @@
     "pais": "",
     "year": 2024,
     "dur": "90",
-    "date": "28/09/2024",
-    "sala": "SALA 9 CNA",
+    "date": "03/10/2024",
+    "sala": "SALA 11 CNA",
     "times": [
-      "11:30",
       "13:00"
-    ]
-  },
-  {
-    "filmid": "HO00007580",
-    "movie": "Exhuma la tumba del diablo",
-    "int_name": "Pa-myo",
-    "dir": "Jang Jae-hyun",
-    "pais": "Corea del Sur",
-    "year": 2024,
-    "dur": "134",
-    "date": "28/09/2024",
-    "sala": "SALA 8 CNA",
-    "times": [
-      "12:40",
-      "18:40"
     ]
   },
   {
@@ -116,7 +98,7 @@
     "pais": "México",
     "year": 2013,
     "dur": "72",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 5 CNA",
     "times": [
       "12:50",
@@ -131,11 +113,10 @@
     "pais": "México",
     "year": 2015,
     "dur": "98",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 9 CNA",
     "times": [
-      "13:20",
-      "17:40"
+      "15:00"
     ]
   },
   {
@@ -146,11 +127,10 @@
     "pais": "México",
     "year": 2023,
     "dur": "92",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 9 CNA",
     "times": [
-      "15:20",
-      "19:40"
+      "12:50"
     ]
   },
   {
@@ -161,11 +141,10 @@
     "pais": "Reino Unido-Estados Unidos-Francia",
     "year": 2024,
     "dur": "140",
-    "date": "28/09/2024",
-    "sala": "SALA 4 CNA",
+    "date": "03/10/2024",
+    "sala": "SALA 12 CNA",
     "times": [
-      "13:00",
-      "14:00",
+      "14:40",
       "17:30",
       "20:20"
     ]
@@ -178,10 +157,10 @@
     "pais": "México",
     "year": 2019,
     "dur": "90",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 5 CNA",
     "times": [
-      "15:00",
+      "14:30",
       "19:20"
     ]
   },
@@ -193,11 +172,13 @@
     "pais": "México",
     "year": 2024,
     "dur": "110",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 2 CNA",
     "times": [
       "13:40",
-      "18:20"
+      "16:00",
+      "18:20",
+      "20:30"
     ]
   },
   {
@@ -208,7 +189,7 @@
     "pais": "México",
     "year": 2004,
     "dur": "90",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 11 CNA",
     "times": [
       "14:50",
@@ -225,7 +206,7 @@
     "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
     "year": 2024,
     "dur": "164",
-    "date": "28/09/2024",
+    "date": "03/10/2024",
     "sala": "SALA 10 CNA",
     "times": [
       "13:10",
@@ -234,44 +215,29 @@
     ]
   },
   {
-    "filmid": "HO00007926",
-    "movie": "Capitán Avispa",
-    "int_name": "Capitán Avispa",
-    "dir": "Jean Gabriel Guerra y Jonnathan Meléndez",
-    "pais": "República Dominicana",
-    "year": 2024,
-    "dur": "88",
-    "date": "28/09/2024",
-    "sala": "SALA 2 CNA",
-    "times": [
-      "11:50"
-    ]
-  },
-  {
-    "filmid": "HO00006134",
-    "movie": "Coraje",
-    "int_name": "Coraje",
-    "dir": "Rubén Rojo Aura",
+    "filmid": "HO00007903",
+    "movie": "Historia de pastores",
+    "int_name": "Historia de pastores",
+    "dir": "Jaime Puertas Castillo",
     "pais": "España",
-    "year": 2022,
-    "dur": "90",
-    "date": "28/09/2024",
+    "year": 2024,
+    "dur": "80",
+    "date": "03/10/2024",
     "sala": "SALA 3 CNA",
     "times": [
-      "12:10",
       "16:10",
       "20:50"
     ]
   },
   {
-    "filmid": "HO00007775",
-    "movie": "Hypnosis",
-    "int_name": "Hypnosis",
-    "dir": "Ernst De Geer",
-    "pais": "Suecia",
-    "year": 2023,
-    "dur": "98",
-    "date": "28/09/2024",
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "03/10/2024",
     "sala": "SALA 3 CNA",
     "times": [
       "14:00",
@@ -279,45 +245,31 @@
     ]
   },
   {
-    "filmid": "HO00008054",
-    "movie": "Nyanga/Las Dawsonianas",
-    "int_name": "Las Dawsonianas",
-    "dir": "Roberto Riveros Jiménez",
-    "pais": "Chile",
-    "year": 2022,
-    "dur": "62",
-    "date": "28/09/2024",
-    "sala": "SALA 4 CNA",
-    "times": [
-      "18:00"
-    ]
-  },
-  {
-    "filmid": "HO00008055",
-    "movie": "Soñarlo en Grande/Los Trazos que Quedan de Ti",
-    "int_name": "Soñarlo en Grande/ Los Trazos que quedan de ti/ Querido Manuel/ Refugio",
-    "dir": "Varios",
-    "pais": "",
+    "filmid": "HO00008015",
+    "movie": "¿Cuándo volverá a ser lo que nunca fue?",
+    "int_name": "Wann wird es endlich wieder so",
+    "dir": "Sonja Heiss",
+    "pais": "Alemania",
     "year": 2023,
-    "dur": "95",
-    "date": "28/09/2024",
-    "sala": "SALA 4 CNA",
+    "dur": "116",
+    "date": "03/10/2024",
+    "sala": "SALA 6 CNA",
     "times": [
       "20:00"
     ]
   },
   {
-    "filmid": "HO00008053",
-    "movie": "Ziuta Travesias",
-    "int_name": "Ziuta Travesías",
-    "dir": "Carolina Kerlow",
-    "pais": "México",
-    "year": 2024,
-    "dur": "99",
-    "date": "28/09/2024",
-    "sala": "SALA 4 CNA",
+    "filmid": "HO00008022",
+    "movie": "Rhinegold",
+    "int_name": "Rhinegold",
+    "dir": "Fatih Akin",
+    "pais": "Alemania",
+    "year": 2022,
+    "dur": "140",
+    "date": "03/10/2024",
+    "sala": "SALA 6 CNA",
     "times": [
-      "16:00"
+      "17:00"
     ]
   }
 ]

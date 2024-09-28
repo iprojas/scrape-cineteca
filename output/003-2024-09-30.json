@@ -1,1 +1,248 @@
-[]
+[
+  {
+    "filmid": "HO00007739",
+    "movie": "Armas Blancas",
+    "int_name": "Armas blancas",
+    "dir": "Mariana Musalem Ramos",
+    "pais": "México",
+    "year": 2022,
+    "dur": "80",
+    "date": "30/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:15",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007927",
+    "movie": "Casi el paraíso",
+    "int_name": "Casi el paraíso",
+    "dir": "Edgar San Juan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "113",
+    "date": "30/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007784",
+    "movie": "Demasiada ternura",
+    "int_name": "So much tenderness",
+    "dir": "Lina Rodriguez",
+    "pais": "Canadá",
+    "year": 2022,
+    "dur": "118",
+    "date": "30/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00005468",
+    "movie": "Espíritu sagrado",
+    "int_name": "Espíritu sagrado",
+    "dir": "Chema García Ibarra",
+    "pais": "España-Francia-Turquía",
+    "year": 2021,
+    "dur": "97",
+    "date": "30/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007078",
+    "movie": "Ida Vitale",
+    "int_name": "Ida Vitale",
+    "dir": "María Arrillaga",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "81",
+    "date": "30/09/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "17:00",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "30/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00006778",
+    "movie": "La piel pulpo",
+    "int_name": "La piel pulpo",
+    "dir": "Ana Cristina Barragán",
+    "pais": "Ecuador-México-Grecia-Alemania-Francia-Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "30/09/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007783",
+    "movie": "La sudestada",
+    "int_name": "La sudestada",
+    "dir": "Daniel Casabé y Edgardo Dieleke",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "30/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "30/09/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:30",
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007305",
+    "movie": "Mal vivir",
+    "int_name": "Mal Viver",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "127",
+    "date": "30/09/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00006784",
+    "movie": "Sublime",
+    "int_name": "Sublime",
+    "dir": "Mariano Biasin",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "100",
+    "date": "30/09/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "30/09/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007308",
+    "movie": "Valentina o la serenidad",
+    "int_name": "Valentina o la serenidad",
+    "dir": "Ángeles Cruz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "86",
+    "date": "30/09/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00001453",
+    "movie": "Cineclub: Naranja mecánica",
+    "int_name": "A Clockwork Orange",
+    "dir": "Stanley Kubrick",
+    "pais": "Reino Unido-Estados Unidos",
+    "year": 1971,
+    "dur": "137",
+    "date": "30/09/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008003",
+    "movie": "El cuadro perdido",
+    "int_name": "Le tableau volé",
+    "dir": "Pascal Bonitzer",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "91",
+    "date": "30/09/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "18:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008026",
+    "movie": "Ivo",
+    "int_name": "Ivo",
+    "dir": "Eva Trobisch",
+    "pais": "Alemania",
+    "year": 2024,
+    "dur": "109",
+    "date": "30/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008025",
+    "movie": "Johny y yo: un viaje en el tiempo con John Heartf",
+    "int_name": "Johnny & me – eine Zeitreise mit John Heartfield",
+    "dir": "Katrin Rothe",
+    "pais": "Alemania-Suiza-Austria",
+    "year": 2023,
+    "dur": "100",
+    "date": "30/09/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "15:30"
+    ]
+  }
+]

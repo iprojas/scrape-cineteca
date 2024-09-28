@@ -7,10 +7,10 @@
     "pais": "México",
     "year": 2022,
     "dur": "80",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 5 Xoco",
     "times": [
-      "19:00"
+      "14:00"
     ]
   },
   {
@@ -21,11 +21,10 @@
     "pais": "México",
     "year": 2024,
     "dur": "113",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 9 Xoco",
     "times": [
-      "14:00",
-      "21:00"
+      "14:00"
     ]
   },
   {
@@ -36,7 +35,7 @@
     "pais": "Alemania",
     "year": 2023,
     "dur": "102",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 3 Xoco",
     "times": [
       "15:30"
@@ -50,10 +49,10 @@
     "pais": "Canadá",
     "year": 2022,
     "dur": "118",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 4 Xoco",
     "times": [
-      "21:00"
+      "15:30"
     ]
   },
   {
@@ -64,10 +63,11 @@
     "pais": "México-Alemania",
     "year": 2023,
     "dur": "102",
-    "date": "28/09/2024",
-    "sala": "SALA 4 Xoco",
+    "date": "02/10/2024",
+    "sala": "SALA 7 Xoco",
     "times": [
-      "16:30"
+      "14:30",
+      "16:45"
     ]
   },
   {
@@ -78,7 +78,7 @@
     "pais": "Japón",
     "year": 2023,
     "dur": "106",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 3 Xoco",
     "times": [
       "17:45"
@@ -92,7 +92,7 @@
     "pais": "España-Francia-Turquía",
     "year": 2021,
     "dur": "97",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 9 Xoco",
     "times": [
       "16:30"
@@ -106,11 +106,10 @@
     "pais": "Uruguay",
     "year": 2022,
     "dur": "81",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 5 Xoco",
     "times": [
-      "17:00",
-      "20:45"
+      "15:45"
     ]
   },
   {
@@ -121,7 +120,7 @@
     "pais": "Colombia-Brasil",
     "year": 2022,
     "dur": "92",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 9 Xoco",
     "times": [
       "18:45"
@@ -135,25 +134,10 @@
     "pais": "Ecuador-México-Grecia-Alemania-Francia-Italia",
     "year": 2022,
     "dur": "99",
-    "date": "28/09/2024",
-    "sala": "SALA 4 Xoco",
+    "date": "02/10/2024",
+    "sala": "SALA 9 Xoco",
     "times": [
-      "18:45"
-    ]
-  },
-  {
-    "filmid": "HO00007783",
-    "movie": "La sudestada",
-    "int_name": "La sudestada",
-    "dir": "Daniel Casabé y Edgardo Dieleke",
-    "pais": "Argentina",
-    "year": 2023,
-    "dur": "86",
-    "date": "28/09/2024",
-    "sala": "SALA 6 Xoco",
-    "times": [
-      "16:15",
-      "18:30"
+      "21:00"
     ]
   },
   {
@@ -164,13 +148,12 @@
     "pais": "Reino Unido-Estados Unidos-Francia",
     "year": 2024,
     "dur": "140",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 2 Xoco",
     "times": [
-      "12:00",
-      "15:00",
-      "18:00",
-      "21:00"
+      "14:30",
+      "17:30",
+      "20:30"
     ]
   },
   {
@@ -181,7 +164,7 @@
     "pais": "Alemania",
     "year": 2023,
     "dur": "118",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "15:00"
@@ -195,24 +178,10 @@
     "pais": "Arabia Saudita",
     "year": 2022,
     "dur": "117",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 10 Xoco",
     "times": [
-      "16:00"
-    ]
-  },
-  {
-    "filmid": "HO00007305",
-    "movie": "Mal vivir",
-    "int_name": "Mal Viver",
-    "dir": "João Canijo",
-    "pais": "Portugal-Francia",
-    "year": 2023,
-    "dur": "127",
-    "date": "28/09/2024",
-    "sala": "SALA 10 Xoco",
-    "times": [
-      "19:00"
+      "18:00"
     ]
   },
   {
@@ -223,10 +192,10 @@
     "pais": "Argentina",
     "year": 2022,
     "dur": "100",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 6 Xoco",
     "times": [
-      "20:30"
+      "15:00"
     ]
   },
   {
@@ -237,10 +206,9 @@
     "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
     "year": 2024,
     "dur": "164",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 3 Xoco",
     "times": [
-      "12:15",
       "20:00"
     ]
   },
@@ -252,7 +220,7 @@
     "pais": "México",
     "year": 2020,
     "dur": "123",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "17:30"
@@ -266,10 +234,10 @@
     "pais": "Francia-Polonia-Suiza",
     "year": 1993,
     "dur": "94",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 10 Xoco",
     "times": [
-      "13:30"
+      "15:45"
     ]
   },
   {
@@ -280,35 +248,49 @@
     "pais": "México",
     "year": 2023,
     "dur": "86",
-    "date": "28/09/2024",
+    "date": "02/10/2024",
     "sala": "SALA 8 Xoco",
     "times": [
       "20:30"
     ]
   },
   {
-    "filmid": "HO00008000",
-    "movie": "Robot salvaje",
-    "int_name": "The Wild Robot",
-    "dir": "Chris Sanders",
-    "pais": "Estados Unidos",
-    "year": 2024,
-    "dur": "102",
-    "date": "28/09/2024",
-    "sala": "SALA 8 Xoco",
+    "filmid": "HO00007306",
+    "movie": "Vivir mal",
+    "int_name": "Viver Mal",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "125",
+    "date": "02/10/2024",
+    "sala": "SALA 10 Xoco",
     "times": [
-      "12:30"
+      "20:30"
     ]
   },
   {
-    "filmid": "HO00008006",
-    "movie": "El Sr. Blake a sus órdene",
-    "int_name": "Complètement cram",
-    "dir": "Gilles Legardinier",
-    "pais": "Francia-Luxemburgo",
+    "filmid": "HO00007316",
+    "movie": "Conferencia Cineteca Nacional 50 años",
+    "int_name": "Rojo amanecer",
+    "dir": "Jorge Fons",
+    "pais": "México",
+    "year": 1989,
+    "dur": "96",
+    "date": "02/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008007",
+    "movie": "Toni y su familia",
+    "int_name": "Toni",
+    "dir": "Nathan Ambrosion",
+    "pais": "Francia",
     "year": 2023,
-    "dur": "109",
-    "date": "28/09/2024",
+    "dur": "96",
+    "date": "02/10/2024",
     "sala": "SALA 1 Xoco",
     "times": [
       "16:00",
@@ -317,45 +299,31 @@
     ]
   },
   {
-    "filmid": "HO00008020",
-    "movie": "Corre Lola corre",
-    "int_name": "Corre Lola corre",
-    "dir": "Tom Tykwer",
-    "pais": "Alemania",
-    "year": 1998,
-    "dur": "80",
-    "date": "28/09/2024",
+    "filmid": "HO00008105",
+    "movie": "Sin aliento",
+    "int_name": "À bout de souffle",
+    "dir": "Jean-Luc Godard",
+    "pais": "Francia",
+    "year": 1960,
+    "dur": "90",
+    "date": "02/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008106",
+    "movie": "Una mujer es una mujer",
+    "int_name": "Une femme est une femme",
+    "dir": "Jean-Luc Godard",
+    "pais": "Francia-Italia",
+    "year": 1961,
+    "dur": "85",
+    "date": "02/10/2024",
     "sala": "SALA 7 Xoco",
     "times": [
       "21:00"
-    ]
-  },
-  {
-    "filmid": "HO00008019",
-    "movie": "Frank Meyer",
-    "int_name": "Frank Meyer",
-    "dir": "Leonhard Hofmann",
-    "pais": "Alemania",
-    "year": 2023,
-    "dur": "83",
-    "date": "28/09/2024",
-    "sala": "SALA 7 Xoco",
-    "times": [
-      "18:00"
-    ]
-  },
-  {
-    "filmid": "HO00008018",
-    "movie": "La teoría universal",
-    "int_name": "Die Theorie von Allem",
-    "dir": "Timm Kröger",
-    "pais": "Alemania-Austria-Suiza",
-    "year": 2023,
-    "dur": "118",
-    "date": "28/09/2024",
-    "sala": "SALA 7 Xoco",
-    "times": [
-      "15:30"
     ]
   }
 ]

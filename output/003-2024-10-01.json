@@ -1,1 +1,321 @@
-[]
+[
+  {
+    "filmid": "HO00007739",
+    "movie": "Armas Blancas",
+    "int_name": "Armas blancas",
+    "dir": "Mariana Musalem Ramos",
+    "pais": "México",
+    "year": 2022,
+    "dur": "80",
+    "date": "01/10/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:15",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007927",
+    "movie": "Casi el paraíso",
+    "int_name": "Casi el paraíso",
+    "dir": "Edgar San Juan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "113",
+    "date": "01/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00006528",
+    "movie": "Cielo rojo",
+    "int_name": "Roter Himmel",
+    "dir": "Christian Petzold",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "01/10/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00007784",
+    "movie": "Demasiada ternura",
+    "int_name": "So much tenderness",
+    "dir": "Lina Rodriguez",
+    "pais": "Canadá",
+    "year": 2022,
+    "dur": "118",
+    "date": "01/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "01/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30",
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00007765",
+    "movie": "El mal no existe",
+    "int_name": "Aku wa Sonzai Shinai",
+    "dir": "Ryūsuke Hamaguchi",
+    "pais": "Japón",
+    "year": 2023,
+    "dur": "106",
+    "date": "01/10/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00005468",
+    "movie": "Espíritu sagrado",
+    "int_name": "Espíritu sagrado",
+    "dir": "Chema García Ibarra",
+    "pais": "España-Francia-Turquía",
+    "year": 2021,
+    "dur": "97",
+    "date": "01/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007078",
+    "movie": "Ida Vitale",
+    "int_name": "Ida Vitale",
+    "dir": "María Arrillaga",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "81",
+    "date": "01/10/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "17:00",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "01/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00006778",
+    "movie": "La piel pulpo",
+    "int_name": "La piel pulpo",
+    "dir": "Ana Cristina Barragán",
+    "pais": "Ecuador-México-Grecia-Alemania-Francia-Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "01/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007783",
+    "movie": "La sudestada",
+    "int_name": "La sudestada",
+    "dir": "Daniel Casabé y Edgardo Dieleke",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "01/10/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "01/10/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:30",
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007928",
+    "movie": "Lo que no vemos",
+    "int_name": "m toten Winkel",
+    "dir": "Ayşe Polat",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "118",
+    "date": "01/10/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00006777",
+    "movie": "Los Jardines colgantes",
+    "int_name": "Janain mualaqa",
+    "dir": "Ahmed Al-Daradji",
+    "pais": "Arabia Saudita",
+    "year": 2022,
+    "dur": "117",
+    "date": "01/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00006784",
+    "movie": "Sublime",
+    "int_name": "Sublime",
+    "dir": "Mariano Biasin",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "100",
+    "date": "01/10/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007738",
+    "movie": "Tipos de gentileza",
+    "int_name": "Kinds of Kindness",
+    "dir": "Yorgos Lanthimos",
+    "pais": "Irlanda-Reino Unido-Estados Unidos-Grecia",
+    "year": 2024,
+    "dur": "164",
+    "date": "01/10/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007999",
+    "movie": "Toda la luz que podemos ver",
+    "int_name": "Toda la luz que podemos ver",
+    "dir": "Pablo Escoto",
+    "pais": "México",
+    "year": 2020,
+    "dur": "123",
+    "date": "01/10/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00007315",
+    "movie": "Tres colores: azul",
+    "int_name": "Trois couleurs: Bleu",
+    "dir": "Krzysztof Kieślowski",
+    "pais": "Francia-Polonia-Suiza",
+    "year": 1993,
+    "dur": "94",
+    "date": "01/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00007308",
+    "movie": "Valentina o la serenidad",
+    "int_name": "Valentina o la serenidad",
+    "dir": "Ángeles Cruz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "86",
+    "date": "01/10/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007306",
+    "movie": "Vivir mal",
+    "int_name": "Viver Mal",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "125",
+    "date": "01/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008001",
+    "movie": "Un año difícil",
+    "int_name": "Une année difficile",
+    "dir": "Olivier Nakache y Eric Toledano",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "120",
+    "date": "01/10/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "18:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008105",
+    "movie": "Sin aliento",
+    "int_name": "À bout de souffle",
+    "dir": "Jean-Luc Godard",
+    "pais": "Francia",
+    "year": 1960,
+    "dur": "90",
+    "date": "01/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "19:00"
+    ]
+  }
+]
