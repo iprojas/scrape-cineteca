@@ -1,0 +1,356 @@
+[
+  {
+    "filmid": "HO00006943",
+    "movie": "Antes que lleguen los zopilotes",
+    "int_name": "Antes que lleguen los zopilotes",
+    "dir": "Jonás N. Díaz",
+    "pais": "Mexico",
+    "year": 2023,
+    "dur": "95",
+    "date": "16/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007739",
+    "movie": "Armas Blancas",
+    "int_name": "Armas blancas",
+    "dir": "Mariana Musalem Ramos",
+    "pais": "México",
+    "year": 2022,
+    "dur": "80",
+    "date": "16/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007927",
+    "movie": "Casi el paraíso",
+    "int_name": "Casi el paraíso",
+    "dir": "Edgar San Juan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "113",
+    "date": "16/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00006528",
+    "movie": "Cielo rojo",
+    "int_name": "Roter Himmel",
+    "dir": "Christian Petzold",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "16/10/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007043",
+    "movie": "El eco",
+    "int_name": "El eco",
+    "dir": "Tatiana Huezo",
+    "pais": "México-Alemania",
+    "year": 2023,
+    "dur": "102",
+    "date": "16/10/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00006138",
+    "movie": "El reino de Dios",
+    "int_name": "El Reino De Dios",
+    "dir": "Claudia Sainte-Luce",
+    "pais": "México",
+    "year": 2022,
+    "dur": "73",
+    "date": "16/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00005468",
+    "movie": "Espíritu sagrado",
+    "int_name": "Espíritu sagrado",
+    "dir": "Chema García Ibarra",
+    "pais": "España-Francia-Turquía",
+    "year": 2021,
+    "dur": "97",
+    "date": "16/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008062",
+    "movie": "Guasón 2: el mundo es un escenario",
+    "int_name": "Joker: Folie à Deux",
+    "dir": "Todd Phillips",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "16/10/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:00",
+      "18:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "16/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00006778",
+    "movie": "La piel pulpo",
+    "int_name": "La piel pulpo",
+    "dir": "Ana Cristina Barragán",
+    "pais": "Ecuador-México-Grecia-Alemania-Francia-Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "16/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008063",
+    "movie": "La reina de fuego",
+    "int_name": "Firebrand",
+    "dir": "Karim Aïnouz",
+    "pais": "Reino Unido-Estados Unidos",
+    "year": 2023,
+    "dur": "120",
+    "date": "16/10/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "16/10/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:45",
+      "17:45",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007634",
+    "movie": "Retratos fantasmas",
+    "int_name": "Retratos fantasmas",
+    "dir": "Kleber Mendonça Filho",
+    "pais": "Brasil",
+    "year": 2023,
+    "dur": "93",
+    "date": "16/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "16/10/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00006784",
+    "movie": "Sublime",
+    "int_name": "Sublime",
+    "dir": "Mariano Biasin",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "100",
+    "date": "16/10/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008064",
+    "movie": "Tres colores: Blanco",
+    "int_name": "Trois couleurs: Blanc",
+    "dir": "Krzysztof Kieślowski",
+    "pais": "Suiza-Francia-Polonia",
+    "year": 1994,
+    "dur": "92",
+    "date": "16/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:15"
+    ]
+  },
+  {
+    "filmid": "HO00007636",
+    "movie": "Un príncipe",
+    "int_name": "Un prince",
+    "dir": "Pierre Creton",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "82",
+    "date": "16/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007308",
+    "movie": "Valentina o la serenidad",
+    "int_name": "Valentina o la serenidad",
+    "dir": "Ángeles Cruz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "86",
+    "date": "16/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00007306",
+    "movie": "Vivir mal",
+    "int_name": "Viver Mal",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "125",
+    "date": "16/10/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00007316",
+    "movie": "Conferencia Cineteca Nacional 50 años",
+    "int_name": "Días difíciles",
+    "dir": "Alejandro Pelayo",
+    "pais": "México",
+    "year": 1986,
+    "dur": "85",
+    "date": "16/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00004991",
+    "movie": "Vivir su vida",
+    "int_name": "Vivre sa vie – Film en douze tableaux",
+    "dir": "Jean-Luc Godard",
+    "pais": "Francia",
+    "year": 1962,
+    "dur": "80",
+    "date": "16/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008113",
+    "movie": "Weekend",
+    "int_name": "Week End",
+    "dir": "Jean-Luc Godard",
+    "pais": "Francia-Italia",
+    "year": 1967,
+    "dur": "105",
+    "date": "16/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008133",
+    "movie": "Mi hermano Ali",
+    "int_name": "Mi hermano Ali",
+    "dir": "Paula Palacios",
+    "pais": "España-Portugal",
+    "year": 2023,
+    "dur": "85",
+    "date": "16/10/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008132",
+    "movie": "Nómadas de la 57",
+    "int_name": "Nómadas de la 57",
+    "dir": "Alberto Arnaut Estrada",
+    "pais": "México",
+    "year": 2023,
+    "dur": "83",
+    "date": "16/10/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008129",
+    "movie": "Tratado de invisibilidad",
+    "int_name": "Tratado de invisibilidad",
+    "dir": "Luciana Kaplan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "16/10/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "17:30"
+    ]
+  }
+]
