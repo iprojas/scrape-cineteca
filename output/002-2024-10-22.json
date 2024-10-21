@@ -1,0 +1,287 @@
+[
+  {
+    "filmid": "HO00008067",
+    "movie": "Blues de la civilización",
+    "int_name": "Blues de la Civilización",
+    "dir": "Guido Ignacio Ferrari",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "69",
+    "date": "22/10/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "15:20"
+    ]
+  },
+  {
+    "filmid": "HO00007927",
+    "movie": "Casi el paraíso",
+    "int_name": "Casi el paraíso",
+    "dir": "Edgar San Juan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "113",
+    "date": "22/10/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "13:00",
+      "15:20",
+      "17:40",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00007722",
+    "movie": "Dogville",
+    "int_name": "Dogville",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Reino Unido-Francia-Alemania-Países Bajos",
+    "year": 2003,
+    "dur": "171",
+    "date": "22/10/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00001456",
+    "movie": "El bebé de Rosemary",
+    "int_name": "Rosemary's Baby",
+    "dir": "Roman Polanski",
+    "pais": "EUA",
+    "year": 1968,
+    "dur": "136",
+    "date": "22/10/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00004812",
+    "movie": "El padrino 2",
+    "int_name": "The Godfather: Part II",
+    "dir": "Francis Ford Coppola",
+    "pais": "EUA",
+    "year": 1974,
+    "dur": "202",
+    "date": "22/10/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007751",
+    "movie": "El Tigre y La Flor/ La Pecera/ La Casa de la Memor",
+    "int_name": "IIMCINE 2024: Programa de cortos 12",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "90",
+    "date": "22/10/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "12:40"
+    ]
+  },
+  {
+    "filmid": "HO00008062",
+    "movie": "Guasón 2: el mundo es un escenario",
+    "int_name": "Joker: Folie à Deux",
+    "dir": "Todd Phillips",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "22/10/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:20",
+      "16:10",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00008068",
+    "movie": "Historia de un movimiento",
+    "int_name": "Historia de un movimiento",
+    "dir": "Eduardo Velasco Vásquez",
+    "pais": "México",
+    "year": 2023,
+    "dur": "97",
+    "date": "22/10/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:50",
+      "16:20",
+      "18:20",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00005222",
+    "movie": "La paloma y el lobo",
+    "int_name": "La paloma y el lobo",
+    "dir": "Carlos Lenin Treviño",
+    "pais": "México",
+    "year": 2019,
+    "dur": "106",
+    "date": "22/10/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:20",
+      "16:40",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "22/10/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:20",
+      "17:10",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008070",
+    "movie": "Morirse está en hebreo",
+    "int_name": "Morirse está en hebreo",
+    "dir": "Alejandro Springall",
+    "pais": "México-EUA",
+    "year": 2007,
+    "dur": "98",
+    "date": "22/10/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008000",
+    "movie": "Robot salvaje",
+    "int_name": "The Wild Robot",
+    "dir": "Chris Sanders",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "102",
+    "date": "22/10/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:10"
+    ]
+  },
+  {
+    "filmid": "HO00006197",
+    "movie": "Sansón y yo",
+    "int_name": "Sansón y yo",
+    "dir": "Rodrigo Reyes",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "83",
+    "date": "22/10/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:00",
+      "15:50",
+      "17:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008071",
+    "movie": "Santitos",
+    "int_name": "SANTITOS",
+    "dir": "Alejandro Springall",
+    "pais": "México",
+    "year": 1999,
+    "dur": "100",
+    "date": "22/10/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:40",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "22/10/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "15:30",
+      "17:20",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00007999",
+    "movie": "Toda la luz que podemos ver",
+    "int_name": "Toda la luz que podemos ver",
+    "dir": "Pablo Escoto",
+    "pais": "México",
+    "year": 2020,
+    "dur": "123",
+    "date": "22/10/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008000",
+    "movie": "Robot salvaje",
+    "int_name": "The Wild Robot",
+    "dir": "Chris Sanders",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "102",
+    "date": "22/10/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:10"
+    ]
+  },
+  {
+    "filmid": "HO00008180",
+    "movie": "Transmutación Programa 7 cortos en competencia",
+    "int_name": "Programa 7 de cortometrajes en competencia Transmutación Cine",
+    "dir": "Varios",
+    "pais": "México-Palestina-Alemania-España-",
+    "year": 2024,
+    "dur": "75",
+    "date": "22/10/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008145",
+    "movie": "Un buen lugar",
+    "int_name": "A good place",
+    "dir": "Katharina Huber",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "108",
+    "date": "22/10/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "17:45"
+    ]
+  }
+]
