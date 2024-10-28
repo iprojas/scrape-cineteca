@@ -1,0 +1,301 @@
+[
+  {
+    "filmid": "HO00008066",
+    "movie": "A cielo abierto",
+    "int_name": "A cielo abierto",
+    "dir": "Mariana Arriaga y Santiago Arriaga",
+    "pais": "",
+    "year": 2023,
+    "dur": "2023",
+    "date": "30/10/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00006943",
+    "movie": "Antes que lleguen los zopilotes",
+    "int_name": "Antes que lleguen los zopilotes",
+    "dir": "Jonás N. Díaz",
+    "pais": "Mexico",
+    "year": 2023,
+    "dur": "95",
+    "date": "30/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00006610",
+    "movie": "De humani Corporis Fabrica",
+    "int_name": "De humani corporis fabrica",
+    "dir": "Véréna Paravel y Lucien Castaing-Taylor",
+    "pais": "Francia-Suiza-Estados Unidos",
+    "year": 2022,
+    "dur": "118",
+    "date": "30/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00006138",
+    "movie": "El reino de Dios",
+    "int_name": "El reino de Dios",
+    "dir": "Claudia Sainte-Luce",
+    "pais": "México",
+    "year": 2022,
+    "dur": "73",
+    "date": "30/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00005468",
+    "movie": "Espíritu sagrado",
+    "int_name": "Espíritu sagrado",
+    "dir": "Chema García Ibarra",
+    "pais": "España-Francia-Turquía",
+    "year": 2021,
+    "dur": "97",
+    "date": "30/10/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008062",
+    "movie": "Guasón 2: el mundo es un escenario",
+    "int_name": "Joker: Folie à Deux",
+    "dir": "Todd Phillips",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "30/10/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "30/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "30/10/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:30",
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007928",
+    "movie": "Lo que no vemos",
+    "int_name": "m toten Winkel",
+    "dir": "Ayşe Polat",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "118",
+    "date": "30/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008065",
+    "movie": "Love Life, lo que fuimos vive siempre",
+    "int_name": "Love Life",
+    "dir": "Kōji Fukada",
+    "pais": "Japón-Francia",
+    "year": 2022,
+    "dur": "123",
+    "date": "30/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008073",
+    "movie": "M20 Matamoros ejido 20",
+    "int_name": "M20 Matamoros ejido 20",
+    "dir": "Leonor Maldonado",
+    "pais": "México",
+    "year": 2023,
+    "dur": "87",
+    "date": "30/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008072",
+    "movie": "Megalópolis",
+    "int_name": "Megalópolis",
+    "dir": "Francis Ford Coppola",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "30/10/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:45",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008196",
+    "movie": "Pedro Páramo",
+    "int_name": "Pedro Paramo",
+    "dir": "Rodrigo Prieto",
+    "pais": "(México",
+    "year": 2024,
+    "dur": "130",
+    "date": "30/10/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008195",
+    "movie": "Rebelión",
+    "int_name": "Rebelión",
+    "dir": "José Luis Rugeles",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "105",
+    "date": "30/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "30/10/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:15",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007636",
+    "movie": "Un príncipe",
+    "int_name": "Un prince",
+    "dir": "Pierre Creton",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "82",
+    "date": "30/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007308",
+    "movie": "Valentina o la serenidad",
+    "int_name": "Valentina o la serenidad",
+    "dir": "Ángeles Cruz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "86",
+    "date": "30/10/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00007306",
+    "movie": "Vivir mal",
+    "int_name": "Viver Mal",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "125",
+    "date": "30/10/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008234",
+    "movie": "La acción del silencio",
+    "int_name": "La acción del silencio",
+    "dir": "Gerardo lara",
+    "pais": "México",
+    "year": 2023,
+    "dur": "40",
+    "date": "30/10/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008224",
+    "movie": "La flor en el infierno",
+    "int_name": "Jiokhwa",
+    "dir": "Shin Sang-ok",
+    "pais": "Corea del Sur",
+    "year": 1958,
+    "dur": "87",
+    "date": "30/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008223",
+    "movie": "Señora libertad",
+    "int_name": "Jayu buin",
+    "dir": "Han Hyeong-mo",
+    "pais": "Corea del Sur",
+    "year": 1956,
+    "dur": "125",
+    "date": "30/10/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  }
+]
