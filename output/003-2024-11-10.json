@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00008209",
+    "movie": "La habitación de al lado",
+    "int_name": "The Room Next Door",
+    "dir": "Pedro Almodóvar",
+    "pais": "España-Estados Unidos",
+    "year": 2024,
+    "dur": "107",
+    "date": "10/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "10/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:45",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00003947",
+    "movie": "Profundo carmesí",
+    "int_name": "Profundo carmesí",
+    "dir": "Arturo Ripstein",
+    "pais": "México-España-Francia",
+    "year": 1996,
+    "dur": "136",
+    "date": "10/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008210",
+    "movie": "Tierra de hermanos",
+    "int_name": "Dar Sarzamin-e Barâdar",
+    "dir": "Raha Amirfazli y Alireza Ghasemi.",
+    "pais": "Irán-Francia-Países Bajos",
+    "year": 2024,
+    "dur": "95",
+    "date": "10/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "13:30",
+      "18:15"
+    ]
+  }
+]

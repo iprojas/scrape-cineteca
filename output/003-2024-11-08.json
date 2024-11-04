@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "08/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:45",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00003947",
+    "movie": "Profundo carmesí",
+    "int_name": "Profundo carmesí",
+    "dir": "Arturo Ripstein",
+    "pais": "México-España-Francia",
+    "year": 1996,
+    "dur": "136",
+    "date": "08/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  }
+]
