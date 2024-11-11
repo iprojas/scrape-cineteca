@@ -1,0 +1,92 @@
+[
+  {
+    "filmid": "HO00007531",
+    "movie": "Cerrar los ojos",
+    "int_name": "Cerrar los ojos",
+    "dir": "Víctor Erice",
+    "pais": "España",
+    "year": 2023,
+    "dur": "169",
+    "date": "15/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008215",
+    "movie": "It's not me",
+    "int_name": "C'est pas moi",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "42",
+    "date": "15/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "13:45",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008211",
+    "movie": "La luz que imaginamos",
+    "int_name": "All We Imagine As Light",
+    "dir": "Payal Kapadia",
+    "pais": "Francia-India-Países Bajos-Luxemburgo-Italia",
+    "year": 2024,
+    "dur": "118",
+    "date": "15/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "12:45",
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008213",
+    "movie": "La semilla del fruto sagrado",
+    "int_name": "Danaye anjir-e moabad",
+    "dir": "Mohammad Rasoulof",
+    "pais": "Francia-Alemania-Irán",
+    "year": 2024,
+    "dur": "168",
+    "date": "15/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008212",
+    "movie": "Simón de la montaña",
+    "int_name": "Simón de la montaña",
+    "dir": "Federico Luis Tachella",
+    "pais": "Argentina-Chile-Uruguay",
+    "year": 2024,
+    "dur": "98",
+    "date": "15/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:15",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008214",
+    "movie": "Un viaje en primavera",
+    "int_name": "Chun xing",
+    "dir": "Peng Tzu-Hui y Wang Ping-Wen",
+    "pais": "Taiwán",
+    "year": 2023,
+    "dur": "90",
+    "date": "15/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30",
+      "21:00"
+    ]
+  }
+]

@@ -1,0 +1,358 @@
+[
+  {
+    "filmid": "HO00008066",
+    "movie": "A cielo abierto",
+    "int_name": "A cielo abierto",
+    "dir": "Mariana Arriaga y Santiago Arriaga",
+    "pais": "",
+    "year": 2023,
+    "dur": "2023",
+    "date": "13/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00006943",
+    "movie": "Antes que lleguen los zopilotes",
+    "int_name": "Antes que lleguen los zopilotes",
+    "dir": "Jonás N. Díaz",
+    "pais": "Mexico",
+    "year": 2023,
+    "dur": "95",
+    "date": "13/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008197",
+    "movie": "El aprendiz",
+    "int_name": "The Apprentice",
+    "dir": "Ali Abbasi",
+    "pais": "Canadá-Dinamarca-Irlanda",
+    "year": 2024,
+    "dur": "120",
+    "date": "13/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00007901",
+    "movie": "El grosor del polvo",
+    "int_name": "El grosor del polvo",
+    "dir": "Jonathan Hernández",
+    "pais": "México",
+    "year": 2022,
+    "dur": "82",
+    "date": "13/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruiz Palacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "13/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "13/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00006778",
+    "movie": "La piel pulpo",
+    "int_name": "La piel pulpo",
+    "dir": "Ana Cristina Barragán",
+    "pais": "Ecuador-México-Grecia-Alemania-Francia-Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "13/11/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "13/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007928",
+    "movie": "Lo que no vemos",
+    "int_name": "m toten Winkel",
+    "dir": "Ayşe Polat",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "118",
+    "date": "13/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008249",
+    "movie": "Los fundadores",
+    "int_name": "Los fundadores",
+    "dir": "Diego Hernández",
+    "pais": "México",
+    "year": 2021,
+    "dur": "62",
+    "date": "13/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00008065",
+    "movie": "Love Life, lo que fuimos vive siempre",
+    "int_name": "Love Life",
+    "dir": "Kōji Fukada",
+    "pais": "Japón-Francia",
+    "year": 2022,
+    "dur": "123",
+    "date": "13/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008248",
+    "movie": "Malta",
+    "int_name": "Malta",
+    "dir": "Natalia Santa",
+    "pais": "Colombia-Argentina",
+    "year": 2024,
+    "dur": "97",
+    "date": "13/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008196",
+    "movie": "Pedro Páramo",
+    "int_name": "Pedro Paramo",
+    "dir": "Rodrigo Prieto",
+    "pais": "(México",
+    "year": 2024,
+    "dur": "130",
+    "date": "13/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008195",
+    "movie": "Rebelión",
+    "int_name": "Rebelión",
+    "dir": "José Luis Rugeles",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "105",
+    "date": "13/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008194",
+    "movie": "Siempre habra un mañana",
+    "int_name": "C'è ancora domani",
+    "dir": "Paola Cortellesi",
+    "pais": "Italia",
+    "year": 2023,
+    "dur": "118",
+    "date": "13/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "13/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008246",
+    "movie": "Tres colores: rojo",
+    "int_name": "Trois couleurs: Rouge",
+    "dir": "Krzysztof Kieslowski",
+    "pais": "Polonia-Francia-Suiza",
+    "year": 1994,
+    "dur": "99",
+    "date": "13/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007306",
+    "movie": "Vivir mal",
+    "int_name": "Viver Mal",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "125",
+    "date": "13/11/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008270",
+    "movie": "Presentación editorial: Hermenéutica y esquirlas",
+    "int_name": "Hermenéuticas y esquirlas en la mirada cinematográfica. Ejercicios de interpretación fílmica. Diego Lizarazo",
+    "dir": "Diego Lizarazo",
+    "pais": "México",
+    "year": 2024,
+    "dur": "90",
+    "date": "13/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008209",
+    "movie": "La habitación de al lado",
+    "int_name": "The Room Next Door",
+    "dir": "Pedro Almodóvar",
+    "pais": "España-Estados Unidos",
+    "year": 2024,
+    "dur": "107",
+    "date": "13/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "13:30",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008211",
+    "movie": "La luz que imaginamos",
+    "int_name": "All We Imagine As Light",
+    "dir": "Payal Kapadia",
+    "pais": "Francia-India-Países Bajos-Luxemburgo-Italia",
+    "year": 2024,
+    "dur": "118",
+    "date": "13/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "12:45",
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008213",
+    "movie": "La semilla del fruto sagrado",
+    "int_name": "Danaye anjir-e moabad",
+    "dir": "Mohammad Rasoulof",
+    "pais": "Francia-Alemania-Irán",
+    "year": 2024,
+    "dur": "168",
+    "date": "13/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008212",
+    "movie": "Simón de la montaña",
+    "int_name": "Simón de la montaña",
+    "dir": "Federico Luis Tachella",
+    "pais": "Argentina-Chile-Uruguay",
+    "year": 2024,
+    "dur": "98",
+    "date": "13/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:15",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008210",
+    "movie": "Tierra de hermanos",
+    "int_name": "Dar Sarzamin-e Barâdar",
+    "dir": "Raha Amirfazli y Alireza Ghasemi.",
+    "pais": "Irán-Francia-Países Bajos",
+    "year": 2024,
+    "dur": "95",
+    "date": "13/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008214",
+    "movie": "Un viaje en primavera",
+    "int_name": "Chun xing",
+    "dir": "Peng Tzu-Hui y Wang Ping-Wen",
+    "pais": "Taiwán",
+    "year": 2023,
+    "dur": "90",
+    "date": "13/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30",
+      "21:00"
+    ]
+  }
+]
