@@ -1,0 +1,248 @@
+[
+  {
+    "filmid": "HO00008268",
+    "movie": "¡Corre!",
+    "int_name": "Vincent Must Die",
+    "dir": "Stephan Castang",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "115",
+    "date": "20/11/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "15:30",
+      "17:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00007717",
+    "movie": "Anticristo",
+    "int_name": "Antichrist",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Alemania-Francia-Suecia-Italia-Polonia",
+    "year": 2009,
+    "dur": "104",
+    "date": "20/11/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:40",
+      "17:20",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00001604",
+    "movie": "Canoa",
+    "int_name": "Canoa",
+    "dir": "Felipe Cazals",
+    "pais": "México",
+    "year": 1975,
+    "dur": "115",
+    "date": "20/11/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:10",
+      "16:30",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00008226",
+    "movie": "Cuando despierte/Mujer de tierra/Piedra de caballo",
+    "int_name": "IMCINE: Programa de cortos 13",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2012,
+    "dur": "60",
+    "date": "20/11/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:40"
+    ]
+  },
+  {
+    "filmid": "HO00007930",
+    "movie": "La alberca de los nadies",
+    "int_name": "La alberca de los nadies",
+    "dir": "José Luis Solís Olivares",
+    "pais": "México",
+    "year": 2023,
+    "dur": "81",
+    "date": "20/11/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "16:50",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "20/11/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "17:40"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "20/11/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:30",
+      "17:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008072",
+    "movie": "Megalópolis",
+    "int_name": "Megalópolis",
+    "dir": "Francis Ford Coppola",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "20/11/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "13:50",
+      "17:00",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008269",
+    "movie": "Pasitos a la fama",
+    "int_name": "Pasitos a la fama",
+    "dir": "Carlos Carrera",
+    "pais": "México",
+    "year": 2022,
+    "dur": "83",
+    "date": "20/11/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:50",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00008196",
+    "movie": "Pedro Páramo",
+    "int_name": "Pedro Paramo",
+    "dir": "Rodrigo Prieto",
+    "pais": "(México",
+    "year": 2024,
+    "dur": "130",
+    "date": "20/11/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:10",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008000",
+    "movie": "Robot salvaje",
+    "int_name": "The Wild Robot",
+    "dir": "Chris Sanders",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "102",
+    "date": "20/11/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:00",
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00006225",
+    "movie": "Roza",
+    "int_name": "Roza",
+    "dir": "Andrés Rodríguez",
+    "pais": "Guatemala-Méxic",
+    "year": 2022,
+    "dur": "76",
+    "date": "20/11/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:40"
+    ]
+  },
+  {
+    "filmid": "HO00006913",
+    "movie": "Santa Bárbara",
+    "int_name": "Santa Bárbara",
+    "dir": "Anaïs Pareto Onghena",
+    "pais": "España",
+    "year": 2022,
+    "dur": "80",
+    "date": "20/11/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:00",
+      "15:50"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "20/11/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "16:40",
+      "18:30",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00004511",
+    "movie": "Veneno para las hadas",
+    "int_name": "Veneno para las hadas",
+    "dir": "Carlos Enrique Taboada",
+    "pais": "México",
+    "year": 1984,
+    "dur": "100",
+    "date": "20/11/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:10",
+      "16:10",
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008241",
+    "movie": "Cineclub: El regreso",
+    "int_name": "Vozvrashchenie",
+    "dir": "Andrey Zvyagintsev",
+    "pais": "Rusia",
+    "year": 2003,
+    "dur": "105",
+    "date": "20/11/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "18:00"
+    ]
+  }
+]

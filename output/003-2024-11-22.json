@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "22/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:15",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007369",
+    "movie": "El pesar de los sueños",
+    "int_name": "Burden of Dreams",
+    "dir": "Les Blank",
+    "pais": "Estados Unidos-Alemania",
+    "year": 1982,
+    "dur": "95",
+    "date": "22/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "22/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008216",
+    "movie": "Misericordia",
+    "int_name": "Miséricordie",
+    "dir": "Alain Guiraudie",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "102",
+    "date": "22/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  }
+]

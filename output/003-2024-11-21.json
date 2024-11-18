@@ -1,0 +1,385 @@
+[
+  {
+    "filmid": "HO00008066",
+    "movie": "A cielo abierto",
+    "int_name": "A cielo abierto",
+    "dir": "Mariana Arriaga y Santiago Arriaga",
+    "pais": "",
+    "year": 2023,
+    "dur": "2023",
+    "date": "21/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00006943",
+    "movie": "Antes que lleguen los zopilotes",
+    "int_name": "Antes que lleguen los zopilotes",
+    "dir": "Jonás N. Díaz",
+    "pais": "Mexico",
+    "year": 2023,
+    "dur": "95",
+    "date": "21/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00007532",
+    "movie": "Dahomey",
+    "int_name": "Dahomey",
+    "dir": "Mati Diop",
+    "pais": "Berlín",
+    "year": 2024,
+    "dur": "67",
+    "date": "21/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008197",
+    "movie": "El aprendiz",
+    "int_name": "The Apprentice",
+    "dir": "Ali Abbasi",
+    "pais": "Canadá-Dinamarca-Irlanda",
+    "year": 2024,
+    "dur": "120",
+    "date": "21/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007901",
+    "movie": "El grosor del polvo",
+    "int_name": "El grosor del polvo",
+    "dir": "Jonathan Hernández",
+    "pais": "México",
+    "year": 2022,
+    "dur": "82",
+    "date": "21/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00006138",
+    "movie": "El reino de Dios",
+    "int_name": "El reino de Dios",
+    "dir": "Claudia Sainte-Luce",
+    "pais": "México",
+    "year": 2022,
+    "dur": "73",
+    "date": "21/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "21/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007848",
+    "movie": "La otra forma",
+    "int_name": "La otra forma",
+    "dir": "Diego Felipe Guzmán.",
+    "pais": "Colombia-Brasil",
+    "year": 2022,
+    "dur": "92",
+    "date": "21/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008063",
+    "movie": "La reina de fuego",
+    "int_name": "Firebrand",
+    "dir": "Karim Aïnouz",
+    "pais": "Reino Unido-Estados Unidos",
+    "year": 2023,
+    "dur": "120",
+    "date": "21/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008249",
+    "movie": "Los fundadores",
+    "int_name": "Los fundadores",
+    "dir": "Diego Hernández",
+    "pais": "México",
+    "year": 2021,
+    "dur": "62",
+    "date": "21/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008065",
+    "movie": "Love Life, lo que fuimos vive siempre",
+    "int_name": "Love Life",
+    "dir": "Kōji Fukada",
+    "pais": "Japón-Francia",
+    "year": 2022,
+    "dur": "123",
+    "date": "21/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007305",
+    "movie": "Mal vivir",
+    "int_name": "Mal Viver",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "127",
+    "date": "21/11/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008248",
+    "movie": "Malta",
+    "int_name": "Malta",
+    "dir": "Natalia Santa",
+    "pais": "Colombia-Argentina",
+    "year": 2024,
+    "dur": "97",
+    "date": "21/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008072",
+    "movie": "Megalópolis",
+    "int_name": "Megalópolis",
+    "dir": "Francis Ford Coppola",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "21/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00006266",
+    "movie": "México, la revolución congelada",
+    "int_name": "México",
+    "dir": "Raymundo Gleyzer",
+    "pais": "Argentina-Estados Unidos",
+    "year": 1970,
+    "dur": "65",
+    "date": "21/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008196",
+    "movie": "Pedro Páramo",
+    "int_name": "Pedro Paramo",
+    "dir": "Rodrigo Prieto",
+    "pais": "(México",
+    "year": 2024,
+    "dur": "130",
+    "date": "21/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008195",
+    "movie": "Rebelión",
+    "int_name": "Rebelión",
+    "dir": "José Luis Rugeles",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "105",
+    "date": "21/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007634",
+    "movie": "Retratos fantasmas",
+    "int_name": "Retratos fantasmas",
+    "dir": "Kleber Mendonça Filho",
+    "pais": "Brasil",
+    "year": 2023,
+    "dur": "93",
+    "date": "21/11/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008194",
+    "movie": "Siempre habra un mañana",
+    "int_name": "C'è ancora domani",
+    "dir": "Paola Cortellesi",
+    "pais": "Italia",
+    "year": 2023,
+    "dur": "118",
+    "date": "21/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "21/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008246",
+    "movie": "Tres colores: rojo",
+    "int_name": "Trois couleurs: Rouge",
+    "dir": "Krzysztof Kieslowski",
+    "pais": "Polonia-Francia-Suiza",
+    "year": 1994,
+    "dur": "99",
+    "date": "21/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007308",
+    "movie": "Valentina o la serenidad",
+    "int_name": "Valentina o la serenidad",
+    "dir": "Ángeles Cruz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "86",
+    "date": "21/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008257",
+    "movie": "Cineclub: No matarás",
+    "int_name": "Krótki film o zabijaniu",
+    "dir": "Krzysztof Kieslowski",
+    "pais": "Polonia",
+    "year": 1988,
+    "dur": "85",
+    "date": "21/11/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "21/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:45",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007369",
+    "movie": "El pesar de los sueños",
+    "int_name": "Burden of Dreams",
+    "dir": "Les Blank",
+    "pais": "Estados Unidos-Alemania",
+    "year": 1982,
+    "dur": "95",
+    "date": "21/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "21/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008216",
+    "movie": "Misericordia",
+    "int_name": "Miséricordie",
+    "dir": "Alain Guiraudie",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "102",
+    "date": "21/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "13:45",
+      "18:30"
+    ]
+  }
+]

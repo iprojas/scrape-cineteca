@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "23/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:45",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "23/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:45",
+      "21:00"
+    ]
+  }
+]
