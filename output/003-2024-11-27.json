@@ -1,0 +1,330 @@
+[
+  {
+    "filmid": "HO00006943",
+    "movie": "Antes que lleguen los zopilotes",
+    "int_name": "Antes que lleguen los zopilotes",
+    "dir": "Jonás N. Díaz",
+    "pais": "Mexico",
+    "year": 2023,
+    "dur": "95",
+    "date": "27/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00007532",
+    "movie": "Dahomey",
+    "int_name": "Dahomey",
+    "dir": "Mati Diop",
+    "pais": "Berlín",
+    "year": 2024,
+    "dur": "67",
+    "date": "27/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00006610",
+    "movie": "De humani Corporis Fabrica",
+    "int_name": "De humani corporis fabrica",
+    "dir": "Véréna Paravel y Lucien Castaing-Taylor",
+    "pais": "Francia-Suiza-Estados Unidos",
+    "year": 2022,
+    "dur": "118",
+    "date": "27/11/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008197",
+    "movie": "El aprendiz",
+    "int_name": "The Apprentice",
+    "dir": "Ali Abbasi",
+    "pais": "Canadá-Dinamarca-Irlanda",
+    "year": 2024,
+    "dur": "120",
+    "date": "27/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00006138",
+    "movie": "El reino de Dios",
+    "int_name": "El reino de Dios",
+    "dir": "Claudia Sainte-Luce",
+    "pais": "México",
+    "year": 2022,
+    "dur": "73",
+    "date": "27/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007775",
+    "movie": "Hypnosis",
+    "int_name": "Hypnosis",
+    "dir": "Ernst De Geer",
+    "pais": "Suecia",
+    "year": 2023,
+    "dur": "98",
+    "date": "27/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "27/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008063",
+    "movie": "La reina de fuego",
+    "int_name": "Firebrand",
+    "dir": "Karim Aïnouz",
+    "pais": "Reino Unido-Estados Unidos",
+    "year": 2023,
+    "dur": "120",
+    "date": "27/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007640",
+    "movie": "Las cosas indefinidas",
+    "int_name": "Las cosas indefinidas",
+    "dir": "María Aparicio",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "81",
+    "date": "27/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008249",
+    "movie": "Los fundadores",
+    "int_name": "Los fundadores",
+    "dir": "Diego Hernández",
+    "pais": "México",
+    "year": 2021,
+    "dur": "62",
+    "date": "27/11/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00008248",
+    "movie": "Malta",
+    "int_name": "Malta",
+    "dir": "Natalia Santa",
+    "pais": "Colombia-Argentina",
+    "year": 2024,
+    "dur": "97",
+    "date": "27/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008072",
+    "movie": "Megalópolis",
+    "int_name": "Megalópolis",
+    "dir": "Francis Ford Coppola",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "27/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00006266",
+    "movie": "México, la revolución congelada",
+    "int_name": "México",
+    "dir": "Raymundo Gleyzer",
+    "pais": "Argentina-Estados Unidos",
+    "year": 1970,
+    "dur": "65",
+    "date": "27/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008196",
+    "movie": "Pedro Páramo",
+    "int_name": "Pedro Paramo",
+    "dir": "Rodrigo Prieto",
+    "pais": "(México",
+    "year": 2024,
+    "dur": "130",
+    "date": "27/11/2024",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008195",
+    "movie": "Rebelión",
+    "int_name": "Rebelión",
+    "dir": "José Luis Rugeles",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "105",
+    "date": "27/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008280",
+    "movie": "Robot salvaje SUB",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "27/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008194",
+    "movie": "Siempre habra un mañana",
+    "int_name": "C'è ancora domani",
+    "dir": "Paola Cortellesi",
+    "pais": "Italia",
+    "year": 2023,
+    "dur": "118",
+    "date": "27/11/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008232",
+    "movie": "Stella, una vida",
+    "int_name": "Stella. Ein leben",
+    "dir": "Kilian Riedhof",
+    "pais": "Alemania-Suiza-Austria-Reino Unido",
+    "year": 2023,
+    "dur": "121",
+    "date": "27/11/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:15",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008061",
+    "movie": "Stop Making Sense",
+    "int_name": "Stop Making Sense",
+    "dir": "Jonathan Demme y Talking Heads",
+    "pais": "Estados Unidos",
+    "year": 1984,
+    "dur": "88",
+    "date": "27/11/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008129",
+    "movie": "Tratado de invisibilidad",
+    "int_name": "Tratado de invisibilidad",
+    "dir": "Luciana Kaplan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "27/11/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008246",
+    "movie": "Tres colores: rojo",
+    "int_name": "Trois couleurs: Rouge",
+    "dir": "Krzysztof Kieslowski",
+    "pais": "Polonia-Francia-Suiza",
+    "year": 1994,
+    "dur": "99",
+    "date": "27/11/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007306",
+    "movie": "Vivir mal",
+    "int_name": "Viver Mal",
+    "dir": "João Canijo",
+    "pais": "Portugal-Francia",
+    "year": 2023,
+    "dur": "125",
+    "date": "27/11/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00007316",
+    "movie": "Conferencia Cineteca Nacional 50 años",
+    "int_name": "Pedro Páramo",
+    "dir": "Carlos Velo",
+    "pais": "México",
+    "year": 1966,
+    "dur": "104",
+    "date": "27/11/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  }
+]
