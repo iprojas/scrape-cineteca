@@ -1,0 +1,341 @@
+[
+  {
+    "filmid": "HO00006134",
+    "movie": "Coraje",
+    "int_name": "Coraje",
+    "dir": "Rubén Rojo Aura",
+    "pais": "España",
+    "year": 2022,
+    "dur": "90",
+    "date": "12/12/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008251",
+    "movie": "El águila y el gusano",
+    "int_name": "El águila y el gusano",
+    "dir": "Guita Schyfter",
+    "pais": "",
+    "year": null,
+    "dur": "149",
+    "date": "12/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008197",
+    "movie": "El aprendiz",
+    "int_name": "The Apprentice",
+    "dir": "Ali Abbasi",
+    "pais": "Canadá-Dinamarca-Irlanda",
+    "year": 2024,
+    "dur": "120",
+    "date": "12/12/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00006752",
+    "movie": "El compromiso de las sombras",
+    "int_name": "El compromiso de las sombras",
+    "dir": "Sandra Luz López Barroso",
+    "pais": "México",
+    "year": 2021,
+    "dur": "90",
+    "date": "12/12/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008279",
+    "movie": "El Jockey",
+    "int_name": "El Jockey",
+    "dir": "Luis Ortega",
+    "pais": "Argentina-España-Estados Unidos-México-Dinamarca",
+    "year": 2024,
+    "dur": "96",
+    "date": "12/12/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008300",
+    "movie": "El odio",
+    "int_name": "La haine",
+    "dir": "Mathieu Kassovitz",
+    "pais": "Francia",
+    "year": 1995,
+    "dur": "98",
+    "date": "12/12/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007775",
+    "movie": "Hypnosis",
+    "int_name": "Hypnosis",
+    "dir": "Ernst De Geer",
+    "pais": "Suecia",
+    "year": 2023,
+    "dur": "98",
+    "date": "12/12/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007640",
+    "movie": "Las cosas indefinidas",
+    "int_name": "Las cosas indefinidas",
+    "dir": "María Aparicio",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "81",
+    "date": "12/12/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00008249",
+    "movie": "Los fundadores",
+    "int_name": "Los fundadores",
+    "dir": "Diego Hernández",
+    "pais": "México",
+    "year": 2021,
+    "dur": "62",
+    "date": "12/12/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008065",
+    "movie": "Love Life, lo que fuimos vive siempre",
+    "int_name": "Love Life",
+    "dir": "Kōji Fukada",
+    "pais": "Japón-Francia",
+    "year": 2022,
+    "dur": "123",
+    "date": "12/12/2024",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008163",
+    "movie": "Luto",
+    "int_name": "Luto",
+    "dir": "Andrés Arochi Tinajero",
+    "pais": "México",
+    "year": 2023,
+    "dur": "110",
+    "date": "12/12/2024",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008072",
+    "movie": "Megalópolis",
+    "int_name": "Megalópolis",
+    "dir": "Francis Ford Coppola",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "12/12/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00006266",
+    "movie": "México, la revolución congelada",
+    "int_name": "México",
+    "dir": "Raymundo Gleyzer",
+    "pais": "Argentina-Estados Unidos",
+    "year": 1970,
+    "dur": "65",
+    "date": "12/12/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008196",
+    "movie": "Pedro Páramo",
+    "int_name": "Pedro Paramo",
+    "dir": "Rodrigo Prieto",
+    "pais": "(México",
+    "year": 2024,
+    "dur": "130",
+    "date": "12/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00008195",
+    "movie": "Rebelión",
+    "int_name": "Rebelión",
+    "dir": "José Luis Rugeles",
+    "pais": "Estados Unidos",
+    "year": 2022,
+    "dur": "105",
+    "date": "12/12/2024",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:15"
+    ]
+  },
+  {
+    "filmid": "HO00008280",
+    "movie": "Robot salvaje SUB",
+    "int_name": "The Wild Robot",
+    "dir": "Chris Sanders",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "102",
+    "date": "12/12/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008194",
+    "movie": "Siempre habra un mañana",
+    "int_name": "C'è ancora domani",
+    "dir": "Paola Cortellesi",
+    "pais": "Italia",
+    "year": 2023,
+    "dur": "118",
+    "date": "12/12/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008232",
+    "movie": "Stella, una vida",
+    "int_name": "Stella. Ein leben",
+    "dir": "Kilian Riedhof",
+    "pais": "Alemania-Suiza-Austria-Reino Unido",
+    "year": 2023,
+    "dur": "121",
+    "date": "12/12/2024",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008129",
+    "movie": "Tratado de invisibilidad",
+    "int_name": "Tratado de invisibilidad",
+    "dir": "Luciana Kaplan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "12/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008246",
+    "movie": "Tres colores: rojo",
+    "int_name": "Trois couleurs: Rouge",
+    "dir": "Krzysztof Kieslowski",
+    "pais": "Polonia-Francia-Suiza",
+    "year": 1994,
+    "dur": "99",
+    "date": "12/12/2024",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008277",
+    "movie": "Un hombre diferente",
+    "int_name": "A Different Man",
+    "dir": "Aaron Shimberg",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "112",
+    "date": "12/12/2024",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:15",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008313",
+    "movie": "Cineclub:La Vida Electrizante de Louis Wain",
+    "int_name": "The Electrical Life of Louis Wain",
+    "dir": "Will Sharpe",
+    "pais": "Reino Unido",
+    "year": 2021,
+    "dur": "106",
+    "date": "12/12/2024",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00001215",
+    "movie": "Una cita de amor",
+    "int_name": "Una cita de amor",
+    "dir": "Emilio Fernández",
+    "pais": "México",
+    "year": 1956,
+    "dur": "86",
+    "date": "12/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008283",
+    "movie": "Las noches blancas",
+    "int_name": "Le notti bianche",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1957,
+    "dur": "102",
+    "date": "12/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "19:30"
+    ]
+  }
+]

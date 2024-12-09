@@ -1,0 +1,317 @@
+[
+  {
+    "filmid": "HO00008268",
+    "movie": "¡Corre!",
+    "int_name": "Vincent Must Die",
+    "dir": "Stephan Castang",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "115",
+    "date": "10/12/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:10",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00008303",
+    "movie": "Caballero águila",
+    "int_name": "Caballero Águila",
+    "dir": "Alejandro Blazquez de Nicolás",
+    "pais": "México",
+    "year": 2022,
+    "dur": "108",
+    "date": "10/12/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:30",
+      "18:40"
+    ]
+  },
+  {
+    "filmid": "HO00001604",
+    "movie": "Canoa",
+    "int_name": "Canoa",
+    "dir": "Felipe Cazals",
+    "pais": "México",
+    "year": 1975,
+    "dur": "115",
+    "date": "10/12/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008302",
+    "movie": "El libro de Lila",
+    "int_name": "El libro de Lila",
+    "dir": "Marcela Rincón",
+    "pais": "Colombia-Uruguay",
+    "year": 2017,
+    "dur": "76",
+    "date": "10/12/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "13:50",
+      "17:40"
+    ]
+  },
+  {
+    "filmid": "HO00008305",
+    "movie": "El lugar prometido",
+    "int_name": "Kumo no mukô",
+    "dir": "Makoto Shinkai",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "90",
+    "date": "10/12/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:40",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00007753",
+    "movie": "Escafandra/ El Árbol/ Humo/ El Balón de Oro/ Ángel",
+    "int_name": "IMCINE 2024:Programa de cortos 14",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "76",
+    "date": "10/12/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00008304",
+    "movie": "Esta ambición desmedida",
+    "int_name": "Esta ambición desmedida",
+    "dir": "Santos Bacana",
+    "pais": "España",
+    "year": 2023,
+    "dur": "135",
+    "date": "10/12/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "13:20",
+      "15:40",
+      "18:20",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008032",
+    "movie": "Kenya",
+    "int_name": "Kenya",
+    "dir": "Gisela Delgadillo",
+    "pais": "México",
+    "year": 2022,
+    "dur": "88",
+    "date": "10/12/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "13:00",
+      "17:50"
+    ]
+  },
+  {
+    "filmid": "HO00007930",
+    "movie": "La alberca de los nadies",
+    "int_name": "La alberca de los nadies",
+    "dir": "José Luis Solís Olivares",
+    "pais": "México",
+    "year": 2023,
+    "dur": "81",
+    "date": "10/12/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:20"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "10/12/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "17:20"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "10/12/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:10",
+      "17:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007718",
+    "movie": "Melancolía",
+    "int_name": "Melancholia",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Francia-Alemania",
+    "year": 2011,
+    "dur": "136",
+    "date": "10/12/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "16:40"
+    ]
+  },
+  {
+    "filmid": "HO00008000",
+    "movie": "Robot salvaje DOB",
+    "int_name": "The Wild Robot",
+    "dir": "Chris Sanders",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "102",
+    "date": "10/12/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:30",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00006913",
+    "movie": "Santa Bárbara",
+    "int_name": "Santa Bárbara",
+    "dir": "Anaïs Pareto Onghena",
+    "pais": "España",
+    "year": 2022,
+    "dur": "80",
+    "date": "10/12/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:10",
+      "17:10",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00008301",
+    "movie": "Sujo",
+    "int_name": "Sujo",
+    "dir": "Astrid Rondero y Fernanda Valadez",
+    "pais": "México",
+    "year": 2024,
+    "dur": "126",
+    "date": "10/12/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008277",
+    "movie": "Un hombre diferente",
+    "int_name": "A Different Man",
+    "dir": "Aaron Shimberg",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "112",
+    "date": "10/12/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "15:50",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00004511",
+    "movie": "Veneno para las hadas",
+    "int_name": "Veneno para las hadas",
+    "dir": "Carlos Enrique Taboada",
+    "pais": "México",
+    "year": 1984,
+    "dur": "100",
+    "date": "10/12/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "16:30",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00007436",
+    "movie": "Conferencia 50 años CNA",
+    "int_name": "Dos mil metros (sobre el nivel del mar)",
+    "dir": "Marcelo Tobar",
+    "pais": "México",
+    "year": 2008,
+    "dur": "73",
+    "date": "10/12/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008276",
+    "movie": "Moana 2",
+    "int_name": "Moana 2",
+    "dir": "David G. Derrick Jr.",
+    "pais": "Estados Unidos-Canadá",
+    "year": 2024,
+    "dur": "100",
+    "date": "10/12/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:00",
+      "16:20",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "10/12/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:30",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "10/12/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "16:10",
+      "20:50"
+    ]
+  }
+]

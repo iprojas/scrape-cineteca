@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00008322",
+    "movie": "La sospechosa",
+    "int_name": "La Sospechosa",
+    "dir": "Alberto Gout",
+    "pais": "México",
+    "year": 1954,
+    "dur": "100",
+    "date": "13/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008286",
+    "movie": "Rocco y sus hermanos",
+    "int_name": "Rocco e i suoi Fratelli",
+    "dir": "Italia-Francia",
+    "pais": "Italia-Francia",
+    "year": 1960,
+    "dur": "179",
+    "date": "13/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "19:30"
+    ]
+  }
+]

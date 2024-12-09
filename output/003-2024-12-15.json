@@ -1,0 +1,44 @@
+[
+  {
+    "filmid": "HO00008318",
+    "movie": "Mi desconocida esposa",
+    "int_name": "Mi desconocida esposa",
+    "dir": "Alberto Gout",
+    "pais": "México",
+    "year": 1958,
+    "dur": "81",
+    "date": "15/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008288",
+    "movie": "El extranjero",
+    "int_name": "Lo straniero",
+    "dir": "Luchino Viscont",
+    "pais": "Italia-Francia",
+    "year": 1967,
+    "dur": "104",
+    "date": "15/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008285",
+    "movie": "Livia",
+    "int_name": "Senso",
+    "dir": "Luchino Viscont",
+    "pais": "Italia",
+    "year": 1954,
+    "dur": "123",
+    "date": "15/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:15"
+    ]
+  }
+]
