@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00004796",
+    "movie": "Simón del desierto",
+    "int_name": "Simon del desierto",
+    "dir": "Luis Buñuel",
+    "pais": "México",
+    "year": 1964,
+    "dur": "43",
+    "date": "22/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008291",
+    "movie": "Ludwig. La pasión de un rey",
+    "int_name": "Ludwig",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia- República Federal de Alemania-Mónaco",
+    "year": 1973,
+    "dur": "238",
+    "date": "22/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:00"
+    ]
+  }
+]

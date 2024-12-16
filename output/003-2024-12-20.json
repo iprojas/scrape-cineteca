@@ -1,0 +1,42 @@
+[
+  {
+    "filmid": "HO00004795",
+    "movie": "Viridiana",
+    "int_name": "Viridiana",
+    "dir": "Luis Buñuel",
+    "pais": "México-España",
+    "year": 1961,
+    "dur": "90",
+    "date": "20/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00008299",
+    "movie": "El inocente",
+    "int_name": "L'innocente",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1976,
+    "dur": "129",
+    "date": "20/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008298",
+    "movie": "Violencia y pasión",
+    "int_name": "Gruppo di famiglia in un interno",
+    "dir": "Luchino Viscont",
+    "pais": "Italia-Francia",
+    "year": 1974,
+    "dur": "121",
+    "date": "20/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:30"
+    ]
+  }
+]

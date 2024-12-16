@@ -1,0 +1,42 @@
+[
+  {
+    "filmid": "HO00001414",
+    "movie": "El ángel exterminador",
+    "int_name": "El ángel exterminador",
+    "dir": "Luis Buñuel",
+    "pais": "México",
+    "year": 1962,
+    "dur": "93",
+    "date": "21/12/2024",
+    "sala": "SALA 9 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00008286",
+    "movie": "Rocco y sus hermanos",
+    "int_name": "Rocco e i suoi Fratelli",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1960,
+    "dur": "179",
+    "date": "21/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "19:35"
+    ]
+  },
+  {
+    "filmid": "HO00008287",
+    "movie": "Sandra",
+    "int_name": "Vaghe stelle dell'Orsa",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1965,
+    "dur": "105",
+    "date": "21/12/2024",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:15"
+    ]
+  }
+]
