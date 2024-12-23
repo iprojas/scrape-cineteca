@@ -1,0 +1,289 @@
+[
+  {
+    "filmid": "HO00008303",
+    "movie": "Caballero águila",
+    "int_name": "Caballero Águila",
+    "dir": "Alejandro Blazquez de Nicolás",
+    "pais": "México",
+    "year": 2022,
+    "dur": "108",
+    "date": "26/12/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:10",
+      "17:10",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00006960",
+    "movie": "Días borrosos",
+    "int_name": "Días borrosos",
+    "dir": "Marie Benito",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "88",
+    "date": "26/12/2024",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:20",
+      "17:50",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008302",
+    "movie": "El libro de Lila",
+    "int_name": "El libro de Lila",
+    "dir": "Marcela Rincón",
+    "pais": "Colombia-Uruguay",
+    "year": 2017,
+    "dur": "76",
+    "date": "26/12/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:10",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00008305",
+    "movie": "El lugar prometido",
+    "int_name": "Kumo no mukô",
+    "dir": "Makoto Shinkai",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "90",
+    "date": "26/12/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:50",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00007753",
+    "movie": "Escafandra/ El Árbol/ Humo/ El Balón de Oro/ Ángel",
+    "int_name": "IMCINE 2024:Programa de cortos 14",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2024,
+    "dur": "76",
+    "date": "26/12/2024",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00008304",
+    "movie": "Esta ambición desmedida",
+    "int_name": "Esta ambición desmedida",
+    "dir": "Santos Bacana",
+    "pais": "España",
+    "year": 2023,
+    "dur": "135",
+    "date": "26/12/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00000769",
+    "movie": "Estrellas solitarias",
+    "int_name": "Estrellas Solitarias",
+    "dir": "Fernando Urdapilleta",
+    "pais": "México",
+    "year": 2015,
+    "dur": "90",
+    "date": "26/12/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:40",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "26/12/2024",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:20",
+      "17:20",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008209",
+    "movie": "La habitación de al lado",
+    "int_name": "The Room Next Door",
+    "dir": "Pedro Almodóvar",
+    "pais": "España-Estados Unidos",
+    "year": 2024,
+    "dur": "107",
+    "date": "26/12/2024",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:50",
+      "16:10",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "26/12/2024",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:30",
+      "17:20",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007718",
+    "movie": "Melancolía",
+    "int_name": "Melancholia",
+    "dir": "Lars von Trier",
+    "pais": "Dinamarca-Suecia-Francia-Alemania",
+    "year": 2011,
+    "dur": "136",
+    "date": "26/12/2024",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "16:50"
+    ]
+  },
+  {
+    "filmid": "HO00008276",
+    "movie": "Moana 2 DOB",
+    "int_name": "Moana 2",
+    "dir": "David G. Derrick Jr.",
+    "pais": "Estados Unidos-Canadá",
+    "year": 2024,
+    "dur": "100",
+    "date": "26/12/2024",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008308",
+    "movie": "Mufasa: El Rey León DOB",
+    "int_name": "Mufasa: The Lion King",
+    "dir": "Barry Jenkins",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "120",
+    "date": "26/12/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:30",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008332",
+    "movie": "Mufasa: El Rey León SUB",
+    "int_name": "Mufasa: The Lion King",
+    "dir": "Barry Jenkins",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "120",
+    "date": "26/12/2024",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008278",
+    "movie": "QUEER",
+    "int_name": "Queer",
+    "dir": "Luca Guadagnino",
+    "pais": "Italia-Estados Unidos",
+    "year": 2024,
+    "dur": "135",
+    "date": "26/12/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:00",
+      "17:50"
+    ]
+  },
+  {
+    "filmid": "HO00008301",
+    "movie": "Sujo",
+    "int_name": "Sujo",
+    "dir": "Astrid Rondero y Fernanda Valadez",
+    "pais": "México",
+    "year": 2024,
+    "dur": "126",
+    "date": "26/12/2024",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:00",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00008307",
+    "movie": "Tonantzin Guadalupe",
+    "int_name": "Tonantzin Guadalupe",
+    "dir": "Jesús Muñoz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "91",
+    "date": "26/12/2024",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:40",
+      "15:40",
+      "17:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008277",
+    "movie": "Un hombre diferente",
+    "int_name": "A Different Man",
+    "dir": "Aaron Shimberg",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "112",
+    "date": "26/12/2024",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00004511",
+    "movie": "Veneno para las hadas",
+    "int_name": "Veneno para las hadas",
+    "dir": "Carlos Enrique Taboada",
+    "pais": "México",
+    "year": 1984,
+    "dur": "100",
+    "date": "26/12/2024",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "16:40",
+      "20:40"
+    ]
+  }
+]
