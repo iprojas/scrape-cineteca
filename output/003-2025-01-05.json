@@ -1,0 +1,477 @@
+[
+  {
+    "filmid": "HO00008335",
+    "movie": "Babygirl, deseo prohibido",
+    "int_name": "Babygirl",
+    "dir": "Halina Reijn",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "114",
+    "date": "05/01/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007531",
+    "movie": "Cerrar los ojos",
+    "int_name": "Cerrar los ojos",
+    "dir": "Víctor Erice",
+    "pais": "España",
+    "year": 2023,
+    "dur": "169",
+    "date": "05/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00006134",
+    "movie": "Coraje",
+    "int_name": "Coraje",
+    "dir": "Rubén Rojo Aura",
+    "pais": "España",
+    "year": 2022,
+    "dur": "90",
+    "date": "05/01/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00006960",
+    "movie": "Días borrosos",
+    "int_name": "Días borrosos",
+    "dir": "Marie Benito",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "88",
+    "date": "05/01/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008251",
+    "movie": "El águila y el gusano",
+    "int_name": "El águila y el gusano",
+    "dir": "Guita Schyfter",
+    "pais": "",
+    "year": null,
+    "dur": "149",
+    "date": "05/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00006752",
+    "movie": "El compromiso de las sombras",
+    "int_name": "El compromiso de las sombras",
+    "dir": "Sandra Luz López Barroso",
+    "pais": "México",
+    "year": 2021,
+    "dur": "90",
+    "date": "05/01/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:45",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008279",
+    "movie": "El Jockey",
+    "int_name": "El Jockey",
+    "dir": "Luis Ortega",
+    "pais": "Argentina-España-Estados Unidos-México-Dinamarca",
+    "year": 2024,
+    "dur": "96",
+    "date": "05/01/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008300",
+    "movie": "El odio",
+    "int_name": "La haine",
+    "dir": "Mathieu Kassovitz",
+    "pais": "Francia",
+    "year": 1995,
+    "dur": "98",
+    "date": "05/01/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "05/01/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008306",
+    "movie": "Hijos",
+    "int_name": "Sons",
+    "dir": "Gustav Mölle",
+    "pais": "Dinamarca-Suecia",
+    "year": 2024,
+    "dur": "100",
+    "date": "05/01/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007903",
+    "movie": "Historia de pastores",
+    "int_name": "Historia de pastores",
+    "dir": "Jaime Puertas Castillo",
+    "pais": "España",
+    "year": 2024,
+    "dur": "80",
+    "date": "05/01/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007775",
+    "movie": "Hypnosis",
+    "int_name": "Hypnosis",
+    "dir": "Ernst De Geer",
+    "pais": "Suecia",
+    "year": 2023,
+    "dur": "98",
+    "date": "05/01/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:15",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "05/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008209",
+    "movie": "La habitación de al lado",
+    "int_name": "The Room Next Door",
+    "dir": "Pedro Almodóvar",
+    "pais": "España-Estados Unidos",
+    "year": 2024,
+    "dur": "107",
+    "date": "05/01/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007640",
+    "movie": "Las cosas indefinidas",
+    "int_name": "Las cosas indefinidas",
+    "dir": "María Aparicio",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "81",
+    "date": "05/01/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00006266",
+    "movie": "México, la revolución congelada",
+    "int_name": "México",
+    "dir": "Raymundo Gleyzer",
+    "pais": "Argentina-Estados Unidos",
+    "year": 1970,
+    "dur": "65",
+    "date": "05/01/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008216",
+    "movie": "Misericordia",
+    "int_name": "Miséricordie",
+    "dir": "Alain Guiraudie",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "102",
+    "date": "05/01/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007637",
+    "movie": "Mudos testigos",
+    "int_name": "Mudos testigos",
+    "dir": "Jerónimo Atehortúa Arteaga y Luis Ospina",
+    "pais": "Colombia-Francia",
+    "year": 2023,
+    "dur": "78",
+    "date": "05/01/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:00",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007643",
+    "movie": "Notas para una película",
+    "int_name": "Notas para una película",
+    "dir": "Ignacio Agüero",
+    "pais": "Chile-Francia",
+    "year": 2022,
+    "dur": "110",
+    "date": "05/01/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00008278",
+    "movie": "QUEER",
+    "int_name": "Queer",
+    "dir": "Luca Guadagnino",
+    "pais": "Italia-Estados Unidos",
+    "year": 2024,
+    "dur": "135",
+    "date": "05/01/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "17:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007639",
+    "movie": "Ramona",
+    "int_name": "Ramona",
+    "dir": "Victoria Linares Villegas",
+    "pais": "República Dominica",
+    "year": 2023,
+    "dur": "82",
+    "date": "05/01/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00008232",
+    "movie": "Stella, una vida",
+    "int_name": "Stella. Ein leben",
+    "dir": "Kilian Riedhof",
+    "pais": "Alemania-Suiza-Austria-Reino Unido",
+    "year": 2023,
+    "dur": "121",
+    "date": "05/01/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008301",
+    "movie": "Sujo",
+    "int_name": "Sujo",
+    "dir": "Astrid Rondero y Fernanda Valadez",
+    "pais": "México",
+    "year": 2024,
+    "dur": "126",
+    "date": "05/01/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00008129",
+    "movie": "Tratado de invisibilidad",
+    "int_name": "Tratado de invisibilidad",
+    "dir": "Luciana Kaplan",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "05/01/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00008277",
+    "movie": "Un hombre diferente",
+    "int_name": "A Different Man",
+    "dir": "Aaron Shimberg",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "112",
+    "date": "05/01/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:15"
+    ]
+  },
+  {
+    "filmid": "HO00007902",
+    "movie": "Una canción nocturna (a tres voces)",
+    "int_name": "An Evening Song (For Three Voices)",
+    "dir": "Graham Swon",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "86",
+    "date": "05/01/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00005466",
+    "movie": "Ven aquí",
+    "int_name": "Jai jumlong",
+    "dir": "Anocha Suwichakornpong",
+    "pais": "Tailandia",
+    "year": 2021,
+    "dur": "69",
+    "date": "05/01/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:15",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00000867",
+    "movie": "Anina",
+    "int_name": "Anina",
+    "dir": "Alfredo Soderguit",
+    "pais": "Uruguay-Colombia",
+    "year": 2013,
+    "dur": "78",
+    "date": "05/01/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "12:00"
+    ]
+  },
+  {
+    "filmid": "HO00008302",
+    "movie": "El libro de Lila",
+    "int_name": "El libro de Lila",
+    "dir": "Marcela Rincón",
+    "pais": "Colombia-Uruguay",
+    "year": 2017,
+    "dur": "76",
+    "date": "05/01/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "12:45"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "05/01/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008276",
+    "movie": "Moana 2 DOB",
+    "int_name": "Moana 2",
+    "dir": "David G. Derrick Jr.",
+    "pais": "Estados Unidos-Canadá",
+    "year": 2024,
+    "dur": "100",
+    "date": "05/01/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:30"
+    ]
+  },
+  {
+    "filmid": "HO00008308",
+    "movie": "Mufasa: El Rey León DOB",
+    "int_name": "Mufasa: The Lion King",
+    "dir": "Barry Jenkins",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "120",
+    "date": "05/01/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "13:00"
+    ]
+  },
+  {
+    "filmid": "HO00008333",
+    "movie": "Tres deseos para Cenicienta DOB",
+    "int_name": "Tre nøtter til Askepott",
+    "dir": "Cecilie A. Mosli",
+    "pais": "Noruega",
+    "year": 2021,
+    "dur": "87",
+    "date": "05/01/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "12:30"
+    ]
+  }
+]
