@@ -1,0 +1,250 @@
+[
+  {
+    "filmid": "HO00000867",
+    "movie": "Anina",
+    "int_name": "Anina",
+    "dir": "Alfredo Soderguit",
+    "pais": "Uruguay-Colombia",
+    "year": 2013,
+    "dur": "78",
+    "date": "14/01/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "13:30",
+      "15:20"
+    ]
+  },
+  {
+    "filmid": "HO00008338",
+    "movie": "Cónclave",
+    "int_name": "Conclave",
+    "dir": "Edward Berger",
+    "pais": "Reino Unido-Estados Unidos",
+    "year": 2024,
+    "dur": "118",
+    "date": "14/01/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:00",
+      "17:20",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008337",
+    "movie": "Corina",
+    "int_name": "Corina",
+    "dir": "Urzula Barba Hopfner",
+    "pais": "México",
+    "year": 2024,
+    "dur": "99",
+    "date": "14/01/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:40",
+      "17:40",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00006960",
+    "movie": "Días borrosos",
+    "int_name": "Días borrosos",
+    "dir": "Marie Benito",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "88",
+    "date": "14/01/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:40",
+      "16:30",
+      "18:50",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "14/01/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:20",
+      "15:10",
+      "17:00",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00008250",
+    "movie": "La cocina",
+    "int_name": "La cocina",
+    "dir": "Alonso Ruizpalacios",
+    "pais": "México-Estados Unidos",
+    "year": 2024,
+    "dur": "139",
+    "date": "14/01/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:50",
+      "16:50",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008209",
+    "movie": "La habitación de al lado",
+    "int_name": "The Room Next Door",
+    "dir": "Pedro Almodóvar",
+    "pais": "España-Estados Unidos",
+    "year": 2024,
+    "dur": "107",
+    "date": "14/01/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007929",
+    "movie": "La sustancia",
+    "int_name": "The Substance",
+    "dir": "Coralie Fargeat",
+    "pais": "Reino Unido-Estados Unidos-Francia",
+    "year": 2024,
+    "dur": "140",
+    "date": "14/01/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "17:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00005960",
+    "movie": "La última cena",
+    "int_name": "La última cena",
+    "dir": "Toni Agustí",
+    "pais": "España",
+    "year": 2021,
+    "dur": "72",
+    "date": "14/01/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "16:20",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008308",
+    "movie": "Mufasa: El Rey León DOB",
+    "int_name": "Mufasa: The Lion King",
+    "dir": "Barry Jenkins",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "120",
+    "date": "14/01/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:30",
+      "17:10"
+    ]
+  },
+  {
+    "filmid": "HO00008332",
+    "movie": "Mufasa: El Rey León SUB",
+    "int_name": "Mufasa: The Lion King",
+    "dir": "Barry Jenkins",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "120",
+    "date": "14/01/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008334",
+    "movie": "Nosferatu",
+    "int_name": "Nosferatu",
+    "dir": "Robert Eggers",
+    "pais": "República Checa-Estados Unidos",
+    "year": 2024,
+    "dur": "133",
+    "date": "14/01/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:50",
+      "17:30",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008278",
+    "movie": "QUEER",
+    "int_name": "Queer",
+    "dir": "Luca Guadagnino",
+    "pais": "Italia-Estados Unidos",
+    "year": 2024,
+    "dur": "135",
+    "date": "14/01/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "16:35"
+    ]
+  },
+  {
+    "filmid": "HO00008301",
+    "movie": "Sujo",
+    "int_name": "Sujo",
+    "dir": "Astrid Rondero y Fernanda Valadez",
+    "pais": "México",
+    "year": 2024,
+    "dur": "126",
+    "date": "14/01/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:30",
+      "18:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008333",
+    "movie": "Tres deseos para Cenicienta DOB",
+    "int_name": "Tre nøtter til Askepott",
+    "dir": "Cecilie A. Mosli",
+    "pais": "Noruega",
+    "year": 2021,
+    "dur": "87",
+    "date": "14/01/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:10",
+      "16:00",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00008277",
+    "movie": "Un hombre diferente",
+    "int_name": "A Different Man",
+    "dir": "Aaron Shimberg",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "112",
+    "date": "14/01/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:20",
+      "19:20"
+    ]
+  }
+]
