@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00006435",
+    "movie": "La reina desnuda",
+    "int_name": "La Reina Desnuda",
+    "dir": "José Celestino Campusano",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "89",
+    "date": "25/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008345",
+    "movie": "Los ojos de Van Gogh",
+    "int_name": "Los ojos de Van Gogh",
+    "dir": "José Celestino Campusano",
+    "pais": "Argentina-Estados Unidos",
+    "year": 2023,
+    "dur": "108",
+    "date": "25/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:00"
+    ]
+  }
+]

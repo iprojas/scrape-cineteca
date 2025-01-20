@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00006435",
+    "movie": "La reina desnuda",
+    "int_name": "La Reina Desnuda",
+    "dir": "José Celestino Campusano",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "89",
+    "date": "24/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008343",
+    "movie": "Pelayo x Campusano",
+    "int_name": "Pelayo X Campusano",
+    "dir": "José Celestino Campusano",
+    "pais": "Argentina",
+    "year": 2025,
+    "dur": "73",
+    "date": "24/01/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:30"
+    ]
+  }
+]
