@@ -1,0 +1,334 @@
+[
+  {
+    "filmid": "HO00003446",
+    "movie": "A través de Alan Glass + El gabinete surrealista",
+    "int_name": "A través de Alan Glass",
+    "dir": "Tufic Makhlouf Aki",
+    "pais": "México",
+    "year": 2006,
+    "dur": "70",
+    "date": "12/02/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "12/02/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00",
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008362",
+    "movie": "Aún estoy aquí",
+    "int_name": "Ainda Estou Aquí",
+    "dir": "Walter Salles",
+    "pais": "Brasil-Francia",
+    "year": 2024,
+    "dur": "135",
+    "date": "12/02/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007531",
+    "movie": "Cerrar los ojos",
+    "int_name": "Cerrar los ojos",
+    "dir": "Víctor Erice",
+    "pais": "España",
+    "year": 2023,
+    "dur": "169",
+    "date": "12/02/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00006960",
+    "movie": "Días borrosos",
+    "int_name": "Días borrosos",
+    "dir": "Marie Benito",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "88",
+    "date": "12/02/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00008363",
+    "movie": "El brutalista",
+    "int_name": "The Brutalist",
+    "dir": "Brady Corbet",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "215",
+    "date": "12/02/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007369",
+    "movie": "El pesar de los sueños",
+    "int_name": "Burden of Dreams",
+    "dir": "Les Blank",
+    "pais": "Estados Unidos-Alemania",
+    "year": 1982,
+    "dur": "95",
+    "date": "12/02/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008340",
+    "movie": "Emilia Pérez",
+    "int_name": "Emilia Pérez",
+    "dir": "Jacques Audiard",
+    "pais": "México",
+    "year": 2024,
+    "dur": "130",
+    "date": "12/02/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "12/02/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007585",
+    "movie": "GAZA: la franja del exterminio",
+    "int_name": "GAZA la franja del exterminio",
+    "dir": "Rafael Rangel",
+    "pais": "México-Egipto",
+    "year": 2024,
+    "dur": "102",
+    "date": "12/02/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00007903",
+    "movie": "Historia de pastores",
+    "int_name": "Historia de pastores",
+    "dir": "Jaime Puertas Castillo",
+    "pais": "España",
+    "year": 2024,
+    "dur": "80",
+    "date": "12/02/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008339",
+    "movie": "La chica de la aguja",
+    "int_name": "Pigen med nålen",
+    "dir": "Magnus von Horn",
+    "pais": "Dinamarca-Polonia-Suecia",
+    "year": 2024,
+    "dur": "115",
+    "date": "12/02/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008209",
+    "movie": "La habitación de al lado",
+    "int_name": "The Room Next Door",
+    "dir": "Pedro Almodóvar",
+    "pais": "España-Estados Unidos",
+    "year": 2024,
+    "dur": "107",
+    "date": "12/02/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00006435",
+    "movie": "La reina desnuda",
+    "int_name": "La Reina Desnuda",
+    "dir": "José Celestino Campusano",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "89",
+    "date": "12/02/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008213",
+    "movie": "La semilla del fruto sagrado",
+    "int_name": "Danaye anjir-e moabad",
+    "dir": "Mohammad Rasoulof",
+    "pais": "Francia-Alemania-Irán",
+    "year": 2024,
+    "dur": "168",
+    "date": "12/02/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008341",
+    "movie": "Lluvia",
+    "int_name": "Lluvia",
+    "dir": "Rodrigo García Saiz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "95",
+    "date": "12/02/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007643",
+    "movie": "Notas para una película",
+    "int_name": "Notas para una película",
+    "dir": "Ignacio Agüero",
+    "pais": "Chile-Francia",
+    "year": 2022,
+    "dur": "110",
+    "date": "12/02/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008364",
+    "movie": "Omar and Cerdric:  If This Ever Gets Weird",
+    "int_name": "Omar And Cedric: If This Ever Gets Weird",
+    "dir": "Nicolas Jack Davies",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "127",
+    "date": "12/02/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:15"
+    ]
+  },
+  {
+    "filmid": "HO00007639",
+    "movie": "Ramona",
+    "int_name": "Ramona",
+    "dir": "Victoria Linares Villegas",
+    "pais": "República Dominica",
+    "year": 2023,
+    "dur": "82",
+    "date": "12/02/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007638",
+    "movie": "Samsara",
+    "int_name": "Samsara",
+    "dir": "Lois Patiño",
+    "pais": "España",
+    "year": 2023,
+    "dur": "113",
+    "date": "12/02/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008360",
+    "movie": "Todos los camino de tierra saben a sal",
+    "int_name": "All Dirt Roads Taste of Salt",
+    "dir": "Raven Jackson",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "97",
+    "date": "12/02/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008214",
+    "movie": "Un viaje en primavera",
+    "int_name": "Chun xing",
+    "dir": "Peng Tzu-Hui y Wang Ping-Wen",
+    "pais": "Taiwán",
+    "year": 2023,
+    "dur": "90",
+    "date": "12/02/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007902",
+    "movie": "Una canción nocturna (a tres voces)",
+    "int_name": "An Evening Song (For Three Voices)",
+    "dir": "Graham Swon",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "86",
+    "date": "12/02/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:30",
+      "20:30"
+    ]
+  }
+]
