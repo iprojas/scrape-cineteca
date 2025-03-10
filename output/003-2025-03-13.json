@@ -1,0 +1,179 @@
+[
+  {
+    "filmid": "HO00003446",
+    "movie": "A través de Alan Glass + El gabinete surrealista",
+    "int_name": "A través de Alan Glass",
+    "dir": "Tufic Makhlouf Aki",
+    "pais": "México",
+    "year": 2006,
+    "dur": "70",
+    "date": "13/03/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "13/03/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008362",
+    "movie": "Aún estoy aquí",
+    "int_name": "Ainda Estou Aquí",
+    "dir": "Walter Salles",
+    "pais": "Brasil-Francia",
+    "year": 2024,
+    "dur": "135",
+    "date": "13/03/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008363",
+    "movie": "El brutalista",
+    "int_name": "The Brutalist",
+    "dir": "Brady Corbet",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "215",
+    "date": "13/03/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007369",
+    "movie": "El pesar de los sueños",
+    "int_name": "Burden of Dreams",
+    "dir": "Les Blank",
+    "pais": "Estados Unidos-Alemania",
+    "year": 1982,
+    "dur": "95",
+    "date": "13/03/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:15",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "13/03/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:30",
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00006435",
+    "movie": "La reina desnuda",
+    "int_name": "La Reina Desnuda",
+    "dir": "José Celestino Campusano",
+    "pais": "Argentina",
+    "year": 2022,
+    "dur": "89",
+    "date": "13/03/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "13/03/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00",
+      "16:30",
+      "18:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008364",
+    "movie": "Omar and Cedric:  If This Ever Gets Weird",
+    "int_name": "Omar And Cedric: If This Ever Gets Weird",
+    "dir": "Nicolas Jack Davies",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "127",
+    "date": "13/03/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008360",
+    "movie": "Todos los caminos de tierra saben a sal",
+    "int_name": "All Dirt Roads Taste of Salt",
+    "dir": "Raven Jackson",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "97",
+    "date": "13/03/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008430",
+    "movie": "Chicharras",
+    "int_name": "Chicharras",
+    "dir": "Luna Marán",
+    "pais": "México",
+    "year": 2024,
+    "dur": "90",
+    "date": "13/03/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008438",
+    "movie": "La capilla",
+    "int_name": "La chapelle",
+    "dir": "Jean-Michel Tchissoukou",
+    "pais": "",
+    "year": null,
+    "dur": "84",
+    "date": "13/03/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "20:30",
+      "20:45"
+    ]
+  }
+]

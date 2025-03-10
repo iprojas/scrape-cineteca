@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008432",
+    "movie": "Gente de mar y viento",
+    "int_name": "Gente de mar y viento",
+    "dir": "Ingrid Eunice Fabián González",
+    "pais": "México",
+    "year": 2016,
+    "dur": "62",
+    "date": "15/03/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008442",
+    "movie": "Tabataba",
+    "int_name": "Tabataba",
+    "dir": "Raymond Rajaonarivelo",
+    "pais": "Madagascar",
+    "year": 1988,
+    "dur": "87",
+    "date": "15/03/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:15"
+    ]
+  }
+]

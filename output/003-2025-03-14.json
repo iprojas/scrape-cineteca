@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008431",
+    "movie": "La Raya",
+    "int_name": "La Raya",
+    "dir": "Yolanda Cruz",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "14/03/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008439",
+    "movie": "La vida es bella",
+    "int_name": "La vie est belle",
+    "dir": "Benoît Lamy",
+    "pais": "Bélgica-República Democrática del Congo",
+    "year": 1987,
+    "dur": "83",
+    "date": "14/03/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:15"
+    ]
+  }
+]
