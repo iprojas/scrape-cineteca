@@ -1,0 +1,273 @@
+[
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "18/03/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "16:50",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008429",
+    "movie": "Argonautas DOB",
+    "int_name": "Pattie et la colère de Poséidon",
+    "dir": "David Alaux",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "95",
+    "date": "18/03/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00008338",
+    "movie": "Cónclave",
+    "int_name": "Conclave",
+    "dir": "Edward Berger",
+    "pais": "Reino Unido-Estados Unidos",
+    "year": 2024,
+    "dur": "118",
+    "date": "18/03/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "17:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008359",
+    "movie": "Conejo en la luna",
+    "int_name": "Conejo en la luna",
+    "dir": "Jorge Ramírez-Suárez",
+    "pais": "México-Gran Bretaña",
+    "year": 2004,
+    "dur": "112",
+    "date": "18/03/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "13:50",
+      "16:20",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00005850",
+    "movie": "Efímera",
+    "int_name": "Efímera",
+    "dir": "Luis Mariano García",
+    "pais": "México",
+    "year": 2021,
+    "dur": "87",
+    "date": "18/03/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:50"
+    ]
+  },
+  {
+    "filmid": "HO00008396",
+    "movie": "El baño del diablo",
+    "int_name": "Des Teufels Bad",
+    "dir": "Severin Fiala y Veronika Franz",
+    "pais": "Austria-Alemania",
+    "year": 2024,
+    "dur": "120",
+    "date": "18/03/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "15:10",
+      "17:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008356",
+    "movie": "El Maravilloso Mago de Oz DOB",
+    "int_name": "El maravilloso Mago de Oz",
+    "dir": "Igor Voloshin",
+    "pais": "Rusia",
+    "year": 2025,
+    "dur": "120",
+    "date": "18/03/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:10"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "18/03/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008395",
+    "movie": "Heidi DOB",
+    "int_name": "Heidi",
+    "dir": "Alain Gsponer",
+    "pais": "Alemania-Suiza-Francia",
+    "year": 2015,
+    "dur": "111",
+    "date": "18/03/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "13:40"
+    ]
+  },
+  {
+    "filmid": "HO00008357",
+    "movie": "Las vidas de sing sing",
+    "int_name": "Las vidas de Sing Sing",
+    "dir": "Greg Kwedar",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "107",
+    "date": "18/03/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:50",
+      "18:20",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008341",
+    "movie": "Lluvia",
+    "int_name": "Lluvia",
+    "dir": "Rodrigo García Saiz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "95",
+    "date": "18/03/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "18/03/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "16:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008417",
+    "movie": "Memorias de un caracol DOB",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "18/03/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "14:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "18/03/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:20",
+      "17:30",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008394",
+    "movie": "Mickey 17",
+    "int_name": "Mickey 17",
+    "dir": "Bong Joon Ho.",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "137",
+    "date": "18/03/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:40",
+      "17:20",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008358",
+    "movie": "Mujeres del alba",
+    "int_name": "Mujeres del alba",
+    "dir": "Jimena Montemayor",
+    "pais": "México",
+    "year": 2023,
+    "dur": "98",
+    "date": "18/03/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:20",
+      "16:30",
+      "18:40"
+    ]
+  },
+  {
+    "filmid": "HO00008364",
+    "movie": "Omar and Cedric:  If This Ever Gets Weird",
+    "int_name": "Omar And Cedric: If This Ever Gets Weird",
+    "dir": "Nicolas Jack Davies",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "127",
+    "date": "18/03/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008455",
+    "movie": "Charlas: En el hoyo",
+    "int_name": "En el hoyo",
+    "dir": "Juan Carlos Rulfo",
+    "pais": "Dir.: Juan Carlos Rulfo",
+    "year": 2006,
+    "dur": "100",
+    "date": "18/03/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "17:00"
+    ]
+  }
+]

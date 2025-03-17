@@ -1,0 +1,16 @@
+[
+  {
+    "filmid": "HO00008445",
+    "movie": "Nha fala",
+    "int_name": "Nha fala",
+    "dir": "Flora Gomes",
+    "pais": "Portugal-Francia-Luxemburgo",
+    "year": 2002,
+    "dur": "110",
+    "date": "21/03/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:15"
+    ]
+  }
+]
