@@ -1,0 +1,344 @@
+[
+  {
+    "filmid": "HO00008397",
+    "movie": "1938 cuando el petróleo fue nuestro",
+    "int_name": "1938",
+    "dir": "Sergio Olhovich",
+    "pais": "México",
+    "year": 1938,
+    "dur": "99",
+    "date": "25/03/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007633",
+    "movie": "Agua caliente",
+    "int_name": "Agua caliente",
+    "dir": "Diego Hernández",
+    "pais": "México",
+    "year": 2022,
+    "dur": "66",
+    "date": "25/03/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008217",
+    "movie": "Anora",
+    "int_name": "Anora",
+    "dir": "Sean Baker",
+    "pais": "Estados Unidos",
+    "year": 2024,
+    "dur": "138",
+    "date": "25/03/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008399",
+    "movie": "Arillo de hombre muerto",
+    "int_name": "Arillo del hombre muerto",
+    "dir": "Alejandro Gerber Bicecci",
+    "pais": "México",
+    "year": 2024,
+    "dur": "108",
+    "date": "25/03/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008362",
+    "movie": "Aún estoy aquí",
+    "int_name": "Ainda Estou Aquí",
+    "dir": "Walter Salles",
+    "pais": "Brasil-Francia",
+    "year": 2024,
+    "dur": "135",
+    "date": "25/03/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007908",
+    "movie": "Creatura",
+    "int_name": "Creatura",
+    "dir": "Elena Martín",
+    "pais": "España",
+    "year": 2023,
+    "dur": "112",
+    "date": "25/03/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008396",
+    "movie": "El baño del diablo",
+    "int_name": "Des Teufels Bad",
+    "dir": "Severin Fiala y Veronika Franz",
+    "pais": "Austria-Alemania",
+    "year": 2024,
+    "dur": "120",
+    "date": "25/03/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008363",
+    "movie": "El brutalista",
+    "int_name": "The Brutalist",
+    "dir": "Brady Corbet",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "215",
+    "date": "25/03/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00007369",
+    "movie": "El pesar de los sueños",
+    "int_name": "Burden of Dreams",
+    "dir": "Les Blank",
+    "pais": "Estados Unidos-Alemania",
+    "year": 1982,
+    "dur": "95",
+    "date": "25/03/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00006956",
+    "movie": "Eureka",
+    "int_name": "Eureka",
+    "dir": "Lisandro Alonso",
+    "pais": "Francia-Alemania-México-Argentina-Portugal",
+    "year": 2023,
+    "dur": "143",
+    "date": "25/03/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "25/03/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008213",
+    "movie": "La semilla del fruto sagrado",
+    "int_name": "Danaye anjir-e moabad",
+    "dir": "Mohammad Rasoulof",
+    "pais": "Francia-Alemania-Irán",
+    "year": 2024,
+    "dur": "168",
+    "date": "25/03/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008341",
+    "movie": "Lluvia",
+    "int_name": "Lluvia",
+    "dir": "Rodrigo García Saiz",
+    "pais": "México",
+    "year": 2023,
+    "dur": "95",
+    "date": "25/03/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "25/03/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:15",
+      "16:30",
+      "18:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "25/03/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008358",
+    "movie": "Mujeres del alba",
+    "int_name": "Mujeres del alba",
+    "dir": "Jimena Montemayor",
+    "pais": "México",
+    "year": 2023,
+    "dur": "98",
+    "date": "25/03/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00008365",
+    "movie": "No Other Land",
+    "int_name": "No other land",
+    "dir": "Yuval Abraham",
+    "pais": "Ocupado-Noruega",
+    "year": 2024,
+    "dur": "92",
+    "date": "25/03/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008364",
+    "movie": "Omar and Cedric:  If This Ever Gets Weird",
+    "int_name": "Omar And Cedric: If This Ever Gets Weird",
+    "dir": "Nicolas Jack Davies",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "127",
+    "date": "25/03/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008398",
+    "movie": "Otro cuerpo",
+    "int_name": "Another Body",
+    "dir": "Sophie Compton y Reuben Hamlyn",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "80",
+    "date": "25/03/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008366",
+    "movie": "Privaciones",
+    "int_name": "Privaciones",
+    "dir": "Kim Solhae y Lee Dojin",
+    "pais": "",
+    "year": 2024,
+    "dur": "2024",
+    "date": "25/03/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008210",
+    "movie": "Tierra de hermanos",
+    "int_name": "Dar Sarzamin-e Barâdar",
+    "dir": "Raha Amirfazli y Alireza Ghasemi.",
+    "pais": "Irán-Francia-Países Bajos",
+    "year": 2024,
+    "dur": "95",
+    "date": "25/03/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008360",
+    "movie": "Todos los caminos de tierra saben a sal",
+    "int_name": "All Dirt Roads Taste of Salt",
+    "dir": "Raven Jackson",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "97",
+    "date": "25/03/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008372",
+    "movie": "Charlas de cine mexicano: Los otros directores",
+    "int_name": "Fuego en el mar",
+    "dir": "Raúl Araiza",
+    "pais": "México",
+    "year": 1979,
+    "dur": "105",
+    "date": "25/03/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008452",
+    "movie": "¡Nosotros, estudiantes!",
+    "int_name": "Nous",
+    "dir": "Rafiki Fariala",
+    "pais": "República Centro Africana-Francia-República del Congo",
+    "year": 2021,
+    "dur": "83",
+    "date": "25/03/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:15"
+    ]
+  }
+]
