@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008465",
+    "movie": "Corazones jóvenes",
+    "int_name": "Young Hearts",
+    "dir": "Anthony Schatteman",
+    "pais": "Bélgica-Países Bajos",
+    "year": 2024,
+    "dur": "98",
+    "date": "11/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "11/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  }
+]

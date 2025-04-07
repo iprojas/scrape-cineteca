@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00008465",
+    "movie": "Corazones jóvenes",
+    "int_name": "Young Hearts",
+    "dir": "Anthony Schatteman",
+    "pais": "Bélgica-Países Bajos",
+    "year": 2024,
+    "dur": "98",
+    "date": "12/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "12/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:30",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008467",
+    "movie": "Tóxico",
+    "int_name": "Akipleša",
+    "dir": "Saulė Bliuvaitė",
+    "pais": "Lituania",
+    "year": 2024,
+    "dur": "99",
+    "date": "12/04/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008466",
+    "movie": "Zafari",
+    "int_name": "Zafari",
+    "dir": "Mariana Rondón.",
+    "pais": "Perú-Venezuela-México-Francia-Brasil-Chile-República Dominicana",
+    "year": 2024,
+    "dur": "100",
+    "date": "12/04/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  }
+]

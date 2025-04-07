@@ -1,0 +1,286 @@
+[
+  {
+    "filmid": "HO00008397",
+    "movie": "1938 cuando el petróleo fue nuestro",
+    "int_name": "1938",
+    "dir": "Sergio Olhovich",
+    "pais": "México",
+    "year": 1938,
+    "dur": "99",
+    "date": "09/04/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008429",
+    "movie": "Argonautas DOB",
+    "int_name": "Pattie et la colère de Poséidon",
+    "dir": "David Alaux",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "95",
+    "date": "09/04/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:10"
+    ]
+  },
+  {
+    "filmid": "HO00008399",
+    "movie": "Arillo de hombre muerto",
+    "int_name": "Arillo del hombre muerto",
+    "dir": "Alejandro Gerber Bicecci",
+    "pais": "México",
+    "year": 2024,
+    "dur": "108",
+    "date": "09/04/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:10"
+    ]
+  },
+  {
+    "filmid": "HO00008500",
+    "movie": "El aroma del pasto recién cortado",
+    "int_name": "El aroma del pasto recién cortado",
+    "dir": "Celina Murga",
+    "pais": "Alemania.",
+    "year": 2024,
+    "dur": "112",
+    "date": "09/04/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:50",
+      "16:20",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00008396",
+    "movie": "El baño del diablo",
+    "int_name": "Des Teufels Bad",
+    "dir": "Severin Fiala y Veronika Franz",
+    "pais": "Austria-Alemania",
+    "year": 2024,
+    "dur": "120",
+    "date": "09/04/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:20",
+      "17:50",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "09/04/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:40",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008523",
+    "movie": "Goya",
+    "int_name": "Goya",
+    "dir": "Pablo Orta",
+    "pais": "Dir.: Pablo Orta",
+    "year": 2023,
+    "dur": "86",
+    "date": "09/04/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:00",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008395",
+    "movie": "Heidi DOB",
+    "int_name": "Heidi",
+    "dir": "Alain Gsponer",
+    "pais": "Alemania-Suiza-Francia",
+    "year": 2015,
+    "dur": "111",
+    "date": "09/04/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:50"
+    ]
+  },
+  {
+    "filmid": "HO00004512",
+    "movie": "La esposa del Dr. Hanaoka",
+    "int_name": "Hanaoka Seishū no tsuma",
+    "dir": "Yasuzô Masumura",
+    "pais": "Japón",
+    "year": 1967,
+    "dur": "99",
+    "date": "09/04/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00008002",
+    "movie": "La esposa del presidente",
+    "int_name": "Bernadette",
+    "dir": "Léa Domenach",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "92",
+    "date": "09/04/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "09/04/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008417",
+    "movie": "Memorias de un caracol DOB",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "09/04/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "09/04/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008394",
+    "movie": "Mickey 17",
+    "int_name": "Mickey 17",
+    "dir": "Bong Joon Ho.",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "137",
+    "date": "09/04/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:30",
+      "17:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008401",
+    "movie": "Parthenope: los amores de Nápoles",
+    "int_name": "Parthenope",
+    "dir": "Paolo Sorrentino",
+    "pais": "Italia-Francia",
+    "year": 2024,
+    "dur": "136",
+    "date": "09/04/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:40",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008530",
+    "movie": "Pérdida total",
+    "int_name": "Pérdida total",
+    "dir": "Enrique Begné",
+    "pais": "",
+    "year": null,
+    "dur": "98",
+    "date": "09/04/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:30",
+      "17:00",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00007362",
+    "movie": "Un domingo interminable",
+    "int_name": "Una sterminata domenica",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania",
+    "year": 2023,
+    "dur": "105",
+    "date": "09/04/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:40",
+      "17:00",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00008380",
+    "movie": "Vampira humanista busca suicida",
+    "int_name": "Vampira humanista busca suicida",
+    "dir": "Ariane Louis-Seize",
+    "pais": "Canadá (Quebec)",
+    "year": 2023,
+    "dur": "90",
+    "date": "09/04/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:30",
+      "15:30",
+      "17:30",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008521",
+    "movie": "¡Aoquic iez in México!¡Ya México no existirá más!",
+    "int_name": "¡AOQUIC IEZ IN MEXICO! ¡YA MÉXICO NO EXISTIRÁ MÁS!",
+    "dir": "Quagliata Blanco",
+    "pais": "México",
+    "year": 2024,
+    "dur": "80",
+    "date": "09/04/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "18:00"
+    ]
+  }
+]
