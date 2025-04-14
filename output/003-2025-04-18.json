@@ -1,0 +1,92 @@
+[
+  {
+    "filmid": "HO00008117",
+    "movie": "Bird",
+    "int_name": "Bid",
+    "dir": "Andrea Arnold",
+    "pais": "Reino Unido-Estados Unidos-Francia-Alemania",
+    "year": 2024,
+    "dur": "119",
+    "date": "18/04/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "13:15",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008410",
+    "movie": "Black Dog",
+    "int_name": "Gou zhen",
+    "dir": "Guan Hu",
+    "pais": "China",
+    "year": 2024,
+    "dur": "110",
+    "date": "18/04/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "12:45",
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008473",
+    "movie": "Carretera perdida",
+    "int_name": "Lost Highway",
+    "dir": "David Lynch",
+    "pais": "EUA-Francia",
+    "year": 1997,
+    "dur": "134",
+    "date": "18/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008470",
+    "movie": "En la alcoba del sultán",
+    "int_name": "En la alcoba del sultán",
+    "dir": "Javier Rebollo",
+    "pais": "España-Francia",
+    "year": 2024,
+    "dur": "97",
+    "date": "18/04/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007630",
+    "movie": "Góndola",
+    "int_name": "Gondola",
+    "dir": "Viet Helmer",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "85",
+    "date": "18/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008468",
+    "movie": "La hora de la estrella",
+    "int_name": "A hora da estrela",
+    "dir": "Suzana Amaral",
+    "pais": "Brasil",
+    "year": 1985,
+    "dur": "96",
+    "date": "18/04/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45",
+      "20:30"
+    ]
+  }
+]
