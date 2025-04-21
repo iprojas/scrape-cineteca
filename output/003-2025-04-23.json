@@ -1,0 +1,417 @@
+[
+  {
+    "filmid": "HO00008397",
+    "movie": "1938 cuando el petróleo fue nuestro",
+    "int_name": "1938",
+    "dir": "Sergio Olhovich",
+    "pais": "México",
+    "year": 1938,
+    "dur": "99",
+    "date": "23/04/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00007633",
+    "movie": "Agua caliente",
+    "int_name": "Agua caliente",
+    "dir": "Diego Hernández",
+    "pais": "México",
+    "year": 2022,
+    "dur": "66",
+    "date": "23/04/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008399",
+    "movie": "Arillo de hombre muerto",
+    "int_name": "Arillo del hombre muerto",
+    "dir": "Alejandro Gerber Bicecci",
+    "pais": "México",
+    "year": 2024,
+    "dur": "108",
+    "date": "23/04/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008531",
+    "movie": "Black Box Diaries",
+    "int_name": "Black Box Diaries",
+    "dir": "Shiori Ito",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "104",
+    "date": "23/04/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007908",
+    "movie": "Creatura",
+    "int_name": "Creatura",
+    "dir": "Elena Martín",
+    "pais": "España",
+    "year": 2023,
+    "dur": "112",
+    "date": "23/04/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00007909",
+    "movie": "Dormir con los ojos abiertos",
+    "int_name": "Dormir de Olhos Abertos",
+    "dir": "Nele Wohlatz",
+    "pais": "Brasil-Argentina-Taiwán-Alemania",
+    "year": 2024,
+    "dur": "97",
+    "date": "23/04/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008500",
+    "movie": "El aroma del pasto recién cortado",
+    "int_name": "El aroma del pasto recién cortado",
+    "dir": "Celina Murga",
+    "pais": "Alemania.",
+    "year": 2024,
+    "dur": "112",
+    "date": "23/04/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008393",
+    "movie": "El joven chamán",
+    "int_name": "Sèr sèr salhi",
+    "dir": "Lkhagvadulam Purev-Ochir.",
+    "pais": "",
+    "year": 2023,
+    "dur": "103",
+    "date": "23/04/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "23/04/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008403",
+    "movie": "Grand tour",
+    "int_name": "Grand Tour",
+    "dir": "Miguel Gomes",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "129",
+    "date": "23/04/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008002",
+    "movie": "La esposa del presidente",
+    "int_name": "Bernadette",
+    "dir": "Léa Domenach",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "92",
+    "date": "23/04/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008211",
+    "movie": "La luz que imaginamos",
+    "int_name": "All We Imagine As Light",
+    "dir": "Payal Kapadia",
+    "pais": "Francia-India-Países Bajos-Luxemburgo-Italia",
+    "year": 2024,
+    "dur": "118",
+    "date": "23/04/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007641",
+    "movie": "Las últimas cosas",
+    "int_name": "Last Things",
+    "dir": "Deborah Stratman",
+    "pais": "Estados Unidos-Portugal-Francia",
+    "year": 2023,
+    "dur": "50",
+    "date": "23/04/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:30",
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00007632",
+    "movie": "Los caminos del Che",
+    "int_name": "Los caminos del Che",
+    "dir": "Pablo Mensi",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "72",
+    "date": "23/04/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "23/04/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:45",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "23/04/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00008398",
+    "movie": "Otro cuerpo",
+    "int_name": "Another Body",
+    "dir": "Sophie Compton y Reuben Hamlyn",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "80",
+    "date": "23/04/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008401",
+    "movie": "Parthenope: los amores de Nápoles",
+    "int_name": "Parthenope",
+    "dir": "Paolo Sorrentino",
+    "pais": "Italia-Francia",
+    "year": 2024,
+    "dur": "136",
+    "date": "23/04/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008366",
+    "movie": "Privaciones",
+    "int_name": "Privaciones",
+    "dir": "Kim Solhae y Lee Dojin",
+    "pais": "",
+    "year": 2024,
+    "dur": "2024",
+    "date": "23/04/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008212",
+    "movie": "Simón de la montaña",
+    "int_name": "Simón de la montaña",
+    "dir": "Federico Luis",
+    "pais": "Argentina-Chile-Uruguay",
+    "year": 2024,
+    "dur": "98",
+    "date": "23/04/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008210",
+    "movie": "Tierra de hermanos",
+    "int_name": "Dar Sarzamin-e Barâdar",
+    "dir": "Raha Amirfazli y Alireza Ghasemi.",
+    "pais": "Irán-Francia-Países Bajos",
+    "year": 2024,
+    "dur": "95",
+    "date": "23/04/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00007362",
+    "movie": "Un domingo interminable",
+    "int_name": "Una sterminata domenica",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania",
+    "year": 2023,
+    "dur": "105",
+    "date": "23/04/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007635",
+    "movie": "Yo vi tres luces negras",
+    "int_name": "Yo vi tres luces negras",
+    "dir": "Santiago Lozano Álvarez",
+    "pais": "Colombia-México-Francia-Alemania",
+    "year": 2023,
+    "dur": "83",
+    "date": "23/04/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "23/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008410",
+    "movie": "Black Dog",
+    "int_name": "Gou zhen",
+    "dir": "Guan Hu",
+    "pais": "China",
+    "year": 2024,
+    "dur": "110",
+    "date": "23/04/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:15",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008470",
+    "movie": "En la alcoba del sultán",
+    "int_name": "En la alcoba del sultán",
+    "dir": "Javier Rebollo",
+    "pais": "España-Francia",
+    "year": 2024,
+    "dur": "97",
+    "date": "23/04/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008472",
+    "movie": "La inmensidad",
+    "int_name": "L'immensità",
+    "dir": "Emanuele Crialese",
+    "pais": "Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "23/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:15",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008155",
+    "movie": "Lenguaje universal",
+    "int_name": "Une langue universelle",
+    "dir": "Matthew Rankin",
+    "pais": "Canadá",
+    "year": 2024,
+    "dur": "89",
+    "date": "23/04/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "13:45",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007780",
+    "movie": "Un amor",
+    "int_name": "Un amor",
+    "dir": "Isabel Coixet",
+    "pais": "España",
+    "year": 2023,
+    "dur": "129",
+    "date": "23/04/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45",
+      "20:30"
+    ]
+  }
+]

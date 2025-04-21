@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "25/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008472",
+    "movie": "La inmensidad",
+    "int_name": "L'immensità",
+    "dir": "Emanuele Crialese",
+    "pais": "Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "25/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:15",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008155",
+    "movie": "Lenguaje universal",
+    "int_name": "Une langue universelle",
+    "dir": "Matthew Rankin",
+    "pais": "Canadá",
+    "year": 2024,
+    "dur": "89",
+    "date": "25/04/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "13:45",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007780",
+    "movie": "Un amor",
+    "int_name": "Un amor",
+    "dir": "Isabel Coixet",
+    "pais": "España",
+    "year": 2023,
+    "dur": "129",
+    "date": "25/04/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45",
+      "20:30"
+    ]
+  }
+]

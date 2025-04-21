@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "26/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "13:45",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008472",
+    "movie": "La inmensidad",
+    "int_name": "L'immensità",
+    "dir": "Emanuele Crialese",
+    "pais": "Italia",
+    "year": 2022,
+    "dur": "99",
+    "date": "26/04/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:15",
+      "21:00"
+    ]
+  }
+]
