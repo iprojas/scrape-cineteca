@@ -1,0 +1,348 @@
+[
+  {
+    "filmid": "HO00008397",
+    "movie": "1938 cuando el petróleo fue nuestro",
+    "int_name": "1938",
+    "dir": "Sergio Olhovich",
+    "pais": "México",
+    "year": 1938,
+    "dur": "99",
+    "date": "28/04/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "16:20",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008429",
+    "movie": "Argonautas DOB",
+    "int_name": "Pattie et la colère de Poséidon",
+    "dir": "David Alaux",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "95",
+    "date": "28/04/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "14:20"
+    ]
+  },
+  {
+    "filmid": "HO00008399",
+    "movie": "Arillo de hombre muerto",
+    "int_name": "Arillo del hombre muerto",
+    "dir": "Alejandro Gerber Bicecci",
+    "pais": "México",
+    "year": 2024,
+    "dur": "108",
+    "date": "28/04/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "16:20",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008531",
+    "movie": "Black Box Diaries",
+    "int_name": "Black Box Diaries",
+    "dir": "Shiori Ito",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "104",
+    "date": "28/04/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:20",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008500",
+    "movie": "El aroma del pasto recién cortado",
+    "int_name": "El aroma del pasto recién cortado",
+    "dir": "Celina Murga",
+    "pais": "Alemania.",
+    "year": 2024,
+    "dur": "112",
+    "date": "28/04/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:50",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "28/04/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "14:00",
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008523",
+    "movie": "Goya",
+    "int_name": "Goya",
+    "dir": "Pablo Orta",
+    "pais": "Dir.: Pablo Orta",
+    "year": 2023,
+    "dur": "86",
+    "date": "28/04/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:10",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008404",
+    "movie": "La carga más preciada",
+    "int_name": "The Most Precious of Cargoes",
+    "dir": "Michel Hazanavicius",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "81",
+    "date": "28/04/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:30",
+      "16:40",
+      "18:50",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008002",
+    "movie": "La esposa del presidente",
+    "int_name": "Bernadette",
+    "dir": "Léa Domenach",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "92",
+    "date": "28/04/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "17:50"
+    ]
+  },
+  {
+    "filmid": "HO00007632",
+    "movie": "Los caminos del Che",
+    "int_name": "Los caminos del Che",
+    "dir": "Pablo Mensi",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "72",
+    "date": "28/04/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "28/04/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "16:00",
+      "18:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008417",
+    "movie": "Memorias de un caracol DOB",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "28/04/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008208",
+    "movie": "Memory",
+    "int_name": "Memory",
+    "dir": "Michel Franco",
+    "pais": "México-Estados Unidos",
+    "year": 2023,
+    "dur": "103",
+    "date": "28/04/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008401",
+    "movie": "Parthenope: los amores de Nápoles",
+    "int_name": "Parthenope",
+    "dir": "Paolo Sorrentino",
+    "pais": "Italia-Francia",
+    "year": 2024,
+    "dur": "136",
+    "date": "28/04/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008530",
+    "movie": "Pérdida total",
+    "int_name": "Pérdida total",
+    "dir": "Enrique Begné",
+    "pais": "México",
+    "year": 2025,
+    "dur": "94",
+    "date": "28/04/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "17:20"
+    ]
+  },
+  {
+    "filmid": "HO00008535",
+    "movie": "Tiempo de guerra",
+    "int_name": "Warfare",
+    "dir": "Alex Garland",
+    "pais": "Ray Mendoza",
+    "year": 2025,
+    "dur": "95",
+    "date": "28/04/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "16:00",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008467",
+    "movie": "Tóxico",
+    "int_name": "Akipleša",
+    "dir": "Saulė Bliuvaitė",
+    "pais": "Lituania",
+    "year": 2024,
+    "dur": "99",
+    "date": "28/04/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:50",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00008001",
+    "movie": "Un año difícil",
+    "int_name": "Une année difficile",
+    "dir": "Olivier Nakache y Eric Toledano",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "120",
+    "date": "28/04/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:30",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007362",
+    "movie": "Un domingo interminable",
+    "int_name": "Una sterminata domenica",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania",
+    "year": 2023,
+    "dur": "105",
+    "date": "28/04/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:40",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00008380",
+    "movie": "Vampira humanista busca suicida",
+    "int_name": "Vampira humanista busca suicida",
+    "dir": "Ariane Louis-Seize",
+    "pais": "Canadá (Quebec)",
+    "year": 2023,
+    "dur": "90",
+    "date": "28/04/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008466",
+    "movie": "Zafari",
+    "int_name": "Zafari",
+    "dir": "Mariana Rondón.",
+    "pais": "Perú-Venezuela-México-Francia-Brasil-Chile-República Dominicana",
+    "year": 2024,
+    "dur": "100",
+    "date": "28/04/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008467",
+    "movie": "Tóxico",
+    "int_name": "Akipleša",
+    "dir": "Saulė Bliuvaitė",
+    "pais": "Lituania",
+    "year": 2024,
+    "dur": "99",
+    "date": "28/04/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:50",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00008466",
+    "movie": "Zafari",
+    "int_name": "Zafari",
+    "dir": "Mariana Rondón.",
+    "pais": "Perú-Venezuela-México-Francia-Brasil-Chile-República Dominicana",
+    "year": 2024,
+    "dur": "100",
+    "date": "28/04/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:50",
+      "20:10"
+    ]
+  }
+]
