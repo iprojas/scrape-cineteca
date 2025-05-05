@@ -1,0 +1,333 @@
+[
+  {
+    "filmid": "HO00008429",
+    "movie": "Argonautas DOB",
+    "int_name": "Pattie et la colère de Poséidon",
+    "dir": "David Alaux",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "95",
+    "date": "07/05/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:00"
+    ]
+  },
+  {
+    "filmid": "HO00008541",
+    "movie": "Bambi, una aventura en el bosque DOB",
+    "int_name": "Bambi",
+    "dir": "Michel Fessler",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "77",
+    "date": "07/05/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008531",
+    "movie": "Black Box Diaries",
+    "int_name": "Black Box Diaries",
+    "dir": "Shiori Ito",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "104",
+    "date": "07/05/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "16:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008500",
+    "movie": "El aroma del pasto recién cortado",
+    "int_name": "El aroma del pasto recién cortado",
+    "dir": "Celina Murga",
+    "pais": "Alemania.",
+    "year": 2024,
+    "dur": "112",
+    "date": "07/05/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "16:30",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008556",
+    "movie": "El viaje de Chihiro DOB",
+    "int_name": "Sen to Chihiro no kamikakushi",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 2001,
+    "dur": "124",
+    "date": "07/05/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008545",
+    "movie": "El viaje de Chihiro SUB",
+    "int_name": "Sen to Chihiro no kamikakushi",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 2001,
+    "dur": "124",
+    "date": "07/05/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "15:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008544",
+    "movie": "Goodbye horses: Las muchas vidas de Q Lazzarus",
+    "int_name": "Goodbye Horses: The Many Lives of Q Lazzarus",
+    "dir": "Eva Aridjis Fuentes",
+    "pais": "México",
+    "year": 2024,
+    "dur": "103",
+    "date": "07/05/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "13:20",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00008523",
+    "movie": "Goya",
+    "int_name": "Goya",
+    "dir": "Pablo Orta",
+    "pais": "Dir.: Pablo Orta",
+    "year": 2023,
+    "dur": "86",
+    "date": "07/05/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "17:40"
+    ]
+  },
+  {
+    "filmid": "HO00008404",
+    "movie": "La carga más preciada",
+    "int_name": "The Most Precious of Cargoes",
+    "dir": "Michel Hazanavicius",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "81",
+    "date": "07/05/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "13:30",
+      "17:20"
+    ]
+  },
+  {
+    "filmid": "HO00007632",
+    "movie": "Los caminos del Che",
+    "int_name": "Los caminos del Che",
+    "dir": "Pablo Mensi",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "72",
+    "date": "07/05/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:40"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "07/05/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "16:30",
+      "18:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008417",
+    "movie": "Memorias de un caracol DOB",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "07/05/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008530",
+    "movie": "Pérdida total",
+    "int_name": "Pérdida total",
+    "dir": "Enrique Begné",
+    "pais": "México",
+    "year": 2025,
+    "dur": "94",
+    "date": "07/05/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:30",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00008546",
+    "movie": "Robocop",
+    "int_name": "Robocop",
+    "dir": "Paul Verhoeven",
+    "pais": "Estados Unidos",
+    "year": 1987,
+    "dur": "102",
+    "date": "07/05/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:40",
+      "17:50",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008535",
+    "movie": "Tiempo de guerra",
+    "int_name": "Warfare",
+    "dir": "Alex Garland",
+    "pais": "Ray Mendoza",
+    "year": 2025,
+    "dur": "95",
+    "date": "07/05/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "13:10",
+      "15:10",
+      "17:10",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008001",
+    "movie": "Un año difícil",
+    "int_name": "Une année difficile",
+    "dir": "Olivier Nakache y Eric Toledano",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "120",
+    "date": "07/05/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:50",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008547",
+    "movie": "Un cuento de pescadores: La maldición de la Miring",
+    "int_name": "Un cuento de pescadores: La maldición de la Miringua",
+    "dir": "Edgar Nito",
+    "pais": "México",
+    "year": 2024,
+    "dur": "103",
+    "date": "07/05/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:10",
+      "16:20",
+      "18:40",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00007362",
+    "movie": "Un domingo interminable",
+    "int_name": "Una sterminata domenica",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania",
+    "year": 2023,
+    "dur": "105",
+    "date": "07/05/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008380",
+    "movie": "Vampira humanista busca suicida",
+    "int_name": "Vampira humanista busca suicida",
+    "dir": "Ariane Louis-Seize",
+    "pais": "Canadá (Quebec)",
+    "year": 2023,
+    "dur": "90",
+    "date": "07/05/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:20",
+      "19:10",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008430",
+    "movie": "Chicharras",
+    "int_name": "Chicharras",
+    "dir": "Luna Marán",
+    "pais": "México",
+    "year": 2024,
+    "dur": "90",
+    "date": "07/05/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008410",
+    "movie": "Black Dog",
+    "int_name": "Gou zhen",
+    "dir": "Guan Hu",
+    "pais": "China",
+    "year": 2024,
+    "dur": "110",
+    "date": "07/05/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008470",
+    "movie": "En la alcoba del sultán",
+    "int_name": "En la alcoba del sultán",
+    "dir": "Javier Rebollo",
+    "pais": "España-Francia",
+    "year": 2024,
+    "dur": "97",
+    "date": "07/05/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:50",
+      "18:10"
+    ]
+  }
+]

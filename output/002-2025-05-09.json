@@ -1,0 +1,18 @@
+[
+  {
+    "filmid": "HO00008432",
+    "movie": "Gente de mar y viento",
+    "int_name": "Gente de mar y viento",
+    "dir": "Ingrid Eunice Fabián González",
+    "pais": "México",
+    "year": 2016,
+    "dur": "62",
+    "date": "09/05/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00"
+    ]
+  }
+]
