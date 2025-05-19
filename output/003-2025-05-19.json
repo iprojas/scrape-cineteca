@@ -1,0 +1,375 @@
+[
+  {
+    "filmid": "HO00008531",
+    "movie": "Black Box Diaries",
+    "int_name": "Black Box Diaries",
+    "dir": "Shiori Ito",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "104",
+    "date": "19/05/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007909",
+    "movie": "Dormir con los ojos abiertos",
+    "int_name": "Dormir de Olhos Abertos",
+    "dir": "Nele Wohlatz",
+    "pais": "Brasil-Argentina-Taiwán-Alemania",
+    "year": 2024,
+    "dur": "97",
+    "date": "19/05/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008500",
+    "movie": "El aroma del pasto recién cortado",
+    "int_name": "El aroma del pasto recién cortado",
+    "dir": "Celina Murga",
+    "pais": "Alemania.",
+    "year": 2024,
+    "dur": "112",
+    "date": "19/05/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00007003",
+    "movie": "El llanto de las tortugas",
+    "int_name": "El llanto de las tortugas",
+    "dir": "Jaime Villa Galindo",
+    "pais": "México",
+    "year": 2025,
+    "dur": "65",
+    "date": "19/05/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008556",
+    "movie": "El viaje de Chihiro DOB",
+    "int_name": "Sen to Chihiro no kamikakushi",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 2001,
+    "dur": "124",
+    "date": "19/05/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008545",
+    "movie": "El viaje de Chihiro SUB",
+    "int_name": "Sen to Chihiro no kamikakushi",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 2001,
+    "dur": "124",
+    "date": "19/05/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008336",
+    "movie": "Flow",
+    "int_name": "Flow",
+    "dir": "Gints Zilbalodis",
+    "pais": "Letonia-Bélgica-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "19/05/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008544",
+    "movie": "Goodbye horses: Las muchas vidas de Q Lazzarus",
+    "int_name": "Goodbye Horses: The Many Lives of Q Lazzarus",
+    "dir": "Eva Aridjis Fuentes",
+    "pais": "México",
+    "year": 2024,
+    "dur": "103",
+    "date": "19/05/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008403",
+    "movie": "Grand tour",
+    "int_name": "Grand Tour",
+    "dir": "Miguel Gomes",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "129",
+    "date": "19/05/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "19/05/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008404",
+    "movie": "La carga más preciada",
+    "int_name": "The Most Precious of Cargoes",
+    "dir": "Michel Hazanavicius",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "81",
+    "date": "19/05/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "17:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008002",
+    "movie": "La esposa del presidente",
+    "int_name": "Bernadette",
+    "dir": "Léa Domenach",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "92",
+    "date": "19/05/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008538",
+    "movie": "La falla",
+    "int_name": "La falla",
+    "dir": "Alana Simões",
+    "pais": "México",
+    "year": 2024,
+    "dur": "81",
+    "date": "19/05/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008211",
+    "movie": "La luz que imaginamos",
+    "int_name": "All We Imagine As Light",
+    "dir": "Payal Kapadia",
+    "pais": "Francia-India-Países Bajos-Luxemburgo-Italia",
+    "year": 2024,
+    "dur": "118",
+    "date": "19/05/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008543",
+    "movie": "La rueda conoce mi nombre",
+    "int_name": "La rueda conoce mi nombre",
+    "dir": "Claudio Zilleruelo Acra",
+    "pais": "México",
+    "year": 2024,
+    "dur": "88",
+    "date": "19/05/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:15",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007641",
+    "movie": "Las últimas cosas",
+    "int_name": "Last Things",
+    "dir": "Deborah Stratman",
+    "pais": "Estados Unidos-Portugal-Francia",
+    "year": 2023,
+    "dur": "50",
+    "date": "19/05/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:15",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00007632",
+    "movie": "Los caminos del Che",
+    "int_name": "Los caminos del Che",
+    "dir": "Pablo Mensi",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "72",
+    "date": "19/05/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "19/05/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008549",
+    "movie": "Mi piel oculta",
+    "int_name": "Mi piel oculta",
+    "dir": "Guadalupe Sánchez Sosa",
+    "pais": "México",
+    "year": 2022,
+    "dur": "92",
+    "date": "19/05/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008548",
+    "movie": "Mis cuatro hijas",
+    "int_name": "Les Filles d'Olfa",
+    "dir": "Kaouther Ben Hania",
+    "pais": "Dir.: Kaouther Ben Hania",
+    "year": 2023,
+    "dur": "107",
+    "date": "19/05/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008401",
+    "movie": "Parthenope: los amores de Nápoles",
+    "int_name": "Parthenope",
+    "dir": "Paolo Sorrentino",
+    "pais": "Italia-Francia",
+    "year": 2024,
+    "dur": "136",
+    "date": "19/05/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00008532",
+    "movie": "Reflejo de un pescador",
+    "int_name": "Reflejo de un pescador",
+    "dir": "Benjamín Delgado y Lucia Cavallotti",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "68",
+    "date": "19/05/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00008212",
+    "movie": "Simón de la montaña",
+    "int_name": "Simón de la montaña",
+    "dir": "Federico Luis",
+    "pais": "Argentina-Chile-Uruguay",
+    "year": 2024,
+    "dur": "98",
+    "date": "19/05/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:45",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00006196",
+    "movie": "Tutti Frutti. El templo del underground",
+    "int_name": "Tutti Frutti. El templo del underground",
+    "dir": "Laura Ponte",
+    "pais": "México",
+    "year": 2022,
+    "dur": "75",
+    "date": "19/05/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "15:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007362",
+    "movie": "Un domingo interminable",
+    "int_name": "Una sterminata domenica",
+    "dir": "Alain Parroni",
+    "pais": "Italia-Alemania",
+    "year": 2023,
+    "dur": "105",
+    "date": "19/05/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007635",
+    "movie": "Yo vi tres luces negras",
+    "int_name": "Yo vi tres luces negras",
+    "dir": "Santiago Lozano Álvarez",
+    "pais": "Colombia-México-Francia-Alemania",
+    "year": 2023,
+    "dur": "83",
+    "date": "19/05/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "17:00"
+    ]
+  }
+]
