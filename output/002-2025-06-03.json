@@ -1,0 +1,294 @@
+[
+  {
+    "filmid": "HO00008429",
+    "movie": "Argonautas DOB",
+    "int_name": "Pattie et la colère de Poséidon",
+    "dir": "David Alaux",
+    "pais": "Francia",
+    "year": 2022,
+    "dur": "95",
+    "date": "03/06/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008541",
+    "movie": "Bambi, una aventura en el bosque DOB",
+    "int_name": "Bambi",
+    "dir": "Michel Fessler",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "77",
+    "date": "03/06/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:10"
+    ]
+  },
+  {
+    "filmid": "HO00008531",
+    "movie": "Black Box Diaries",
+    "int_name": "Black Box Diaries",
+    "dir": "Shiori Ito",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "104",
+    "date": "03/06/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "13:40",
+      "16:10",
+      "18:30",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008552",
+    "movie": "El esquema fenicio",
+    "int_name": "The Phoenician Scheme",
+    "dir": "Wes Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "120",
+    "date": "03/06/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "13:50",
+      "16:00",
+      "18:10",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00007003",
+    "movie": "El llanto de las tortugas",
+    "int_name": "El llanto de las tortugas",
+    "dir": "Jaime Villa Galindo",
+    "pais": "México",
+    "year": 2025,
+    "dur": "65",
+    "date": "03/06/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:10",
+      "15:50",
+      "17:20",
+      "19:20",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008544",
+    "movie": "Goodbye horses: Las muchas vidas de Q Lazzarus",
+    "int_name": "Goodbye Horses: The Many Lives of Q Lazzarus",
+    "dir": "Eva Aridjis Fuentes",
+    "pais": "México",
+    "year": 2024,
+    "dur": "103",
+    "date": "03/06/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:40",
+      "17:00",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00007850",
+    "movie": "Júpiter",
+    "int_name": "Júpiter",
+    "dir": "Benjamin Pfohl",
+    "pais": "Alemania",
+    "year": 2023,
+    "dur": "101",
+    "date": "03/06/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:20",
+      "17:30",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008404",
+    "movie": "La carga más preciada",
+    "int_name": "The Most Precious of Cargoes",
+    "dir": "Michel Hazanavicius",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "81",
+    "date": "03/06/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "16:20",
+      "18:20",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008538",
+    "movie": "La falla",
+    "int_name": "La falla",
+    "dir": "Alana Simões",
+    "pais": "México",
+    "year": 2024,
+    "dur": "81",
+    "date": "03/06/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:00",
+      "15:10",
+      "16:50",
+      "18:50",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00000836",
+    "movie": "La princesa Kaguya",
+    "int_name": "Kaguyahime no monogatari",
+    "dir": "Isao Takahata",
+    "pais": "Japón",
+    "year": 2013,
+    "dur": "137",
+    "date": "03/06/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:30",
+      "17:10",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "03/06/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:40",
+      "17:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008417",
+    "movie": "Memorias de un caracol DOB",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "03/06/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00008549",
+    "movie": "Mi piel oculta",
+    "int_name": "Mi piel oculta",
+    "dir": "Guadalupe Sánchez Sosa",
+    "pais": "México",
+    "year": 2022,
+    "dur": "92",
+    "date": "03/06/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:30",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00006196",
+    "movie": "Tutti Frutti. El templo del underground",
+    "int_name": "Tutti Frutti. El templo del underground",
+    "dir": "Laura Ponte",
+    "pais": "México",
+    "year": 2022,
+    "dur": "75",
+    "date": "03/06/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:20",
+      "17:40"
+    ]
+  },
+  {
+    "filmid": "HO00008001",
+    "movie": "Un año difícil",
+    "int_name": "Une année difficile",
+    "dir": "Olivier Nakache y Eric Toledano",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "120",
+    "date": "03/06/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008547",
+    "movie": "Un cuento de pescadores: La maldición de la Miring",
+    "int_name": "Un cuento de pescadores: La maldición de la Miringua",
+    "dir": "Edgar Nito",
+    "pais": "México",
+    "year": 2024,
+    "dur": "103",
+    "date": "03/06/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:20"
+    ]
+  },
+  {
+    "filmid": "HO00008671",
+    "movie": "Charlas: Crónica de un desayuno",
+    "int_name": "Crónica de un desayuno",
+    "dir": "Benjamín Cann",
+    "pais": "México",
+    "year": 2000,
+    "dur": "120",
+    "date": "03/06/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00000172",
+    "movie": "Adiós al lenguaje",
+    "int_name": "Goodbye to Language",
+    "dir": "Jean-Luc Godard",
+    "pais": "Francia-Suiza",
+    "year": 2014,
+    "dur": "70",
+    "date": "03/06/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008664",
+    "movie": "Say Goodbye",
+    "int_name": "Say Goodbye",
+    "dir": "Paloma López Carrillo",
+    "pais": "Dir.: Paloma López Carrillo",
+    "year": 2025,
+    "dur": "104",
+    "date": "03/06/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "20:00"
+    ]
+  }
+]

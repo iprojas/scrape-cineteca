@@ -1,0 +1,373 @@
+[
+  {
+    "filmid": "HO00007909",
+    "movie": "Dormir con los ojos abiertos",
+    "int_name": "Dormir de Olhos Abertos",
+    "dir": "Nele Wohlatz",
+    "pais": "Brasil-Argentina-Taiwán-Alemania",
+    "year": 2024,
+    "dur": "97",
+    "date": "03/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008552",
+    "movie": "El esquema fenicio",
+    "int_name": "The Phoenician Scheme",
+    "dir": "Wes Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "120",
+    "date": "03/06/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:15",
+      "16:30",
+      "18:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007003",
+    "movie": "El llanto de las tortugas",
+    "int_name": "El llanto de las tortugas",
+    "dir": "Jaime Villa Galindo",
+    "pais": "México",
+    "year": 2025,
+    "dur": "65",
+    "date": "03/06/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "03/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008404",
+    "movie": "La carga más preciada",
+    "int_name": "The Most Precious of Cargoes",
+    "dir": "Michel Hazanavicius",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "81",
+    "date": "03/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00000836",
+    "movie": "La princesa Kaguya",
+    "int_name": "Kaguyahime no monogatari",
+    "dir": "Isao Takahata",
+    "pais": "Japón",
+    "year": 2013,
+    "dur": "137",
+    "date": "03/06/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008543",
+    "movie": "La rueda conoce mi nombre",
+    "int_name": "La rueda conoce mi nombre",
+    "dir": "Claudio Zilleruelo Acra",
+    "pais": "México",
+    "year": 2024,
+    "dur": "88",
+    "date": "03/06/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008550",
+    "movie": "Las margaritas",
+    "int_name": "Sedmikrasky",
+    "dir": "Vera Chytilova",
+    "pais": "Checoslovaquia",
+    "year": 1965,
+    "dur": "76",
+    "date": "03/06/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007632",
+    "movie": "Los caminos del Che",
+    "int_name": "Los caminos del Che",
+    "dir": "Pablo Mensi",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "72",
+    "date": "03/06/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "03/06/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008549",
+    "movie": "Mi piel oculta",
+    "int_name": "Mi piel oculta",
+    "dir": "Guadalupe Sánchez Sosa",
+    "pais": "México",
+    "year": 2022,
+    "dur": "92",
+    "date": "03/06/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008548",
+    "movie": "Mis cuatro hijas",
+    "int_name": "Les Filles d'Olfa",
+    "dir": "Kaouther Ben Hania",
+    "pais": "Dir.: Kaouther Ben Hania",
+    "year": 2023,
+    "dur": "107",
+    "date": "03/06/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008551",
+    "movie": "Partida",
+    "int_name": "Partida",
+    "dir": "Luis Ayhllón",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "03/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "03/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008532",
+    "movie": "Reflejo de un pescador",
+    "int_name": "Reflejo de un pescador",
+    "dir": "Benjamín Delgado y Lucia Cavallotti",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "68",
+    "date": "03/06/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008212",
+    "movie": "Simón de la montaña",
+    "int_name": "Simón de la montaña",
+    "dir": "Federico Luis",
+    "pais": "Argentina-Chile-Uruguay",
+    "year": 2024,
+    "dur": "98",
+    "date": "03/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008542",
+    "movie": "Sueño mexicano",
+    "int_name": "Sueño mexicano",
+    "dir": "Laura Plancarte",
+    "pais": "México",
+    "year": 2023,
+    "dur": "90",
+    "date": "03/06/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:15",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00006196",
+    "movie": "Tutti Frutti. El templo del underground",
+    "int_name": "Tutti Frutti. El templo del underground",
+    "dir": "Laura Ponte",
+    "pais": "México",
+    "year": 2022,
+    "dur": "75",
+    "date": "03/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00007635",
+    "movie": "Yo vi tres luces negras",
+    "int_name": "Yo vi tres luces negras",
+    "dir": "Santiago Lozano Álvarez",
+    "pais": "Colombia-México-Francia-Alemania",
+    "year": 2023,
+    "dur": "83",
+    "date": "03/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008372",
+    "movie": "Charlas de cine mexicano: Los otros directores",
+    "int_name": "Los bienamados",
+    "dir": "Juan José Gurrola",
+    "pais": "México",
+    "year": 1965,
+    "dur": "90",
+    "date": "03/06/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008629",
+    "movie": "Bajo las banderas, el sol",
+    "int_name": "Bajo las banderas",
+    "dir": "Juanjo Pereira",
+    "pais": "et al",
+    "year": 2025,
+    "dur": "90",
+    "date": "03/06/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008633",
+    "movie": "Flores de Shanghái",
+    "int_name": "Flowers of Shanghai",
+    "dir": "Hou Hsiao-hsien",
+    "pais": "Taiwán-Japón",
+    "year": 1998,
+    "dur": "113",
+    "date": "03/06/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008630",
+    "movie": "Luz en el trópico",
+    "int_name": "Luz en el trópico",
+    "dir": "Paula Gaitán",
+    "pais": "Brasil",
+    "year": 2020,
+    "dur": "255",
+    "date": "03/06/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008632",
+    "movie": "Monólogo colectivo",
+    "int_name": "Monólogo colectivo",
+    "dir": "Jessica Sarah Rinland",
+    "pais": "Argentina-Reino Unido",
+    "year": 2024,
+    "dur": "104",
+    "date": "03/06/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008628",
+    "movie": "Uaka",
+    "int_name": "Uaka",
+    "dir": "Paula Gaitán",
+    "pais": "Brasil",
+    "year": 1988,
+    "dur": "77",
+    "date": "03/06/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008631",
+    "movie": "Umbral 2 2025",
+    "int_name": "Umbral 2",
+    "dir": "Albert Sackl",
+    "pais": "",
+    "year": null,
+    "dur": "53",
+    "date": "03/06/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:15"
+    ]
+  }
+]
