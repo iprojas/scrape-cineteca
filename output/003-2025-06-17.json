@@ -1,0 +1,385 @@
+[
+  {
+    "filmid": "HO00008598",
+    "movie": "Clara se pierde en el bosque",
+    "int_name": "Clara se pierde en el bosque",
+    "dir": "Camila Fabbri",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "17/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008715",
+    "movie": "Cómo entrenar a tu dragón DOB",
+    "int_name": "How to Train Your Dragon",
+    "dir": "Dean DeBlois",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "119",
+    "date": "17/06/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008601",
+    "movie": "El arranque",
+    "int_name": "El arranque",
+    "dir": "Federico Jacobi",
+    "pais": "Argentina-México",
+    "year": 2024,
+    "dur": "72",
+    "date": "17/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008552",
+    "movie": "El esquema fenicio",
+    "int_name": "The Phoenician Scheme",
+    "dir": "Wes Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "120",
+    "date": "17/06/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "18:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007003",
+    "movie": "El llanto de las tortugas",
+    "int_name": "El llanto de las tortugas",
+    "dir": "Jaime Villa Galindo",
+    "pais": "México",
+    "year": 2025,
+    "dur": "65",
+    "date": "17/06/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "17/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00008538",
+    "movie": "La falla",
+    "int_name": "La falla",
+    "dir": "Alana Simões",
+    "pais": "México",
+    "year": 2024,
+    "dur": "81",
+    "date": "17/06/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00000836",
+    "movie": "La princesa Kaguya",
+    "int_name": "Kaguyahime no monogatari",
+    "dir": "Isao Takahata",
+    "pais": "Japón",
+    "year": 2013,
+    "dur": "137",
+    "date": "17/06/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008543",
+    "movie": "La rueda conoce mi nombre",
+    "int_name": "La rueda conoce mi nombre",
+    "dir": "Claudio Zilleruelo Acra",
+    "pais": "México",
+    "year": 2024,
+    "dur": "88",
+    "date": "17/06/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00005760",
+    "movie": "Las hostilidades",
+    "int_name": "Las hostilidades",
+    "dir": "Sebastian Molina",
+    "pais": "México",
+    "year": 2021,
+    "dur": "70",
+    "date": "17/06/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:45",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008550",
+    "movie": "Las margaritas",
+    "int_name": "Sedmikrasky",
+    "dir": "Vera Chytilova",
+    "pais": "Checoslovaquia",
+    "year": 1965,
+    "dur": "76",
+    "date": "17/06/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008155",
+    "movie": "Lenguaje universal",
+    "int_name": "Une langue universelle",
+    "dir": "Matthew Rankin",
+    "pais": "Canadá",
+    "year": 2024,
+    "dur": "89",
+    "date": "17/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008549",
+    "movie": "Mi piel oculta",
+    "int_name": "Mi piel oculta",
+    "dir": "Guadalupe Sánchez Sosa",
+    "pais": "México",
+    "year": 2022,
+    "dur": "92",
+    "date": "17/06/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008551",
+    "movie": "Partida",
+    "int_name": "Partida",
+    "dir": "Luis Ayhllón",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "17/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008596",
+    "movie": "Puertas abiertas",
+    "int_name": "Derë e hapur",
+    "dir": "Florenc Papas",
+    "pais": "Albania-Kosovo-Italia-Macedonia del Norte",
+    "year": 2019,
+    "dur": "77",
+    "date": "17/06/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "17/06/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00",
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008532",
+    "movie": "Reflejo de un pescador",
+    "int_name": "Reflejo de un pescador",
+    "dir": "Benjamín Delgado y Lucia Cavallotti",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "68",
+    "date": "17/06/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00008286",
+    "movie": "Rocco y sus hermanos",
+    "int_name": "Rocco e i suoi Fratelli",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1960,
+    "dur": "179",
+    "date": "17/06/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008212",
+    "movie": "Simón de la montaña",
+    "int_name": "Simón de la montaña",
+    "dir": "Federico Luis",
+    "pais": "Argentina-Chile-Uruguay",
+    "year": 2024,
+    "dur": "98",
+    "date": "17/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008542",
+    "movie": "Sueño mexicano",
+    "int_name": "Sueño mexicano",
+    "dir": "Laura Plancarte",
+    "pais": "México",
+    "year": 2023,
+    "dur": "90",
+    "date": "17/06/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:45",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00006196",
+    "movie": "Tutti Frutti. El templo del underground",
+    "int_name": "Tutti Frutti. El templo del underground",
+    "dir": "Laura Ponte",
+    "pais": "México",
+    "year": 2022,
+    "dur": "75",
+    "date": "17/06/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00001215",
+    "movie": "Una cita de amor",
+    "int_name": "Una cita de amor",
+    "dir": "Emilio Fernández",
+    "pais": "México",
+    "year": 1956,
+    "dur": "86",
+    "date": "17/06/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008599",
+    "movie": "Vermiglio",
+    "int_name": "Vermiglio",
+    "dir": "Maura Delpero",
+    "pais": "Italia",
+    "year": 2024,
+    "dur": "119",
+    "date": "17/06/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008372",
+    "movie": "Charlas de cine mexicano: Los otros directores",
+    "int_name": "Los Caifanes",
+    "dir": "Juan Ibáñez",
+    "pais": "México",
+    "year": 1966,
+    "dur": "102",
+    "date": "17/06/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008694",
+    "movie": "Santa Teresa y otras historias",
+    "int_name": "Santa Teresa y otras historias",
+    "dir": "Nelson Carlo de los Santos",
+    "pais": "México-República Dominicana",
+    "year": 2015,
+    "dur": "65",
+    "date": "17/06/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008687",
+    "movie": "El oro y el mundo",
+    "int_name": "O Ouro e o Mundo",
+    "dir": "Ico Costa",
+    "pais": "Portugal-Francia",
+    "year": 2024,
+    "dur": "104",
+    "date": "17/06/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008680",
+    "movie": "Kora/ Nocturno para una floresta/ Las hijas del",
+    "int_name": "Programa de cortometrajes - Semana de Cine Portugués",
+    "dir": "Cláudia Varejão",
+    "pais": "",
+    "year": 2023,
+    "dur": "76",
+    "date": "17/06/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:30"
+    ]
+  }
+]
