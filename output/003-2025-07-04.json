@@ -1,0 +1,28 @@
+[
+  {
+    "filmid": "HO00008746",
+    "movie": "El agente secreto",
+    "int_name": "El agente secreto",
+    "dir": "Kleber Mendonça Filho",
+    "pais": "Brasil",
+    "year": 2025,
+    "dur": "160",
+    "date": "04/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008751",
+    "movie": "The Mastermind",
+    "int_name": "The mastermind",
+    "dir": "Kelly Reichardt",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "110",
+    "date": "04/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": []
+  }
+]

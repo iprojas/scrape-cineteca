@@ -1,0 +1,42 @@
+[
+  {
+    "filmid": "HO00008756",
+    "movie": "Alpha",
+    "int_name": "Alpha",
+    "dir": "Julia Ducournau",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "128",
+    "date": "06/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008749",
+    "movie": "Sentimental Value",
+    "int_name": "Sentimental Value",
+    "dir": "Joachim Trier",
+    "pais": "Alemania",
+    "year": 2025,
+    "dur": "132",
+    "date": "06/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00008751",
+    "movie": "The Mastermind",
+    "int_name": "The mastermind",
+    "dir": "Kelly Reichardt",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "110",
+    "date": "06/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "20:30"
+    ]
+  }
+]

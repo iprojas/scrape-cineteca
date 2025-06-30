@@ -1,0 +1,40 @@
+[
+  {
+    "filmid": "HO00008746",
+    "movie": "El agente secreto",
+    "int_name": "El agente secreto",
+    "dir": "Kleber Mendonça Filho",
+    "pais": "Brasil",
+    "year": 2025,
+    "dur": "160",
+    "date": "05/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008754",
+    "movie": "It was just an accident",
+    "int_name": "It was just an accident",
+    "dir": "Jafar Panahi",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "101",
+    "date": "05/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00008749",
+    "movie": "Sentimental Value",
+    "int_name": "Sentimental Value",
+    "dir": "Joachim Trier",
+    "pais": "Alemania",
+    "year": 2025,
+    "dur": "132",
+    "date": "05/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": []
+  }
+]

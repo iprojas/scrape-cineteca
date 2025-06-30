@@ -1,0 +1,416 @@
+[
+  {
+    "filmid": "HO00008598",
+    "movie": "Clara se pierde en el bosque",
+    "int_name": "Clara se pierde en el bosque",
+    "dir": "Camila Fabbri",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "03/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008715",
+    "movie": "Cómo entrenar a tu dragón DOB",
+    "int_name": "How to Train Your Dragon",
+    "dir": "Dean DeBlois",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "125",
+    "date": "03/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008601",
+    "movie": "El arranque",
+    "int_name": "El arranque",
+    "dir": "Federico Jacobi",
+    "pais": "Argentina-México",
+    "year": 2024,
+    "dur": "72",
+    "date": "03/07/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008552",
+    "movie": "El esquema fenicio",
+    "int_name": "The Phoenician Scheme",
+    "dir": "Wes Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "120",
+    "date": "03/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007003",
+    "movie": "El llanto de las tortugas",
+    "int_name": "El llanto de las tortugas",
+    "dir": "Jaime Villa Galindo",
+    "pais": "México",
+    "year": 2025,
+    "dur": "65",
+    "date": "03/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:00",
+      "17:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008604",
+    "movie": "Elio SUB",
+    "int_name": "Elio",
+    "dir": "Adrián Molina",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "90",
+    "date": "03/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008215",
+    "movie": "It's not me",
+    "int_name": "C'est pas moi",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "42",
+    "date": "03/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007906",
+    "movie": "knit's Island: isla de la simulación",
+    "int_name": "Knit's Island",
+    "dir": "Ekiem Barbier",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "03/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008603",
+    "movie": "La arriera",
+    "int_name": "La Arriera",
+    "dir": "Isabel Cristina Fregoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "102",
+    "date": "03/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008538",
+    "movie": "La falla",
+    "int_name": "La falla",
+    "dir": "Alana Simões",
+    "pais": "México",
+    "year": 2024,
+    "dur": "81",
+    "date": "03/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008696",
+    "movie": "La orquesta desentonada",
+    "int_name": "En fanfare",
+    "dir": "Emmanuel Courcol",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "103",
+    "date": "03/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00000836",
+    "movie": "La princesa Kaguya",
+    "int_name": "Kaguyahime no monogatari",
+    "dir": "Isao Takahata",
+    "pais": "Japón",
+    "year": 2013,
+    "dur": "137",
+    "date": "03/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00005760",
+    "movie": "Las hostilidades",
+    "int_name": "Las hostilidades",
+    "dir": "Sebastian Molina",
+    "pais": "México",
+    "year": 2021,
+    "dur": "70",
+    "date": "03/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:45",
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00008550",
+    "movie": "Las margaritas",
+    "int_name": "Sedmikrasky",
+    "dir": "Vera Chytilova",
+    "pais": "Checoslovaquia",
+    "year": 1965,
+    "dur": "76",
+    "date": "03/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008155",
+    "movie": "Lenguaje universal",
+    "int_name": "Une langue universelle",
+    "dir": "Matthew Rankin",
+    "pais": "Canadá",
+    "year": 2024,
+    "dur": "89",
+    "date": "03/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008606",
+    "movie": "Los amantes del Pont-Neuf",
+    "int_name": "Les amants du Pont-Neuf",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 1991,
+    "dur": "125",
+    "date": "03/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "03/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:30",
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008549",
+    "movie": "Mi piel oculta",
+    "int_name": "Mi piel oculta",
+    "dir": "Guadalupe Sánchez Sosa",
+    "pais": "México",
+    "year": 2022,
+    "dur": "92",
+    "date": "03/07/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008548",
+    "movie": "Mis cuatro hijas",
+    "int_name": "Les Filles d'Olfa",
+    "dir": "Kaouther Ben Hania",
+    "pais": "Dir.: Kaouther Ben Hania",
+    "year": 2023,
+    "dur": "107",
+    "date": "03/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008005",
+    "movie": "No hagas olas",
+    "int_name": "Pas de vagues",
+    "dir": "Teddy Lussi-Modeste",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "91",
+    "date": "03/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008551",
+    "movie": "Partida",
+    "int_name": "Partida",
+    "dir": "Luis Ayhllón",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "03/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008374",
+    "movie": "Pastores",
+    "int_name": "Bergers",
+    "dir": "Sophie Deraspe",
+    "pais": "Canadá (Quebec)-Francia",
+    "year": 2024,
+    "dur": "113",
+    "date": "03/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:15",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008596",
+    "movie": "Puertas abiertas",
+    "int_name": "Derë e hapur",
+    "dir": "Florenc Papas",
+    "pais": "Albania-Kosovo-Italia-Macedonia del Norte",
+    "year": 2019,
+    "dur": "77",
+    "date": "03/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "15:00",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "03/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008286",
+    "movie": "Rocco y sus hermanos",
+    "int_name": "Rocco e i suoi Fratelli",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1960,
+    "dur": "179",
+    "date": "03/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008602",
+    "movie": "Superman 42",
+    "int_name": "Superman 42",
+    "dir": "Dave Fleischer",
+    "pais": "",
+    "year": 1941,
+    "dur": "80",
+    "date": "03/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00006196",
+    "movie": "Tutti Frutti. El templo del underground",
+    "int_name": "Tutti Frutti. El templo del underground",
+    "dir": "Laura Ponte",
+    "pais": "México",
+    "year": 2022,
+    "dur": "75",
+    "date": "03/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00001215",
+    "movie": "Una cita de amor",
+    "int_name": "Una cita de amor",
+    "dir": "Emilio Fernández",
+    "pais": "México",
+    "year": 1956,
+    "dur": "86",
+    "date": "03/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008599",
+    "movie": "Vermiglio",
+    "int_name": "Vermiglio",
+    "dir": "Maura Delpero",
+    "pais": "Italia",
+    "year": 2024,
+    "dur": "119",
+    "date": "03/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "21:00"
+    ]
+  }
+]
