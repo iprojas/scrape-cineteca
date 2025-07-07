@@ -1,0 +1,299 @@
+[
+  {
+    "filmid": "HO00008598",
+    "movie": "Clara se pierde en el bosque",
+    "int_name": "Clara se pierde en el bosque",
+    "dir": "Camila Fabbri",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "09/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008715",
+    "movie": "Cómo entrenar a tu dragón DOB",
+    "int_name": "How to Train Your Dragon",
+    "dir": "Dean DeBlois",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "125",
+    "date": "09/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008552",
+    "movie": "El esquema fenicio",
+    "int_name": "The Phoenician Scheme",
+    "dir": "Wes Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "120",
+    "date": "09/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00000701",
+    "movie": "El secreto de Romelia",
+    "int_name": "El secreto de Romelia",
+    "dir": "Busi Cortés",
+    "pais": "México",
+    "year": 1988,
+    "dur": "109",
+    "date": "09/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008742",
+    "movie": "Elio DOB",
+    "int_name": "Elio DOB",
+    "dir": "Adrián Molina",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "90",
+    "date": "09/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008697",
+    "movie": "Hot milk",
+    "int_name": "Hot Milk",
+    "dir": "Rebecca Lenkiewicz",
+    "pais": "Reino Unido",
+    "year": 2025,
+    "dur": "0",
+    "date": "09/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008215",
+    "movie": "It's not me",
+    "int_name": "C'est pas moi",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "42",
+    "date": "09/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008603",
+    "movie": "La arriera",
+    "int_name": "La Arriera",
+    "dir": "Isabel Cristina Fregoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "102",
+    "date": "09/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00007412",
+    "movie": "La colina de las amapolas",
+    "int_name": "Kokuriko-zaka kara",
+    "dir": "Gorô Miyazaki",
+    "pais": "Japón",
+    "year": 2011,
+    "dur": "91",
+    "date": "09/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:15",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008696",
+    "movie": "La orquesta desentonada",
+    "int_name": "En fanfare",
+    "dir": "Emmanuel Courcol",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "103",
+    "date": "09/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008550",
+    "movie": "Las margaritas",
+    "int_name": "Sedmikrasky",
+    "dir": "Vera Chytilova",
+    "pais": "Checoslovaquia",
+    "year": 1965,
+    "dur": "76",
+    "date": "09/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008606",
+    "movie": "Los amantes del Pont-Neuf",
+    "int_name": "Les amants du Pont-Neuf",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 1991,
+    "dur": "125",
+    "date": "09/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008218",
+    "movie": "Memorias de un caracol",
+    "int_name": "Memoir of a Snail",
+    "dir": "Adam Elliot",
+    "pais": "Australia",
+    "year": 2024,
+    "dur": "94",
+    "date": "09/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008005",
+    "movie": "No hagas olas",
+    "int_name": "Pas de vagues",
+    "dir": "Teddy Lussi-Modeste",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "91",
+    "date": "09/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "17:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008551",
+    "movie": "Partida",
+    "int_name": "Partida",
+    "dir": "Luis Ayhllón",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "09/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008374",
+    "movie": "Pastores",
+    "int_name": "Bergers",
+    "dir": "Sophie Deraspe",
+    "pais": "Canadá (Quebec)-Francia",
+    "year": 2024,
+    "dur": "113",
+    "date": "09/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008596",
+    "movie": "Puertas abiertas",
+    "int_name": "Derë e hapur",
+    "dir": "Florenc Papas",
+    "pais": "Albania-Kosovo-Italia-Macedonia del Norte",
+    "year": 2019,
+    "dur": "77",
+    "date": "09/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008602",
+    "movie": "Superman 42",
+    "int_name": "Superman 42",
+    "dir": "Dave Fleischer",
+    "pais": "",
+    "year": 1941,
+    "dur": "80",
+    "date": "09/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00001215",
+    "movie": "Una cita de amor",
+    "int_name": "Una cita de amor",
+    "dir": "Emilio Fernández",
+    "pais": "México",
+    "year": 1956,
+    "dur": "86",
+    "date": "09/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008805",
+    "movie": "Charla Rosario/ 100/ Castellamos",
+    "int_name": "Los tres reyes magos",
+    "dir": "Adolfo Torres Portillo / Fernando Ruíz",
+    "pais": "México",
+    "year": 1375,
+    "dur": "0",
+    "date": "09/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008707",
+    "movie": "Para que puedan afrontar el sol naciente",
+    "int_name": "That They May Face the Rising Sun",
+    "dir": "Pat Collins",
+    "pais": "Irlanda-Reino Unido",
+    "year": 2024,
+    "dur": "111",
+    "date": "09/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:00"
+    ]
+  }
+]
