@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00008815",
+    "movie": "Infierno",
+    "int_name": "Jigoku",
+    "dir": "Nobuo Nakagawa",
+    "pais": "Japón",
+    "year": 1960,
+    "dur": "101",
+    "date": "18/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008806",
+    "movie": "La mujer perdida",
+    "int_name": "Ugetsu",
+    "dir": "Kenji MizoguchI",
+    "pais": "Japón",
+    "year": 1953,
+    "dur": "96",
+    "date": "18/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:00"
+    ]
+  }
+]

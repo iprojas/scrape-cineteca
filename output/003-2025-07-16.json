@@ -1,0 +1,388 @@
+[
+  {
+    "filmid": "HO00008117",
+    "movie": "Bird. Emprender el vuelo",
+    "int_name": "Bird",
+    "dir": "Andrea Arnold",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "119",
+    "date": "16/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008598",
+    "movie": "Clara se pierde en el bosque",
+    "int_name": "Clara se pierde en el bosque",
+    "dir": "Camila Fabbri",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "16/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008715",
+    "movie": "Cómo entrenar a tu dragón DOB",
+    "int_name": "How to Train Your Dragon",
+    "dir": "Dean DeBlois",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "125",
+    "date": "16/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008601",
+    "movie": "El arranque",
+    "int_name": "El arranque",
+    "dir": "Federico Jacobi",
+    "pais": "Argentina-México",
+    "year": 2024,
+    "dur": "72",
+    "date": "16/07/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008552",
+    "movie": "El esquema fenicio",
+    "int_name": "The Phoenician Scheme",
+    "dir": "Wes Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "120",
+    "date": "16/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:15"
+    ]
+  },
+  {
+    "filmid": "HO00000701",
+    "movie": "El secreto de Romelia",
+    "int_name": "El secreto de Romelia",
+    "dir": "Busi Cortés",
+    "pais": "México",
+    "year": 1988,
+    "dur": "109",
+    "date": "16/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008742",
+    "movie": "Elio DOB",
+    "int_name": "Elio DOB",
+    "dir": "Adrián Molina",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "90",
+    "date": "16/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008392",
+    "movie": "Gizmo",
+    "int_name": "Gizmo",
+    "dir": "Everardo Felipe",
+    "pais": "México",
+    "year": 2024,
+    "dur": "78",
+    "date": "16/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008697",
+    "movie": "Hot milk",
+    "int_name": "Hot Milk",
+    "dir": "Rebecca Lenkiewicz",
+    "pais": "Reino Unido",
+    "year": 2025,
+    "dur": "92",
+    "date": "16/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008215",
+    "movie": "It's not me",
+    "int_name": "C'est pas moi",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "42",
+    "date": "16/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008698",
+    "movie": "La colina de las amapolas",
+    "int_name": "Kokuriko-zaka kara",
+    "dir": "Gorô Miyazaki",
+    "pais": "Japón",
+    "year": 2011,
+    "dur": "91",
+    "date": "16/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00",
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008699",
+    "movie": "La nieve entre los dos",
+    "int_name": "La nieve entre los dos",
+    "dir": "Pablo Martínez Pessi",
+    "pais": "Uruguay–Suecia-Chile",
+    "year": 2023,
+    "dur": "83",
+    "date": "16/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008696",
+    "movie": "La orquesta desentonada",
+    "int_name": "En fanfare",
+    "dir": "Emmanuel Courcol",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "103",
+    "date": "16/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00005760",
+    "movie": "Las hostilidades",
+    "int_name": "Las hostilidades",
+    "dir": "Sebastian Molina",
+    "pais": "México",
+    "year": 2021,
+    "dur": "70",
+    "date": "16/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:15",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008550",
+    "movie": "Las margaritas",
+    "int_name": "Sedmikrasky",
+    "dir": "Vera Chytilova",
+    "pais": "Checoslovaquia",
+    "year": 1965,
+    "dur": "76",
+    "date": "16/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008155",
+    "movie": "Lenguaje universal",
+    "int_name": "Une langue universelle",
+    "dir": "Matthew Rankin",
+    "pais": "Canadá",
+    "year": 2024,
+    "dur": "89",
+    "date": "16/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008606",
+    "movie": "Los amantes del Pont-Neuf",
+    "int_name": "Les amants du Pont-Neuf",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 1991,
+    "dur": "125",
+    "date": "16/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008005",
+    "movie": "No hagas olas",
+    "int_name": "Pas de vagues",
+    "dir": "Teddy Lussi-Modeste",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "91",
+    "date": "16/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008551",
+    "movie": "Partida",
+    "int_name": "Partida",
+    "dir": "Luis Ayhllón",
+    "pais": "México",
+    "year": 2024,
+    "dur": "85",
+    "date": "16/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:15",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008374",
+    "movie": "Pastores",
+    "int_name": "Bergers",
+    "dir": "Sophie Deraspe",
+    "pais": "Canadá (Quebec)-Francia",
+    "year": 2024,
+    "dur": "113",
+    "date": "16/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008596",
+    "movie": "Puertas abiertas",
+    "int_name": "Derë e hapur",
+    "dir": "Florenc Papas",
+    "pais": "Albania-Kosovo-Italia-Macedonia del Norte",
+    "year": 2019,
+    "dur": "77",
+    "date": "16/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007904",
+    "movie": "Quebrando la noche",
+    "int_name": "Rising Up at Night",
+    "dir": "Nelson Makengo",
+    "pais": "Bélgica-Alemania-Catar-República Democrática del Congo-Burkina Faso",
+    "year": 2024,
+    "dur": "96",
+    "date": "16/07/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008602",
+    "movie": "Superman 42",
+    "int_name": "Superman 42",
+    "dir": "Dave Fleischer",
+    "pais": "",
+    "year": 1941,
+    "dur": "80",
+    "date": "16/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00",
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008599",
+    "movie": "Vermiglio",
+    "int_name": "Vermiglio",
+    "dir": "Maura Delpero",
+    "pais": "Italia",
+    "year": 2024,
+    "dur": "119",
+    "date": "16/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008805",
+    "movie": "Charla Rosario/ 100/ Castellanos",
+    "int_name": "BALÚN CANÁN",
+    "dir": "Benito Alazraki",
+    "pais": "México",
+    "year": 1976,
+    "dur": "117",
+    "date": "16/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008808",
+    "movie": "El fantasma de Yotsuya",
+    "int_name": "Yotsuya kaidan",
+    "dir": "Kenji Misumi",
+    "pais": "Dir.: Kenji Misumi",
+    "year": 1959,
+    "dur": "76",
+    "date": "16/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008807",
+    "movie": "Historia de fantasmas de Yotsuya",
+    "int_name": "The Ghost of Yotsuya",
+    "dir": "Nobuo Nakagawa",
+    "pais": "Japón",
+    "year": 1959,
+    "dur": "76",
+    "date": "16/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:30"
+    ]
+  }
+]

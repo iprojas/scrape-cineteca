@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00008810",
+    "movie": "La cara de otro",
+    "int_name": "Tanín no Kao",
+    "dir": "Hiroshi Teshigahara",
+    "pais": "Japón",
+    "year": 1966,
+    "dur": "124",
+    "date": "20/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008809",
+    "movie": "Onibaba, el mito del sexo",
+    "int_name": "Onibaba",
+    "dir": "Kaneto Shindō",
+    "pais": "Japón",
+    "year": 1964,
+    "dur": "102",
+    "date": "20/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:35"
+    ]
+  }
+]
