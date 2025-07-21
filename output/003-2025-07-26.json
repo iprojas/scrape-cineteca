@@ -1,0 +1,88 @@
+[
+  {
+    "filmid": "HO00008764",
+    "movie": "Acerca de un héroe",
+    "int_name": "About a Hero",
+    "dir": "Piotr Winiewicz",
+    "pais": "Dinamarca-Alemania",
+    "year": 2024,
+    "dur": "109",
+    "date": "26/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008773",
+    "movie": "Al este del mediodía",
+    "int_name": "Sharq 12",
+    "dir": "Hala Elkoussy.",
+    "pais": "Egipto-Países Bajos-Catar",
+    "year": 2024,
+    "dur": "109",
+    "date": "26/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008765",
+    "movie": "Algo viejo, algo nuevo, algo prestado",
+    "int_name": "Algo viejo",
+    "dir": "Hernán Rosselli",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "100",
+    "date": "26/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00007073",
+    "movie": "Itu Ninu",
+    "int_name": "Itu Ninu",
+    "dir": "Itandehui Jansen",
+    "pais": "México-Reino Unido",
+    "year": 2023,
+    "dur": "72",
+    "date": "26/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:45",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00004524",
+    "movie": "El más allá",
+    "int_name": "El más allá",
+    "dir": "Masaki Kobayashi",
+    "pais": "Kwaidan",
+    "year": 1964,
+    "dur": "64",
+    "date": "26/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": []
+  },
+  {
+    "filmid": "HO00008816",
+    "movie": "La casa negra",
+    "int_name": "Kuroi ie",
+    "dir": "Yoshimitsu Morita",
+    "pais": "Japón",
+    "year": 1999,
+    "dur": "118",
+    "date": "26/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:30"
+    ]
+  }
+]

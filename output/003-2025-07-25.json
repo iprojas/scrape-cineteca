@@ -1,0 +1,58 @@
+[
+  {
+    "filmid": "HO00008773",
+    "movie": "Al este del mediodía",
+    "int_name": "Sharq 12",
+    "dir": "Hala Elkoussy.",
+    "pais": "Egipto-Países Bajos-Catar",
+    "year": 2024,
+    "dur": "109",
+    "date": "25/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007073",
+    "movie": "Itu Ninu",
+    "int_name": "Itu Ninu",
+    "dir": "Itandehui Jansen",
+    "pais": "México-Reino Unido",
+    "year": 2023,
+    "dur": "72",
+    "date": "25/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008813",
+    "movie": "Pulse",
+    "int_name": "Kairo",
+    "dir": "Kiyoshi Kurosawa",
+    "pais": "Japón",
+    "year": 2001,
+    "dur": "118",
+    "date": "25/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008814",
+    "movie": "The Complex",
+    "int_name": "Kuroyuri danchi",
+    "dir": "Hideo Nakata",
+    "pais": "Japón",
+    "year": 2013,
+    "dur": "106",
+    "date": "25/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": []
+  }
+]
