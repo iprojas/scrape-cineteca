@@ -1,0 +1,403 @@
+[
+  {
+    "filmid": "HO00008117",
+    "movie": "Bird. Emprender el vuelo",
+    "int_name": "Bird",
+    "dir": "Andrea Arnold",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "119",
+    "date": "31/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008598",
+    "movie": "Clara se pierde en el bosque",
+    "int_name": "Clara se pierde en el bosque",
+    "dir": "Camila Fabbri",
+    "pais": "Argentina",
+    "year": 2023,
+    "dur": "86",
+    "date": "31/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008465",
+    "movie": "Corazones jóvenes",
+    "int_name": "Young Hearts",
+    "dir": "Anthony Schatteman",
+    "pais": "Bélgica-Países Bajos",
+    "year": 2024,
+    "dur": "98",
+    "date": "31/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:15",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008003",
+    "movie": "El cuadro perdido",
+    "int_name": "Le tableau volé",
+    "dir": "Pascal Bonitzer",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "91",
+    "date": "31/07/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008392",
+    "movie": "Gizmo",
+    "int_name": "Gizmo",
+    "dir": "Everardo Felipe",
+    "pais": "México",
+    "year": 2024,
+    "dur": "78",
+    "date": "31/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008702",
+    "movie": "Hilando sones",
+    "int_name": "Hilando sones",
+    "dir": "Ismael Vásquez Bernabé",
+    "pais": "México",
+    "year": 2023,
+    "dur": "77",
+    "date": "31/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008697",
+    "movie": "Hot milk",
+    "int_name": "Hot Milk",
+    "dir": "Rebecca Lenkiewicz",
+    "pais": "Reino Unido",
+    "year": 2025,
+    "dur": "92",
+    "date": "31/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008215",
+    "movie": "It's not me",
+    "int_name": "C'est pas moi",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "42",
+    "date": "31/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008603",
+    "movie": "La arriera",
+    "int_name": "La Arriera",
+    "dir": "Isabel Cristina Fregoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "102",
+    "date": "31/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008698",
+    "movie": "La colina de las amapolas",
+    "int_name": "Kokuriko-zaka kara",
+    "dir": "Gorô Miyazaki",
+    "pais": "Japón",
+    "year": 2011,
+    "dur": "91",
+    "date": "31/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00",
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008636",
+    "movie": "La cosecha",
+    "int_name": "Harvest",
+    "dir": "Athina Rachel Tsangari",
+    "pais": "et al.",
+    "year": 2024,
+    "dur": "131",
+    "date": "31/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00006995",
+    "movie": "La frontera invisible",
+    "int_name": "La frontera invisible",
+    "dir": "Mariana Flores Villalba",
+    "pais": "México",
+    "year": 2022,
+    "dur": "84",
+    "date": "31/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008699",
+    "movie": "La nieve entre los dos",
+    "int_name": "La nieve entre los dos",
+    "dir": "Pablo Martínez Pessi",
+    "pais": "Uruguay–Suecia-Chile",
+    "year": 2023,
+    "dur": "83",
+    "date": "31/07/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008696",
+    "movie": "La orquesta desentonada",
+    "int_name": "En fanfare",
+    "dir": "Emmanuel Courcol",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "103",
+    "date": "31/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008606",
+    "movie": "Los amantes del Pont-Neuf",
+    "int_name": "Les amants du Pont-Neuf",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 1991,
+    "dur": "125",
+    "date": "31/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008700",
+    "movie": "Lumbrensueño",
+    "int_name": "Lumbrensueño",
+    "dir": "José Pablo Escamilla",
+    "pais": "México",
+    "year": 2023,
+    "dur": "80",
+    "date": "31/07/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008005",
+    "movie": "No hagas olas",
+    "int_name": "Pas de vagues",
+    "dir": "Teddy Lussi-Modeste",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "91",
+    "date": "31/07/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "31/07/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008596",
+    "movie": "Puertas abiertas",
+    "int_name": "Derë e hapur",
+    "dir": "Florenc Papas",
+    "pais": "Albania-Kosovo-Italia-Macedonia del Norte",
+    "year": 2019,
+    "dur": "77",
+    "date": "31/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008286",
+    "movie": "Rocco y sus hermanos",
+    "int_name": "Rocco e i suoi Fratelli",
+    "dir": "Luchino Visconti",
+    "pais": "Italia-Francia",
+    "year": 1960,
+    "dur": "179",
+    "date": "31/07/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008703",
+    "movie": "Sirocco y el reino de los vientos SUB",
+    "int_name": "Sirocco et le royaume des courants d'air",
+    "dir": "Benoît Chieux",
+    "pais": "Francia-Bélgica",
+    "year": 2023,
+    "dur": "80",
+    "date": "31/07/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008602",
+    "movie": "Superman 42",
+    "int_name": "Superman 42",
+    "dir": "Dave Fleischer",
+    "pais": "",
+    "year": 1941,
+    "dur": "80",
+    "date": "31/07/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008764",
+    "movie": "Acerca de un héroe",
+    "int_name": "About a Hero",
+    "dir": "Piotr Winiewicz",
+    "pais": "Dinamarca-Alemania",
+    "year": 2024,
+    "dur": "109",
+    "date": "31/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008765",
+    "movie": "Algo viejo, algo nuevo, algo prestado",
+    "int_name": "Algo viejo",
+    "dir": "Hernán Rosselli",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "100",
+    "date": "31/07/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008629",
+    "movie": "Bajo las banderas, el sol",
+    "int_name": "Bajo las banderas",
+    "dir": "Juanjo Pereira",
+    "pais": "et al",
+    "year": 2025,
+    "dur": "90",
+    "date": "31/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008767",
+    "movie": "Cosmos Dir. Germinal Roaux",
+    "int_name": "Cosmos",
+    "dir": "Germinal Roaux",
+    "pais": "México-Suiza",
+    "year": 2024,
+    "dur": "153",
+    "date": "31/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "13:00",
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00008768",
+    "movie": "Hollywoodgate",
+    "int_name": "Hollywoodgate",
+    "dir": "Ibrahim Nash'at",
+    "pais": "Estados Unidos-Alemania",
+    "year": 2023,
+    "dur": "91",
+    "date": "31/07/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008766",
+    "movie": "Las novias del sur",
+    "int_name": "Las novias del sur",
+    "dir": "Elena López Riera",
+    "pais": "España-Suiza-Francia",
+    "year": 2024,
+    "dur": "41",
+    "date": "31/07/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:15",
+      "21:00"
+    ]
+  }
+]

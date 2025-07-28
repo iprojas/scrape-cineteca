@@ -1,0 +1,92 @@
+[
+  {
+    "filmid": "HO00008629",
+    "movie": "Bajo las banderas, el sol",
+    "int_name": "Bajo las banderas",
+    "dir": "Juanjo Pereira",
+    "pais": "et al",
+    "year": 2025,
+    "dur": "90",
+    "date": "01/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008767",
+    "movie": "Cosmos Dir. Germinal Roaux",
+    "int_name": "Cosmos",
+    "dir": "Germinal Roaux",
+    "pais": "México-Suiza",
+    "year": 2024,
+    "dur": "153",
+    "date": "01/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "15:30",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008768",
+    "movie": "Hollywoodgate",
+    "int_name": "Hollywoodgate",
+    "dir": "Ibrahim Nash'at",
+    "pais": "Estados Unidos-Alemania",
+    "year": 2023,
+    "dur": "91",
+    "date": "01/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008766",
+    "movie": "Las novias del sur",
+    "int_name": "Las novias del sur",
+    "dir": "Elena López Riera",
+    "pais": "España-Suiza-Francia",
+    "year": 2024,
+    "dur": "41",
+    "date": "01/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008769",
+    "movie": "Lázaro de noche",
+    "int_name": "Lázaro de noche",
+    "dir": "Nicolás Pereda",
+    "pais": "México-Canadá",
+    "year": 2024,
+    "dur": "76",
+    "date": "01/08/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008770",
+    "movie": "Xoftex",
+    "int_name": "Xoftex",
+    "dir": "Noaz Deshe",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "99",
+    "date": "01/08/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00",
+      "20:00"
+    ]
+  }
+]
