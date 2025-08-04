@@ -1,0 +1,415 @@
+[
+  {
+    "filmid": "HO00007642",
+    "movie": "Ahora la luz cae vertical",
+    "int_name": "Ara la llum cau vertical",
+    "dir": "Efthymia Zymvragaki",
+    "pais": "España-Alemania-Italia-Países Bajos",
+    "year": 2022,
+    "dur": "85",
+    "date": "04/08/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008794",
+    "movie": "Amores materialistas",
+    "int_name": "Materialists | Estados Unidos | 2025 | 117 min.",
+    "dir": "Celine Song",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "117",
+    "date": "04/08/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008117",
+    "movie": "Bird. Emprender el vuelo",
+    "int_name": "Bird",
+    "dir": "Andrea Arnold",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "119",
+    "date": "04/08/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00008701",
+    "movie": "Buen salvaje",
+    "int_name": "El Buen salvaje",
+    "dir": "Santiago Mohar Volkow.",
+    "pais": "México",
+    "year": 2023,
+    "dur": "108",
+    "date": "04/08/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008003",
+    "movie": "El cuadro perdido",
+    "int_name": "Le tableau volé",
+    "dir": "Pascal Bonitzer",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "91",
+    "date": "04/08/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008392",
+    "movie": "Gizmo",
+    "int_name": "Gizmo",
+    "dir": "Everardo Felipe",
+    "pais": "México",
+    "year": 2024,
+    "dur": "78",
+    "date": "04/08/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008702",
+    "movie": "Hilando sones",
+    "int_name": "Hilando sones",
+    "dir": "Ismael Vásquez Bernabé",
+    "pais": "México",
+    "year": 2023,
+    "dur": "77",
+    "date": "04/08/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008697",
+    "movie": "Hot milk",
+    "int_name": "Hot Milk",
+    "dir": "Rebecca Lenkiewicz",
+    "pais": "Reino Unido",
+    "year": 2025,
+    "dur": "92",
+    "date": "04/08/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008215",
+    "movie": "It's not me",
+    "int_name": "C'est pas moi",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "42",
+    "date": "04/08/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008603",
+    "movie": "La arriera",
+    "int_name": "La Arriera",
+    "dir": "Isabel Cristina Fregoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "102",
+    "date": "04/08/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00008636",
+    "movie": "La cosecha",
+    "int_name": "Harvest",
+    "dir": "Athina Rachel Tsangari",
+    "pais": "et al.",
+    "year": 2024,
+    "dur": "131",
+    "date": "04/08/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00006995",
+    "movie": "La frontera invisible",
+    "int_name": "La frontera invisible",
+    "dir": "Mariana Flores Villalba",
+    "pais": "México",
+    "year": 2022,
+    "dur": "84",
+    "date": "04/08/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008699",
+    "movie": "La nieve entre los dos",
+    "int_name": "La nieve entre los dos",
+    "dir": "Pablo Martínez Pessi",
+    "pais": "Uruguay–Suecia-Chile",
+    "year": 2023,
+    "dur": "83",
+    "date": "04/08/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008696",
+    "movie": "La orquesta desentonada",
+    "int_name": "En fanfare",
+    "dir": "Emmanuel Courcol",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "103",
+    "date": "04/08/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008606",
+    "movie": "Los amantes del Pont-Neuf",
+    "int_name": "Les amants du Pont-Neuf",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 1991,
+    "dur": "125",
+    "date": "04/08/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008795",
+    "movie": "Los tipos malos 2 DOB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Dir.: Pierre Perifel y JP Sans",
+    "year": 2023,
+    "dur": "104",
+    "date": "04/08/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "04/08/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008374",
+    "movie": "Pastores",
+    "int_name": "Bergers",
+    "dir": "Sophie Deraspe",
+    "pais": "Canadá (Quebec)-Francia",
+    "year": 2024,
+    "dur": "113",
+    "date": "04/08/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008793",
+    "movie": "Posesión",
+    "int_name": "Possession",
+    "dir": "Andrzej Żuławski",
+    "pais": "Francia-República Federal de Alemania",
+    "year": 1981,
+    "dur": "122",
+    "date": "04/08/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008772",
+    "movie": "Sirocco y el reino de los vientos DOB",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "04/08/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008602",
+    "movie": "Superman 42",
+    "int_name": "Superman 42",
+    "dir": "Dave Fleischer",
+    "pais": "",
+    "year": 1941,
+    "dur": "80",
+    "date": "04/08/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008146",
+    "movie": "Azulado",
+    "int_name": "Bluish",
+    "dir": "Lilith Kraxner y Milena Czernovsky",
+    "pais": "Austria",
+    "year": 2024,
+    "dur": "83",
+    "date": "04/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:15",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008629",
+    "movie": "Bajo las banderas, el sol",
+    "int_name": "Bajo las banderas",
+    "dir": "Juanjo Pereira",
+    "pais": "et al",
+    "year": 2025,
+    "dur": "90",
+    "date": "04/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008768",
+    "movie": "Hollywoodgate",
+    "int_name": "Hollywoodgate",
+    "dir": "Ibrahim Nash'at",
+    "pais": "Estados Unidos-Alemania",
+    "year": 2023,
+    "dur": "91",
+    "date": "04/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008769",
+    "movie": "Lázaro de noche",
+    "int_name": "Lázaro de noche",
+    "dir": "Nicolás Pereda",
+    "pais": "México-Canadá",
+    "year": 2024,
+    "dur": "76",
+    "date": "04/08/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008771",
+    "movie": "Todo documento de civilización",
+    "int_name": "Todo documento de civilización",
+    "dir": "Tatiana Mazú González",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "90",
+    "date": "04/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00008770",
+    "movie": "Xoftex",
+    "int_name": "Xoftex",
+    "dir": "Noaz Deshe",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "99",
+    "date": "04/08/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008843",
+    "movie": "Laban, el pequeño fantasma",
+    "int_name": "Programa 10: Laban",
+    "dir": "Lasse Persson",
+    "pais": "Suecia",
+    "year": 2024,
+    "dur": "45",
+    "date": "04/08/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008845",
+    "movie": "Matatena 30 Programa 12",
+    "int_name": "MATATENA 30 PROGRAMA 12",
+    "dir": "",
+    "pais": "",
+    "year": 2023,
+    "dur": "96",
+    "date": "04/08/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "18:00"
+    ]
+  }
+]

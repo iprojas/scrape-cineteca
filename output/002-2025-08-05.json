@@ -1,0 +1,304 @@
+[
+  {
+    "filmid": "HO00008794",
+    "movie": "Amores materialistas",
+    "int_name": "Materialists | Estados Unidos | 2025 | 117 min.",
+    "dir": "Celine Song",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "117",
+    "date": "05/08/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:40",
+      "16:00",
+      "18:20",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008117",
+    "movie": "Bird. Emprender el vuelo",
+    "int_name": "Bird",
+    "dir": "Andrea Arnold",
+    "pais": "Reino Unido",
+    "year": 2024,
+    "dur": "119",
+    "date": "05/08/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:40",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008701",
+    "movie": "Buen salvaje",
+    "int_name": "El Buen salvaje",
+    "dir": "Santiago Mohar Volkow.",
+    "pais": "México",
+    "year": 2023,
+    "dur": "108",
+    "date": "05/08/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "16:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008715",
+    "movie": "Cómo entrenar a tu dragón DOB",
+    "int_name": "How to Train Your Dragon",
+    "dir": "Dean DeBlois",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "125",
+    "date": "05/08/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:20",
+      "17:50"
+    ]
+  },
+  {
+    "filmid": "HO00008600",
+    "movie": "Cómo entrenar a tu dragón SUB",
+    "int_name": "How to Train Your Dragon",
+    "dir": "Dean DeBlois",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "119",
+    "date": "05/08/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008120",
+    "movie": "Concierto para otras manos",
+    "int_name": "Concierto para otras manos",
+    "dir": "Ernesto González Díaz",
+    "pais": "México",
+    "year": 2024,
+    "dur": "79",
+    "date": "05/08/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:30",
+      "17:30",
+      "19:20",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008465",
+    "movie": "Corazones jóvenes",
+    "int_name": "Young Hearts",
+    "dir": "Anthony Schatteman",
+    "pais": "Bélgica-Países Bajos",
+    "year": 2024,
+    "dur": "98",
+    "date": "05/08/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "13:50"
+    ]
+  },
+  {
+    "filmid": "HO00008003",
+    "movie": "El cuadro perdido",
+    "int_name": "Le tableau volé",
+    "dir": "Pascal Bonitzer",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "91",
+    "date": "05/08/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:30",
+      "16:20",
+      "18:30",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008603",
+    "movie": "La arriera",
+    "int_name": "La Arriera",
+    "dir": "Isabel Cristina Fregoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "102",
+    "date": "05/08/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:20",
+      "18:40"
+    ]
+  },
+  {
+    "filmid": "HO00008636",
+    "movie": "La cosecha",
+    "int_name": "Harvest",
+    "dir": "Athina Rachel Tsangari",
+    "pais": "et al.",
+    "year": 2024,
+    "dur": "131",
+    "date": "05/08/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00006995",
+    "movie": "La frontera invisible",
+    "int_name": "La frontera invisible",
+    "dir": "Mariana Flores Villalba",
+    "pais": "México",
+    "year": 2022,
+    "dur": "84",
+    "date": "05/08/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "15:00",
+      "17:00",
+      "19:00",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008696",
+    "movie": "La orquesta desentonada",
+    "int_name": "En fanfare",
+    "dir": "Emmanuel Courcol",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "103",
+    "date": "05/08/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "14:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008606",
+    "movie": "Los amantes del Pont-Neuf",
+    "int_name": "Les amants du Pont-Neuf",
+    "dir": "Leos Carax",
+    "pais": "Francia",
+    "year": 1991,
+    "dur": "125",
+    "date": "05/08/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "17:20"
+    ]
+  },
+  {
+    "filmid": "HO00008795",
+    "movie": "Los tipos malos 2 DOB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Dir.: Pierre Perifel y JP Sans",
+    "year": 2023,
+    "dur": "104",
+    "date": "05/08/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:50",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00008870",
+    "movie": "Los tipos malos 2 SUB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "104",
+    "date": "05/08/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "05/08/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:40",
+      "18:10",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008793",
+    "movie": "Posesión",
+    "int_name": "Possession",
+    "dir": "Andrzej Żuławski",
+    "pais": "Francia-República Federal de Alemania",
+    "year": 1981,
+    "dur": "122",
+    "date": "05/08/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "15:10",
+      "17:40",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008772",
+    "movie": "Sirocco y el reino de los vientos DOB",
+    "int_name": "",
+    "dir": "",
+    "pais": "",
+    "year": null,
+    "dur": "",
+    "date": "05/08/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008602",
+    "movie": "Superman 42",
+    "int_name": "Superman 42",
+    "dir": "Dave Fleischer",
+    "pais": "",
+    "year": 1941,
+    "dur": "80",
+    "date": "05/08/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00008861",
+    "movie": "Charlas: Cuentos de hadas para dormir cocodrilos",
+    "int_name": "Cuentos de hadas para dormir cocodrilos",
+    "dir": "Ignacio Ortiz",
+    "pais": "México",
+    "year": 2002,
+    "dur": "100",
+    "date": "05/08/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "17:00"
+    ]
+  }
+]

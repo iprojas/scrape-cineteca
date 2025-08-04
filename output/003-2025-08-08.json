@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00008144",
+    "movie": "A fidai film",
+    "int_name": "A fidai film",
+    "dir": "Kamal Aljafari",
+    "pais": "Palestina-Alemania-Catar-Brasil-Francia",
+    "year": 2024,
+    "dur": "81",
+    "date": "08/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:45",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008146",
+    "movie": "Azulado",
+    "int_name": "Bluish",
+    "dir": "Lilith Kraxner y Milena Czernovsky",
+    "pais": "Austria",
+    "year": 2024,
+    "dur": "83",
+    "date": "08/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "16:15",
+      "20:15"
+    ]
+  },
+  {
+    "filmid": "HO00008662",
+    "movie": "La eterna adolescente",
+    "int_name": "La eterna adolescente",
+    "dir": "Eduardo Esquivel",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "104",
+    "date": "08/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008771",
+    "movie": "Todo documento de civilización",
+    "int_name": "Todo documento de civilización",
+    "dir": "Tatiana Mazú González",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "90",
+    "date": "08/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:15",
+      "18:15"
+    ]
+  }
+]

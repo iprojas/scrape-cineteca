@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00008144",
+    "movie": "A fidai film",
+    "int_name": "A fidai film",
+    "dir": "Kamal Aljafari",
+    "pais": "Palestina-Alemania-Catar-Brasil-Francia",
+    "year": 2024,
+    "dur": "81",
+    "date": "09/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008662",
+    "movie": "La eterna adolescente",
+    "int_name": "La eterna adolescente",
+    "dir": "Eduardo Esquivel",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "104",
+    "date": "09/08/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30",
+      "20:45"
+    ]
+  }
+]
