@@ -1,0 +1,44 @@
+[
+  {
+    "filmid": "HO00008818",
+    "movie": "El día que paralizaron la Tierra",
+    "int_name": "The Day the Earth Stood Still",
+    "dir": "Robert Wise",
+    "pais": "Estados Unidos",
+    "year": 1951,
+    "dur": "94",
+    "date": "16/08/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008875",
+    "movie": "Arena",
+    "int_name": "Sesión 3: Diamond Sutra / Sand",
+    "dir": "Tsai Ming-liang",
+    "pais": "",
+    "year": 2012,
+    "dur": "75",
+    "date": "16/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008873",
+    "movie": "Sonambulismo/ Viaje hacia el oeste",
+    "int_name": "Sesión 5: Sleepwalk / Journey to the West",
+    "dir": "Tsai Ming-liang",
+    "pais": "",
+    "year": 2012,
+    "dur": "77",
+    "date": "16/08/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  }
+]
