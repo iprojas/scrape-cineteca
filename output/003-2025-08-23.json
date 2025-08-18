@@ -1,0 +1,16 @@
+[
+  {
+    "filmid": "HO00008819",
+    "movie": "Llegaron de otro mundo",
+    "int_name": "It Came from Outer Space",
+    "dir": "Jack Arnold",
+    "pais": "Estados Unidos",
+    "year": 1953,
+    "dur": "81",
+    "date": "23/08/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:00"
+    ]
+  }
+]
