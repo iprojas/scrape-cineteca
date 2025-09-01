@@ -1,0 +1,285 @@
+[
+  {
+    "filmid": "HO00008794",
+    "movie": "Amores materialistas",
+    "int_name": "Materialists | Estados Unidos | 2025 | 117 min.",
+    "dir": "Celine Song",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "117",
+    "date": "03/09/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "03/09/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "18:20",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008797",
+    "movie": "Benedetti, 60 años con luz",
+    "int_name": "Benedetti",
+    "dir": "Andrés Varela",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "80",
+    "date": "03/09/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "16:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008465",
+    "movie": "Corazones jóvenes",
+    "int_name": "Young Hearts",
+    "dir": "Anthony Schatteman",
+    "pais": "Bélgica-Países Bajos",
+    "year": 2024,
+    "dur": "98",
+    "date": "03/09/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:10",
+      "18:40"
+    ]
+  },
+  {
+    "filmid": "HO00008798",
+    "movie": "Drácula",
+    "int_name": "Dracula: A Love Tale",
+    "dir": "Luc Besso",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "129",
+    "date": "03/09/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:40",
+      "17:10",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008003",
+    "movie": "El cuadro perdido",
+    "int_name": "Le tableau volé",
+    "dir": "Pascal Bonitzer",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "91",
+    "date": "03/09/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:50",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00008636",
+    "movie": "La cosecha",
+    "int_name": "Harvest",
+    "dir": "Athina Rachel Tsangari",
+    "pais": "et al.",
+    "year": 2024,
+    "dur": "131",
+    "date": "03/09/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00006995",
+    "movie": "La frontera invisible",
+    "int_name": "La frontera invisible",
+    "dir": "Mariana Flores Villalba",
+    "pais": "México",
+    "year": 2022,
+    "dur": "84",
+    "date": "03/09/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:00",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00008802",
+    "movie": "La infiltrada",
+    "int_name": "La infiltrada",
+    "dir": "Arantxa Echevarría.",
+    "pais": "España",
+    "year": 2024,
+    "dur": "118",
+    "date": "03/09/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008803",
+    "movie": "La vida de Chuck",
+    "int_name": "The life of Chuck",
+    "dir": "Mike Flanagan",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "110",
+    "date": "03/09/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "13:40",
+      "16:10",
+      "18:30",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008795",
+    "movie": "Los tipos malos 2 DOB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Dir.: Pierre Perifel y JP Sans",
+    "year": 2023,
+    "dur": "104",
+    "date": "03/09/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "15:20",
+      "17:50"
+    ]
+  },
+  {
+    "filmid": "HO00008870",
+    "movie": "Los tipos malos 2 SUB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "104",
+    "date": "03/09/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008800",
+    "movie": "Mascotas al rescate",
+    "int_name": "Pets on a Train",
+    "dir": "Benoît Daffis y Jean-Christian Tassy",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "99",
+    "date": "03/09/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:50",
+      "15:50"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "03/09/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:30",
+      "16:50",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008799",
+    "movie": "Segundo Premio",
+    "int_name": "Segundo premio",
+    "dir": "Isaki Lacuesta",
+    "pais": "España",
+    "year": 2023,
+    "dur": "109",
+    "date": "03/09/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "16:20",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008772",
+    "movie": "Sirocco y el reino de los vientos DOB",
+    "int_name": "Sirocco et le royaume des courants d'air",
+    "dir": "Benoît Chieux",
+    "pais": "Francia-Bélgica",
+    "year": 2023,
+    "dur": "80",
+    "date": "03/09/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008703",
+    "movie": "Sirocco y el reino de los vientos SUB",
+    "int_name": "Sirocco et le royaume des courants d'air",
+    "dir": "Benoît Chieux",
+    "pais": "Francia-Bélgica",
+    "year": 2023,
+    "dur": "80",
+    "date": "03/09/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "17:20"
+    ]
+  },
+  {
+    "filmid": "HO00008144",
+    "movie": "A fidai film",
+    "int_name": "A fidai film",
+    "dir": "Kamal Aljafari",
+    "pais": "Palestina-Alemania-Catar-Brasil-Francia",
+    "year": 2024,
+    "dur": "81",
+    "date": "03/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:00",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00008662",
+    "movie": "La eterna adolescente",
+    "int_name": "La eterna adolescente",
+    "dir": "Eduardo Esquivel",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "104",
+    "date": "03/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "16:00",
+      "20:20"
+    ]
+  }
+]
