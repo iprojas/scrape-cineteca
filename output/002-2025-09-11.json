@@ -1,0 +1,290 @@
+[
+  {
+    "filmid": "HO00008794",
+    "movie": "Amores materialistas",
+    "int_name": "Materialists | Estados Unidos | 2025 | 117 min.",
+    "dir": "Celine Song",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "117",
+    "date": "11/09/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "14:10",
+      "16:30",
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "11/09/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:50",
+      "18:40"
+    ]
+  },
+  {
+    "filmid": "HO00008797",
+    "movie": "Benedetti, 60 años con luz",
+    "int_name": "Benedetti",
+    "dir": "Andrés Varela",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "80",
+    "date": "11/09/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "15:10",
+      "18:50",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008798",
+    "movie": "Drácula",
+    "int_name": "Dracula: A Love Tale",
+    "dir": "Luc Besso",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "129",
+    "date": "11/09/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "14:30",
+      "17:10",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00008350",
+    "movie": "El juicio de un perro",
+    "int_name": "Le Procès du chien",
+    "dir": "Laetitia Dosch",
+    "pais": "Suiza-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "11/09/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "14:20"
+    ]
+  },
+  {
+    "filmid": "HO00008802",
+    "movie": "La infiltrada",
+    "int_name": "La infiltrada",
+    "dir": "Arantxa Echevarría.",
+    "pais": "España",
+    "year": 2024,
+    "dur": "118",
+    "date": "11/09/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:00",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00009028",
+    "movie": "La princesa Mononoke",
+    "int_name": "Mononoke-hime",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 1997,
+    "dur": "133",
+    "date": "11/09/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:50",
+      "17:30",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008803",
+    "movie": "La vida de Chuck",
+    "int_name": "The life of Chuck",
+    "dir": "Mike Flanagan",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "110",
+    "date": "11/09/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "16:10",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008766",
+    "movie": "Las novias del sur",
+    "int_name": "Las novias del sur",
+    "dir": "Elena López Riera",
+    "pais": "España-Suiza-Francia",
+    "year": 2024,
+    "dur": "41",
+    "date": "11/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "17:50",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00008964",
+    "movie": "Leonora",
+    "int_name": "Leonora",
+    "dir": "Thorsten Klein",
+    "pais": "Reino Unido",
+    "year": 2025,
+    "dur": "103",
+    "date": "11/09/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:40",
+      "17:00",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008795",
+    "movie": "Los tipos malos 2 DOB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Dir.: Pierre Perifel y JP Sans",
+    "year": 2023,
+    "dur": "104",
+    "date": "11/09/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:40",
+      "15:50",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00008870",
+    "movie": "Los tipos malos 2 SUB",
+    "int_name": "The Bad Guys 2",
+    "dir": "Pierre Perifel y JP Sans",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "104",
+    "date": "11/09/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008800",
+    "movie": "Mascotas al rescate",
+    "int_name": "Pets on a Train",
+    "dir": "Benoît Daffis y Jean-Christian Tassy",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "99",
+    "date": "11/09/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "13:10",
+      "16:50"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "11/09/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:20",
+      "16:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008793",
+    "movie": "Posesión",
+    "int_name": "Possession",
+    "dir": "Andrzej Żuławski",
+    "pais": "Francia-República Federal de Alemania",
+    "year": 1981,
+    "dur": "122",
+    "date": "11/09/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "15:20",
+      "18:10",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008799",
+    "movie": "Segundo Premio",
+    "int_name": "Segundo premio",
+    "dir": "Isaki Lacuesta",
+    "pais": "España",
+    "year": 2023,
+    "dur": "109",
+    "date": "11/09/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "17:40"
+    ]
+  },
+  {
+    "filmid": "HO00008772",
+    "movie": "Sirocco y el reino de los vientos DOB",
+    "int_name": "Sirocco et le royaume des courants d'air",
+    "dir": "Benoît Chieux",
+    "pais": "Francia-Bélgica",
+    "year": 2023,
+    "dur": "80",
+    "date": "11/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:00",
+      "15:40"
+    ]
+  },
+  {
+    "filmid": "HO00008703",
+    "movie": "Sirocco y el reino de los vientos SUB",
+    "int_name": "Sirocco et le royaume des courants d'air",
+    "dir": "Benoît Chieux",
+    "pais": "Francia-Bélgica",
+    "year": 2023,
+    "dur": "80",
+    "date": "11/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008976",
+    "movie": "Simpatía por el Rock: Meet me in the bathroom",
+    "int_name": "Meet me in the bathroom",
+    "dir": "Will  Lovelace",
+    "pais": "Reino Unido",
+    "year": 2022,
+    "dur": "108",
+    "date": "11/09/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "18:00"
+    ]
+  }
+]
