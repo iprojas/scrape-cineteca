@@ -1,0 +1,250 @@
+[
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "17/09/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "13:40",
+      "16:00",
+      "18:20",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00009032",
+    "movie": "Autos, m%#a y rocanrol",
+    "int_name": "Autos",
+    "dir": "José Manuel Cravioto",
+    "pais": "México",
+    "year": 2025,
+    "dur": "94",
+    "date": "17/09/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "15:40",
+      "17:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008798",
+    "movie": "Drácula",
+    "int_name": "Dracula: A Love Tale",
+    "dir": "Luc Besso",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "129",
+    "date": "17/09/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:30",
+      "18:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009030",
+    "movie": "Dreams: sueños",
+    "int_name": "Dreams",
+    "dir": "Michel Franco",
+    "pais": "México",
+    "year": 2025,
+    "dur": "100",
+    "date": "17/09/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:10",
+      "17:30",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008350",
+    "movie": "El juicio de un perro",
+    "int_name": "Le Procès du chien",
+    "dir": "Laetitia Dosch",
+    "pais": "Suiza-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "17/09/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:10",
+      "16:10",
+      "18:10",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00009031",
+    "movie": "La hermanastra fea",
+    "int_name": "Den Stygge Stesøsteren",
+    "dir": "Emilie Blichfeldt.",
+    "pais": "Noruega",
+    "year": 2025,
+    "dur": "110",
+    "date": "17/09/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:00",
+      "16:20",
+      "18:40",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00008802",
+    "movie": "La infiltrada",
+    "int_name": "La infiltrada",
+    "dir": "Arantxa Echevarría.",
+    "pais": "España",
+    "year": 2024,
+    "dur": "118",
+    "date": "17/09/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:50"
+    ]
+  },
+  {
+    "filmid": "HO00009028",
+    "movie": "La princesa Mononoke SUB",
+    "int_name": "Mononoke-hime",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 1997,
+    "dur": "133",
+    "date": "17/09/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "15:00",
+      "17:40",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008803",
+    "movie": "La vida de Chuck",
+    "int_name": "The life of Chuck",
+    "dir": "Mike Flanagan",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "110",
+    "date": "17/09/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:30",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00008766",
+    "movie": "Las novias del sur",
+    "int_name": "Las novias del sur",
+    "dir": "Elena López Riera",
+    "pais": "España-Suiza-Francia",
+    "year": 2024,
+    "dur": "41",
+    "date": "17/09/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "19:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008964",
+    "movie": "Leonora",
+    "int_name": "Leonora",
+    "dir": "Thorsten Klein",
+    "pais": "Reino Unido",
+    "year": 2025,
+    "dur": "103",
+    "date": "17/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008800",
+    "movie": "Mascotas al rescate",
+    "int_name": "Pets on a Train",
+    "dir": "Benoît Daffis y Jean-Christian Tassy",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "99",
+    "date": "17/09/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:40",
+      "17:10"
+    ]
+  },
+  {
+    "filmid": "HO00008799",
+    "movie": "Segundo Premio",
+    "int_name": "Segundo premio",
+    "dir": "Isaki Lacuesta",
+    "pais": "España",
+    "year": 2023,
+    "dur": "109",
+    "date": "17/09/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "16:40"
+    ]
+  },
+  {
+    "filmid": "HO00002972",
+    "movie": "Toy Story DOB",
+    "int_name": "Toy Story DOP",
+    "dir": "John Lasseter",
+    "pais": "Estados Unidos",
+    "year": 1995,
+    "dur": "81",
+    "date": "17/09/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:30",
+      "15:20",
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00009071",
+    "movie": "Toy Story SUB",
+    "int_name": "Toy Story",
+    "dir": "John Lasseter.",
+    "pais": "Estados Unidos",
+    "year": 1995,
+    "dur": "81",
+    "date": "17/09/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "19:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00007780",
+    "movie": "Un amor",
+    "int_name": "Un amor",
+    "dir": "Isabel Coixet",
+    "pais": "España",
+    "year": 2023,
+    "dur": "129",
+    "date": "17/09/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "14:20",
+      "19:30"
+    ]
+  }
+]

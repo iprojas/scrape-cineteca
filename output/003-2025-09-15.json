@@ -1,0 +1,314 @@
+[
+  {
+    "filmid": "HO00006886",
+    "movie": "After",
+    "int_name": "After",
+    "dir": "Anthony Lapia",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "69",
+    "date": "15/09/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00007642",
+    "movie": "Ahora la luz cae vertical",
+    "int_name": "Ara la llum cau vertical",
+    "dir": "Efthymia Zymvragaki",
+    "pais": "España-Alemania-Italia-Países Bajos",
+    "year": 2022,
+    "dur": "85",
+    "date": "15/09/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:15"
+    ]
+  },
+  {
+    "filmid": "HO00008797",
+    "movie": "Benedetti, 60 años con luz",
+    "int_name": "Benedetti",
+    "dir": "Andrés Varela",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "80",
+    "date": "15/09/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008161",
+    "movie": "Crónicas del otro norte",
+    "int_name": "Crónicas del otro norte",
+    "dir": "Miguel León",
+    "pais": "México",
+    "year": 2024,
+    "dur": "90",
+    "date": "15/09/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008798",
+    "movie": "Drácula",
+    "int_name": "Dracula: A Love Tale",
+    "dir": "Luc Besso",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "129",
+    "date": "15/09/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00009030",
+    "movie": "Dreams: sueños",
+    "int_name": "Dreams",
+    "dir": "Michel Franco",
+    "pais": "México",
+    "year": 2025,
+    "dur": "100",
+    "date": "15/09/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008804",
+    "movie": "Eddington",
+    "int_name": "Eddington",
+    "dir": "Ari Aster",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "145",
+    "date": "15/09/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008003",
+    "movie": "El cuadro perdido",
+    "int_name": "Le tableau volé",
+    "dir": "Pascal Bonitzer",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "91",
+    "date": "15/09/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00008350",
+    "movie": "El juicio de un perro",
+    "int_name": "Le Procès du chien",
+    "dir": "Laetitia Dosch",
+    "pais": "Suiza-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "15/09/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00006995",
+    "movie": "La frontera invisible",
+    "int_name": "La frontera invisible",
+    "dir": "Mariana Flores Villalba",
+    "pais": "México",
+    "year": 2022,
+    "dur": "84",
+    "date": "15/09/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008802",
+    "movie": "La infiltrada",
+    "int_name": "La infiltrada",
+    "dir": "Arantxa Echevarría.",
+    "pais": "España",
+    "year": 2024,
+    "dur": "118",
+    "date": "15/09/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:45"
+    ]
+  },
+  {
+    "filmid": "HO00009077",
+    "movie": "La princesa Mononoke DOB",
+    "int_name": "La princesa Mononoke DOB",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 1997,
+    "dur": "133",
+    "date": "15/09/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008766",
+    "movie": "Las novias del sur",
+    "int_name": "Las novias del sur",
+    "dir": "Elena López Riera",
+    "pais": "España-Suiza-Francia",
+    "year": 2024,
+    "dur": "41",
+    "date": "15/09/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:15"
+    ]
+  },
+  {
+    "filmid": "HO00008164",
+    "movie": "No nos moverán",
+    "int_name": "No nos moverán",
+    "dir": "Pierre Saint-Martin Castellanos",
+    "pais": "México",
+    "year": 2024,
+    "dur": "120",
+    "date": "15/09/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008799",
+    "movie": "Segundo Premio",
+    "int_name": "Segundo premio",
+    "dir": "Isaki Lacuesta",
+    "pais": "España",
+    "year": 2023,
+    "dur": "109",
+    "date": "15/09/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008703",
+    "movie": "Sirocco y el reino de los vientos SUB",
+    "int_name": "Sirocco et le royaume des courants d'air",
+    "dir": "Benoît Chieux",
+    "pais": "Francia-Bélgica",
+    "year": 2023,
+    "dur": "80",
+    "date": "15/09/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008379",
+    "movie": "Soles Atikamekw",
+    "int_name": "Soles Atikamekw",
+    "dir": "Chloé Leriche",
+    "pais": "Canadá (Quebec)",
+    "year": 2023,
+    "dur": "103",
+    "date": "15/09/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00002972",
+    "movie": "Toy Story DOB",
+    "int_name": "Toy Story DOP",
+    "dir": "John Lasseter",
+    "pais": "Estados Unidos",
+    "year": 1995,
+    "dur": "81",
+    "date": "15/09/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00009071",
+    "movie": "Toy Story SUB",
+    "int_name": "Toy Story",
+    "dir": "John Lasseter.",
+    "pais": "Estados Unidos",
+    "year": 1995,
+    "dur": "81",
+    "date": "15/09/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007780",
+    "movie": "Un amor",
+    "int_name": "Un amor",
+    "dir": "Isabel Coixet",
+    "pais": "España",
+    "year": 2023,
+    "dur": "129",
+    "date": "15/09/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008770",
+    "movie": "Xoftex",
+    "int_name": "Xoftex",
+    "dir": "Noaz Deshe",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "99",
+    "date": "15/09/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:45"
+    ]
+  },
+  {
+    "filmid": "HO00009023",
+    "movie": "Rodrigo enamorado",
+    "int_name": "Avignon",
+    "dir": "Johann Dionnet.",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "104",
+    "date": "15/09/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:00",
+      "16:15",
+      "18:30"
+    ]
+  }
+]
