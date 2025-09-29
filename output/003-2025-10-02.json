@@ -1,0 +1,413 @@
+[
+  {
+    "filmid": "HO00006886",
+    "movie": "After",
+    "int_name": "After",
+    "dir": "Anthony Lapia",
+    "pais": "Francia",
+    "year": 2023,
+    "dur": "69",
+    "date": "02/10/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "15:15",
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00008471",
+    "movie": "Armand. Una acusación peligrosa",
+    "int_name": "Armand",
+    "dir": "Halfdan Ullmann Tøndel",
+    "pais": "Noruega-Países Bajos-Alemania-Suecia",
+    "year": 2024,
+    "dur": "116",
+    "date": "02/10/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00008797",
+    "movie": "Benedetti, 60 años con luz",
+    "int_name": "Benedetti",
+    "dir": "Andrés Varela",
+    "pais": "Uruguay",
+    "year": 2022,
+    "dur": "80",
+    "date": "02/10/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:15",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008161",
+    "movie": "Crónicas del otro norte",
+    "int_name": "Crónicas del otro norte",
+    "dir": "Miguel León",
+    "pais": "México",
+    "year": 2024,
+    "dur": "90",
+    "date": "02/10/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00008798",
+    "movie": "Drácula",
+    "int_name": "Dracula: A Love Tale",
+    "dir": "Luc Besso",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "129",
+    "date": "02/10/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009030",
+    "movie": "Dreams: sueños",
+    "int_name": "Dreams",
+    "dir": "Michel Franco",
+    "pais": "México",
+    "year": 2025,
+    "dur": "100",
+    "date": "02/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00008350",
+    "movie": "El juicio de un perro",
+    "int_name": "Le Procès du chien",
+    "dir": "Laetitia Dosch",
+    "pais": "Suiza-Francia",
+    "year": 2024,
+    "dur": "85",
+    "date": "02/10/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:30",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008135",
+    "movie": "El último viaje",
+    "int_name": "El último viaje",
+    "dir": "Rodolfo Santa María Troncoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "96",
+    "date": "02/10/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:45"
+    ]
+  },
+  {
+    "filmid": "HO00007540",
+    "movie": "Formas de atravesar un territorio",
+    "int_name": "Formas de atravesar un territorio",
+    "dir": "Gabriela Domínguez Ruvalcaba",
+    "pais": "México",
+    "year": 2024,
+    "dur": "72",
+    "date": "02/10/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00009031",
+    "movie": "La hermanastra fea",
+    "int_name": "Den Stygge Stesøsteren",
+    "dir": "Emilie Blichfeldt.",
+    "pais": "Noruega",
+    "year": 2025,
+    "dur": "110",
+    "date": "02/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008802",
+    "movie": "La infiltrada",
+    "int_name": "La infiltrada",
+    "dir": "Arantxa Echevarría.",
+    "pais": "España",
+    "year": 2024,
+    "dur": "118",
+    "date": "02/10/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008796",
+    "movie": "La madre de todas las mentiras",
+    "int_name": "Kadib Abyad",
+    "dir": "Asmae El Moudir.",
+    "pais": "",
+    "year": null,
+    "dur": "96",
+    "date": "02/10/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "16:15"
+    ]
+  },
+  {
+    "filmid": "HO00009077",
+    "movie": "La princesa Mononoke DOB",
+    "int_name": "La princesa Mononoke DOB",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 1997,
+    "dur": "133",
+    "date": "02/10/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00009028",
+    "movie": "La princesa Mononoke SUB",
+    "int_name": "Mononoke-hime",
+    "dir": "Hayao Miyazaki",
+    "pais": "Japón",
+    "year": 1997,
+    "dur": "133",
+    "date": "02/10/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008803",
+    "movie": "La vida de Chuck",
+    "int_name": "The life of Chuck",
+    "dir": "Mike Flanagan",
+    "pais": "Estados Unidos",
+    "year": 2023,
+    "dur": "110",
+    "date": "02/10/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00008766",
+    "movie": "Las novias del sur",
+    "int_name": "Las novias del sur",
+    "dir": "Elena López Riera",
+    "pais": "España-Suiza-Francia",
+    "year": 2024,
+    "dur": "41",
+    "date": "02/10/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00009035",
+    "movie": "Mariposas negras",
+    "int_name": "Mariposas negras",
+    "dir": "David Baute",
+    "pais": "España-Panamá",
+    "year": 2024,
+    "dur": "80",
+    "date": "02/10/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:00",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00009036",
+    "movie": "Ne Zha 2: el renacer del alma DOB",
+    "int_name": "Nezha: Mo tong nao hai",
+    "dir": "Yu Yang",
+    "pais": "China",
+    "year": 2025,
+    "dur": "143",
+    "date": "02/10/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00009029",
+    "movie": "Penélope II",
+    "int_name": "Penélope 2",
+    "dir": "Agustín Adba",
+    "pais": "Argentina-México",
+    "year": 2025,
+    "dur": "60",
+    "date": "02/10/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008799",
+    "movie": "Segundo Premio",
+    "int_name": "Segundo premio",
+    "dir": "Isaki Lacuesta",
+    "pais": "España",
+    "year": 2023,
+    "dur": "109",
+    "date": "02/10/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008379",
+    "movie": "Soles Atikamekw",
+    "int_name": "Soles Atikamekw",
+    "dir": "Chloé Leriche",
+    "pais": "Canadá (Quebec)",
+    "year": 2023,
+    "dur": "103",
+    "date": "02/10/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008467",
+    "movie": "Tóxico",
+    "int_name": "Akipleša",
+    "dir": "Saulė Bliuvaitė",
+    "pais": "Lituania",
+    "year": 2024,
+    "dur": "99",
+    "date": "02/10/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00002972",
+    "movie": "Toy Story DOB",
+    "int_name": "Toy Story DOP",
+    "dir": "John Lasseter",
+    "pais": "Estados Unidos",
+    "year": 1995,
+    "dur": "81",
+    "date": "02/10/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00007780",
+    "movie": "Un amor",
+    "int_name": "Un amor",
+    "dir": "Isabel Coixet",
+    "pais": "España",
+    "year": 2023,
+    "dur": "129",
+    "date": "02/10/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009037",
+    "movie": "Una batalla tras otra",
+    "int_name": "One Battle After Another",
+    "dir": "Thomas Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "170",
+    "date": "02/10/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00008770",
+    "movie": "Xoftex",
+    "int_name": "Xoftex",
+    "dir": "Noaz Deshe",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "99",
+    "date": "02/10/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00009089",
+    "movie": "Sound of Falling",
+    "int_name": "In die Sonne schauen",
+    "dir": "Mascha Schilinski",
+    "pais": "Alemania",
+    "year": 2025,
+    "dur": "149",
+    "date": "02/10/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009136",
+    "movie": "Río retorno",
+    "int_name": "River Returns",
+    "dir": "Masakazu Kaneko",
+    "pais": "Japón",
+    "year": 2024,
+    "dur": "108",
+    "date": "02/10/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00009146",
+    "movie": "Skiff",
+    "int_name": "Skiff",
+    "dir": "Cecilia Verheyden",
+    "pais": "Bélgica",
+    "year": 2025,
+    "dur": "106",
+    "date": "02/10/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "16:45"
+    ]
+  }
+]
