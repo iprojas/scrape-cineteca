@@ -1,0 +1,44 @@
+[
+  {
+    "filmid": "HO00009112",
+    "movie": "Ángulo inverso: una carta de Nueva York/Habitación",
+    "int_name": "Reverse Angle",
+    "dir": "Win Wenders",
+    "pais": "República Federal de Alemania",
+    "year": 1982,
+    "dur": "17",
+    "date": "19/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00009120",
+    "movie": "Buena vista social club",
+    "int_name": "Buenavista Social Club",
+    "dir": "Wim Wenders",
+    "pais": "Alemania-Estados Unidos",
+    "year": 1999,
+    "dur": "105",
+    "date": "19/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00003250",
+    "movie": "Las alas del deseo",
+    "int_name": "Der Himmel über Berlin",
+    "dir": "Wim Wenders",
+    "pais": "República Federal de Alemania-Francia",
+    "year": 1987,
+    "dur": "128",
+    "date": "19/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  }
+]

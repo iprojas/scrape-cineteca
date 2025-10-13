@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00009109",
+    "movie": "Falso movimiento",
+    "int_name": "Falsche Bewegung",
+    "dir": "Wim Wenders",
+    "pais": "República Federal de Alemania",
+    "year": 1975,
+    "dur": "103",
+    "date": "17/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00007692",
+    "movie": "París, Texas",
+    "int_name": "París Texas",
+    "dir": "Wim Wenders",
+    "pais": "Francia",
+    "year": 1984,
+    "dur": "145",
+    "date": "17/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  }
+]

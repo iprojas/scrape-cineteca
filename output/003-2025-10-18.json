@@ -1,0 +1,44 @@
+[
+  {
+    "filmid": "HO00009111",
+    "movie": "El amigo americano",
+    "int_name": "Der Amerikanische Freund",
+    "dir": "Wim Wenders",
+    "pais": "República Federal de Alemania-Francia",
+    "year": 1977,
+    "dur": "126",
+    "date": "18/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00009108",
+    "movie": "El miedo del portero ante el penalti",
+    "int_name": "Die Angst des Tormanns beim Elfmeter /  The Goalie’s Anxiety at the Penalty Kick",
+    "dir": "Win Wenders",
+    "pais": "República Federal de Alemania-Austria",
+    "year": 1971,
+    "dur": "100",
+    "date": "18/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00009115",
+    "movie": "Tokyo-Ga",
+    "int_name": "Tokyo- Ga",
+    "dir": "Wim Wenders.",
+    "pais": "República Federal de Alemania-Estados Unidos",
+    "year": 1985,
+    "dur": "93",
+    "date": "18/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "21:00"
+    ]
+  }
+]
