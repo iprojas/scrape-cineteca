@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00009120",
+    "movie": "Buena vista social club",
+    "int_name": "Buenavista Social Club",
+    "dir": "Wim Wenders",
+    "pais": "Alemania-Estados Unidos",
+    "year": 1999,
+    "dur": "105",
+    "date": "25/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009110",
+    "movie": "En el transcurso del tiempo",
+    "int_name": "Im Lauf der Zeit",
+    "dir": "Wim Wenders",
+    "pais": "República Federal de Alemania",
+    "year": 1976,
+    "dur": "175",
+    "date": "25/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "17:00"
+    ]
+  }
+]

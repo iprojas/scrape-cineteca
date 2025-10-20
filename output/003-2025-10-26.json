@@ -1,0 +1,30 @@
+[
+  {
+    "filmid": "HO00009117",
+    "movie": "Hasta el fin del mundo",
+    "int_name": "Bis ans Ende der Welt",
+    "dir": "Wim Wenders",
+    "pais": "Alemania-Francia-Australia",
+    "year": 1991,
+    "dur": "150",
+    "date": "26/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00009122",
+    "movie": "La búsqueda",
+    "int_name": "Don’t Come Knoking",
+    "dir": "Wim Wenders",
+    "pais": "Estados Unidos-Alemania",
+    "year": 2005,
+    "dur": "122",
+    "date": "26/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  }
+]

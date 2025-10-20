@@ -1,0 +1,72 @@
+[
+  {
+    "filmid": "HO00007272",
+    "movie": "Mi amigo robot",
+    "int_name": "Robot Dreams",
+    "dir": "Pablo Berger",
+    "pais": "España-Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "24/10/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009121",
+    "movie": "El hotel del millón de dólares",
+    "int_name": "The Million Dollar Hotel",
+    "dir": "Wim Wenders",
+    "pais": "Alemania-Estados Unidos",
+    "year": 2000,
+    "dur": "124",
+    "date": "24/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009119",
+    "movie": "Los hermanos Skladanowskyl",
+    "int_name": "Die Gebrüder Skladanowsky",
+    "dir": "Wim Wenders",
+    "pais": "",
+    "year": null,
+    "dur": "0",
+    "date": "24/10/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00009172",
+    "movie": "MasterClass con Pablo Berger",
+    "int_name": "MasterClass con Pablo Berger.",
+    "dir": "Pablo Berger.",
+    "pais": "México",
+    "year": 2025,
+    "dur": "90",
+    "date": "24/10/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00007272",
+    "movie": "Mi amigo robot",
+    "int_name": "Robot Dreams",
+    "dir": "Pablo Berger",
+    "pais": "España-Francia",
+    "year": 2023,
+    "dur": "95",
+    "date": "24/10/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:00"
+    ]
+  }
+]
