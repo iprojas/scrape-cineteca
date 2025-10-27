@@ -1,0 +1,236 @@
+[
+  {
+    "filmid": "HO00009094",
+    "movie": "¡Gloria! Milagro en Venecia",
+    "int_name": "¡Gloria!",
+    "dir": "Margherita Vicario",
+    "pais": "Italia-Suiza",
+    "year": 2024,
+    "dur": "106",
+    "date": "28/10/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "16:10",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00009098",
+    "movie": "Estoy todo lo iguana que se puede",
+    "int_name": "Estoy todo lo iguana que se puede",
+    "dir": "Julián Robles",
+    "pais": "México",
+    "year": 2022,
+    "dur": "100",
+    "date": "28/10/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:10",
+      "17:20",
+      "19:20"
+    ]
+  },
+  {
+    "filmid": "HO00009099",
+    "movie": "Frankenstein",
+    "int_name": "Frankenstein",
+    "dir": "Guillermo del Toro.",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "149",
+    "date": "28/10/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:00",
+      "17:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009031",
+    "movie": "La hermanastra fea",
+    "int_name": "Den Stygge Stesøsteren",
+    "dir": "Emilie Blichfeldt.",
+    "pais": "Noruega",
+    "year": 2025,
+    "dur": "110",
+    "date": "28/10/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:00",
+      "17:10",
+      "19:30"
+    ]
+  },
+  {
+    "filmid": "HO00009095",
+    "movie": "La máquina: The Smashing Machine",
+    "int_name": "The Smashing Machine",
+    "dir": "Benny Safdie.",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "123",
+    "date": "28/10/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "13:50"
+    ]
+  },
+  {
+    "filmid": "HO00009035",
+    "movie": "Mariposas negras",
+    "int_name": "Mariposas negras",
+    "dir": "David Baute",
+    "pais": "España-Panamá",
+    "year": 2024,
+    "dur": "80",
+    "date": "28/10/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:10",
+      "15:50",
+      "17:50",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00009036",
+    "movie": "Ne Zha 2: el renacer del alma DOB",
+    "int_name": "Nezha: Mo tong nao hai",
+    "dir": "Yu Yang",
+    "pais": "China",
+    "year": 2025,
+    "dur": "143",
+    "date": "28/10/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "13:40",
+      "16:50",
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00008132",
+    "movie": "Nómadas de la 57",
+    "int_name": "Nómadas de la 57",
+    "dir": "Alberto Arnaut Estrada y José María Castro Ibarra",
+    "pais": "México",
+    "year": 2023,
+    "dur": "83",
+    "date": "28/10/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:50",
+      "16:50",
+      "18:40",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00009100",
+    "movie": "Soy Frankelda",
+    "int_name": "Soy Frankelda",
+    "dir": "Arturo Ambriz",
+    "pais": "México",
+    "year": 2025,
+    "dur": "114",
+    "date": "28/10/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "13:10",
+      "15:30",
+      "17:50",
+      "20:10"
+    ]
+  },
+  {
+    "filmid": "HO00008400",
+    "movie": "Un mexicano en la luna",
+    "int_name": "Un mexicano en la luna",
+    "dir": "José Luis Yáñez y Techus Guerrero [proyecto inicial de Francis Levy]",
+    "pais": "México-Italia",
+    "year": 2024,
+    "dur": "99",
+    "date": "28/10/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:20",
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00009093",
+    "movie": "Un mundo mejor",
+    "int_name": "Un mundo mejor",
+    "dir": "Janett Juárez.",
+    "pais": "México",
+    "year": 2023,
+    "dur": "93",
+    "date": "28/10/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "14:00",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00009037",
+    "movie": "Una batalla tras otra",
+    "int_name": "One Battle After Another",
+    "dir": "Thomas Anderson",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "170",
+    "date": "28/10/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:10",
+      "16:20",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00007564",
+    "movie": "Una película de amor y guerra",
+    "int_name": "Una película de amor y guerra",
+    "dir": "Santiago Mohar Volkow",
+    "pais": "México",
+    "year": 2024,
+    "dur": "110",
+    "date": "28/10/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:20",
+      "18:00",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009155",
+    "movie": "Charlas: La hija de Moctezuma",
+    "int_name": "La Hija de Moctezuma",
+    "dir": "Iván Lipkies",
+    "pais": "Dir.: Iván Lipkies",
+    "year": 2014,
+    "dur": "116",
+    "date": "28/10/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00001763",
+    "movie": "Macario",
+    "int_name": "Macario",
+    "dir": "Roberto Gavaldón",
+    "pais": "México",
+    "year": 1959,
+    "dur": "90",
+    "date": "28/10/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "19:00"
+    ]
+  }
+]
