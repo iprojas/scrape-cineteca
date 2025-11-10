@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00009279",
+    "movie": "Ella y su hijo",
+    "int_name": "Zan o bacheh",
+    "dir": "Saeed Roustayi",
+    "pais": "Irán-Francia",
+    "year": 2025,
+    "dur": "131",
+    "date": "15/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00009278",
+    "movie": "La desaparición de Josef Mengele",
+    "int_name": "Das Verschwinden des Josef Mengele",
+    "dir": "Kirill Serebrenniko",
+    "pais": "Francia-Alemania-México-Uruguay",
+    "year": 2024,
+    "dur": "135",
+    "date": "15/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009277",
+    "movie": "Nueva ola francesa",
+    "int_name": "Nouvelle Vague",
+    "dir": "Richard Linklater",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "105",
+    "date": "15/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "13:15",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00009280",
+    "movie": "Sueños (sexo-amor)",
+    "int_name": "Drømmer",
+    "dir": "Johan Haugerud",
+    "pais": "Dir.: Johan Haugerud",
+    "year": 2024,
+    "dur": "110",
+    "date": "15/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:45",
+      "21:00"
+    ]
+  }
+]

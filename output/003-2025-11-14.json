@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00009278",
+    "movie": "La desaparición de Josef Mengele",
+    "int_name": "Das Verschwinden des Josef Mengele",
+    "dir": "Kirill Serebrenniko",
+    "pais": "Francia-Alemania-México-Uruguay",
+    "year": 2024,
+    "dur": "135",
+    "date": "14/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00009277",
+    "movie": "Nueva ola francesa",
+    "int_name": "Nouvelle Vague",
+    "dir": "Richard Linklater",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "105",
+    "date": "14/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  }
+]
