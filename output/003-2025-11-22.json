@@ -1,0 +1,92 @@
+[
+  {
+    "filmid": "HO00009285",
+    "movie": "Dos fiscales",
+    "int_name": "Zwei Staatsanwälte",
+    "dir": "Sergei Loznitsa",
+    "pais": "Francia-Alemania-Países Bajos-Letonia-Rumania-Lituania",
+    "year": 2025,
+    "dur": "118",
+    "date": "22/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009282",
+    "movie": "O último azul",
+    "int_name": "O último azul",
+    "dir": "Gabriel Mascaro",
+    "pais": "Brasil-México-Chile-Países Bajos",
+    "year": 2025,
+    "dur": "86",
+    "date": "22/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "12:30",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009281",
+    "movie": "Obispo rojo",
+    "int_name": "Obispo rojo",
+    "dir": "Francesco Taboada Tabone.",
+    "pais": "Dir.: Francesco Taboada Tabone.",
+    "year": 2024,
+    "dur": "185",
+    "date": "22/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "14:30",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009284",
+    "movie": "Romería",
+    "int_name": "Romería",
+    "dir": "Carla Simón",
+    "pais": "España-Alemania",
+    "year": 2025,
+    "dur": "112",
+    "date": "22/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "12:45",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009286",
+    "movie": "Sirat: trance en el desierto",
+    "int_name": "Sirat",
+    "dir": "Oliver Laxe.",
+    "pais": "España-Francia",
+    "year": 2025,
+    "dur": "115",
+    "date": "22/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00009283",
+    "movie": "Un fantasma para servirte",
+    "int_name": "Pee chai dai ka",
+    "dir": "Ratchapoom Boonbunchachoke",
+    "pais": "Tailandia-Singapur-Alemania-Francia",
+    "year": 2025,
+    "dur": "130",
+    "date": "22/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:15",
+      "20:30"
+    ]
+  }
+]

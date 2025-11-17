@@ -1,0 +1,321 @@
+[
+  {
+    "filmid": "HO00009263",
+    "movie": "¡Viva la aventura!",
+    "int_name": "Hurá za dobrodružstvom!",
+    "dir": "Marta Prokopová",
+    "pais": "Eslovaquia-Estonia-Portugal",
+    "year": 2025,
+    "dur": "48",
+    "date": "18/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00009101",
+    "movie": "Aullido de invierno",
+    "int_name": "Aullido de invierno",
+    "dir": "Matías Rojas Valencia.",
+    "pais": "Chile-Colombia-Argentina",
+    "year": 2023,
+    "dur": "98",
+    "date": "18/11/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "17:45",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00008135",
+    "movie": "El último viaje",
+    "int_name": "El último viaje",
+    "dir": "Rodolfo Santa María Troncoso",
+    "pais": "México",
+    "year": 2024,
+    "dur": "96",
+    "date": "18/11/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00009099",
+    "movie": "Frankenstein",
+    "int_name": "Frankenstein",
+    "dir": "Guillermo del Toro.",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "149",
+    "date": "18/11/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:30",
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009229",
+    "movie": "Hola Frida DOB",
+    "int_name": "Hola Frida DOB",
+    "dir": "Karine Vézina",
+    "pais": "",
+    "year": null,
+    "dur": "82",
+    "date": "18/11/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "14:30"
+    ]
+  },
+  {
+    "filmid": "HO00008768",
+    "movie": "Hollywoodgate",
+    "int_name": "Hollywoodgate",
+    "dir": "Ibrahim Nash'at",
+    "pais": "Estados Unidos-Alemania",
+    "year": 2023,
+    "dur": "91",
+    "date": "18/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00009092",
+    "movie": "Lachatao",
+    "int_name": "Lachatao",
+    "dir": "Natalia Bruschtein",
+    "pais": "México",
+    "year": 2024,
+    "dur": "83",
+    "date": "18/11/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:45"
+    ]
+  },
+  {
+    "filmid": "HO00009264",
+    "movie": "Las locuras",
+    "int_name": "Las locuras",
+    "dir": "Rodrigo García",
+    "pais": "México",
+    "year": 2025,
+    "dur": "121",
+    "date": "18/11/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00009035",
+    "movie": "Mariposas negras",
+    "int_name": "Mariposas negras",
+    "dir": "David Baute",
+    "pais": "España-Panamá",
+    "year": 2024,
+    "dur": "80",
+    "date": "18/11/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00009242",
+    "movie": "Noviembre",
+    "int_name": "NOVIEMBRE",
+    "dir": "Tomás Corredor.",
+    "pais": "México/Colombia.",
+    "year": 2025,
+    "dur": "75",
+    "date": "18/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00008942",
+    "movie": "Sorda",
+    "int_name": "Sorda",
+    "dir": "Eva Libertad",
+    "pais": "España",
+    "year": 2025,
+    "dur": "99",
+    "date": "18/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00009100",
+    "movie": "Soy Frankelda",
+    "int_name": "Soy Frankelda",
+    "dir": "Arturo Ambriz",
+    "pais": "México",
+    "year": 2025,
+    "dur": "114",
+    "date": "18/11/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:15",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008771",
+    "movie": "Todo documento de civilización",
+    "int_name": "Todo documento de civilización",
+    "dir": "Tatiana Mazú González",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "90",
+    "date": "18/11/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00008467",
+    "movie": "Tóxico",
+    "int_name": "Akipleša",
+    "dir": "Saulė Bliuvaitė",
+    "pais": "Lituania",
+    "year": 2024,
+    "dur": "99",
+    "date": "18/11/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00009243",
+    "movie": "Yuku y la flor del himalaya",
+    "int_name": "Yuku et la fleur de l'Himalaya",
+    "dir": "Arnaud Demuynck",
+    "pais": "Bélgica-Francia-Suiza",
+    "year": 2022,
+    "dur": "65",
+    "date": "18/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00008372",
+    "movie": "Charlas de cine mexicano: Los otros directores",
+    "int_name": "Cosa fácil",
+    "dir": "Alfredo Gurrola",
+    "pais": "México",
+    "year": 1997,
+    "dur": "110",
+    "date": "18/11/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009279",
+    "movie": "Ella y su hijo",
+    "int_name": "Zan o bacheh",
+    "dir": "Saeed Roustayi",
+    "pais": "Irán-Francia",
+    "year": 2025,
+    "dur": "131",
+    "date": "18/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:30",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00009278",
+    "movie": "La desaparición de Josef Mengele",
+    "int_name": "Das Verschwinden des Josef Mengele",
+    "dir": "Kirill Serebrennikov",
+    "pais": "Francia-Alemania-México-Uruguay",
+    "year": 2024,
+    "dur": "135",
+    "date": "18/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "13:15",
+      "18:15"
+    ]
+  },
+  {
+    "filmid": "HO00009277",
+    "movie": "Nueva ola francesa",
+    "int_name": "Nouvelle Vague",
+    "dir": "Richard Linklater",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "105",
+    "date": "18/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "16:00",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00009282",
+    "movie": "O último azul",
+    "int_name": "O último azul",
+    "dir": "Gabriel Mascaro",
+    "pais": "Brasil-México-Chile-Países Bajos",
+    "year": 2025,
+    "dur": "86",
+    "date": "18/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009281",
+    "movie": "Obispo rojo",
+    "int_name": "Obispo rojo",
+    "dir": "Francesco Taboada Tabone.",
+    "pais": "Dir.: Francesco Taboada Tabone.",
+    "year": 2024,
+    "dur": "185",
+    "date": "18/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "14:30",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009280",
+    "movie": "Sueños (sexo-amor)",
+    "int_name": "Drømmer",
+    "dir": "Johan Haugerud",
+    "pais": "Dir.: Johan Haugerud",
+    "year": 2024,
+    "dur": "110",
+    "date": "18/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "13:00",
+      "18:15"
+    ]
+  }
+]
