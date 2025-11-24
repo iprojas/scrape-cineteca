@@ -1,0 +1,32 @@
+[
+  {
+    "filmid": "HO00009089",
+    "movie": "El sonido al caer",
+    "int_name": "In die Sonne schauen / Sound of Falling",
+    "dir": "Mascha Schilinski",
+    "pais": "Alemania",
+    "year": 2025,
+    "dur": "149",
+    "date": "30/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009288",
+    "movie": "La voz de Hind Rajab",
+    "int_name": "Sawt Hind Rajab",
+    "dir": "Kaouther Ben Hania",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "89",
+    "date": "30/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "13:30",
+      "18:30"
+    ]
+  }
+]

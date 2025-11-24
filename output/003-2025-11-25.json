@@ -1,0 +1,336 @@
+[
+  {
+    "filmid": "HO00009263",
+    "movie": "¡Viva la aventura!",
+    "int_name": "Hurá za dobrodružstvom!",
+    "dir": "Marta Prokopová",
+    "pais": "Eslovaquia-Estonia-Portugal",
+    "year": 2025,
+    "dur": "48",
+    "date": "25/11/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "14:15"
+    ]
+  },
+  {
+    "filmid": "HO00008764",
+    "movie": "Acerca de un héroe",
+    "int_name": "About a Hero",
+    "dir": "Piotr Winiewicz",
+    "pais": "Dinamarca-Alemania",
+    "year": 2024,
+    "dur": "84",
+    "date": "25/11/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009101",
+    "movie": "Aullido de invierno",
+    "int_name": "Aullido de invierno",
+    "dir": "Matías Rojas Valencia.",
+    "pais": "Chile-Colombia-Argentina",
+    "year": 2023,
+    "dur": "98",
+    "date": "25/11/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "15:45",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00009021",
+    "movie": "El acusado",
+    "int_name": "Le fil",
+    "dir": "Daniel Auteui",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "115",
+    "date": "25/11/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "15:30"
+    ]
+  },
+  {
+    "filmid": "HO00009099",
+    "movie": "Frankenstein",
+    "int_name": "Frankenstein",
+    "dir": "Guillermo del Toro.",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "149",
+    "date": "25/11/2025",
+    "sala": "SALA 2 Xoco",
+    "times": [
+      "14:30",
+      "17:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00008768",
+    "movie": "Hollywoodgate",
+    "int_name": "Hollywoodgate",
+    "dir": "Ibrahim Nash'at",
+    "pais": "Estados Unidos-Alemania",
+    "year": 2023,
+    "dur": "91",
+    "date": "25/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "15:00"
+    ]
+  },
+  {
+    "filmid": "HO00009246",
+    "movie": "La sombra del Catire",
+    "int_name": "La sombra del Catire",
+    "dir": "Jorge Hernández Aldama",
+    "pais": "Venezuela",
+    "year": 2023,
+    "dur": "81",
+    "date": "25/11/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "14:00",
+      "16:00"
+    ]
+  },
+  {
+    "filmid": "HO00009092",
+    "movie": "Lachatao",
+    "int_name": "Lachatao",
+    "dir": "Natalia Bruschtein",
+    "pais": "México",
+    "year": 2024,
+    "dur": "83",
+    "date": "25/11/2025",
+    "sala": "SALA 6 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009264",
+    "movie": "Las locuras",
+    "int_name": "Las locuras",
+    "dir": "Rodrigo García",
+    "pais": "México",
+    "year": 2025,
+    "dur": "121",
+    "date": "25/11/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00008769",
+    "movie": "Lázaro de noche",
+    "int_name": "Lázaro de noche",
+    "dir": "Nicolás Pereda",
+    "pais": "México-Canadá",
+    "year": 2024,
+    "dur": "76",
+    "date": "25/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00009242",
+    "movie": "Noviembre",
+    "int_name": "NOVIEMBRE",
+    "dir": "Tomás Corredor.",
+    "pais": "México/Colombia.",
+    "year": 2025,
+    "dur": "75",
+    "date": "25/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "17:00"
+    ]
+  },
+  {
+    "filmid": "HO00008942",
+    "movie": "Sorda",
+    "int_name": "Sorda",
+    "dir": "Eva Libertad",
+    "pais": "España",
+    "year": 2025,
+    "dur": "99",
+    "date": "25/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00009100",
+    "movie": "Soy Frankelda",
+    "int_name": "Soy Frankelda",
+    "dir": "Arturo Ambriz",
+    "pais": "México",
+    "year": 2025,
+    "dur": "114",
+    "date": "25/11/2025",
+    "sala": "SALA 3 Xoco",
+    "times": [
+      "14:00",
+      "16:15",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00008771",
+    "movie": "Todo documento de civilización",
+    "int_name": "Todo documento de civilización",
+    "dir": "Tatiana Mazú González",
+    "pais": "Argentina",
+    "year": 2024,
+    "dur": "90",
+    "date": "25/11/2025",
+    "sala": "SALA 5 Xoco",
+    "times": [
+      "14:00"
+    ]
+  },
+  {
+    "filmid": "HO00009243",
+    "movie": "Yuku y la flor del himalaya",
+    "int_name": "Yuku et la fleur de l'Himalaya",
+    "dir": "Arnaud Demuynck",
+    "pais": "Bélgica-Francia-Suiza",
+    "year": 2022,
+    "dur": "65",
+    "date": "25/11/2025",
+    "sala": "SALA 9 Xoco",
+    "times": [
+      "13:30"
+    ]
+  },
+  {
+    "filmid": "HO00008372",
+    "movie": "Charlas de cine mexicano: Los otros directores",
+    "int_name": "Días de combate",
+    "dir": "Alfredo Gurrola",
+    "pais": "México",
+    "year": 1999,
+    "dur": "95",
+    "date": "25/11/2025",
+    "sala": "SALA 4 Xoco",
+    "times": [
+      "18:00"
+    ]
+  },
+  {
+    "filmid": "HO00009287",
+    "movie": "Dos extraños, dos estaciones",
+    "int_name": "Tabi to hibi",
+    "dir": "Shô Miyake",
+    "pais": "Japón",
+    "year": 2025,
+    "dur": "89",
+    "date": "25/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "15:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00009285",
+    "movie": "Dos fiscales",
+    "int_name": "Zwei Staatsanwälte",
+    "dir": "Sergei Loznitsa",
+    "pais": "Francia-Alemania-Países Bajos-Letonia-Rumania-Lituania",
+    "year": 2025,
+    "dur": "118",
+    "date": "25/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "12:30",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00009089",
+    "movie": "El sonido al caer",
+    "int_name": "In die Sonne schauen / Sound of Falling",
+    "dir": "Mascha Schilinski",
+    "pais": "Alemania",
+    "year": 2025,
+    "dur": "149",
+    "date": "25/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "12:00",
+      "17:45"
+    ]
+  },
+  {
+    "filmid": "HO00009288",
+    "movie": "La voz de Hind Rajab",
+    "int_name": "Sawt Hind Rajab",
+    "dir": "Kaouther Ben Hania",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "89",
+    "date": "25/11/2025",
+    "sala": "SALA 1 Xoco",
+    "times": [
+      "15:45",
+      "20:45"
+    ]
+  },
+  {
+    "filmid": "HO00009286",
+    "movie": "Sirat: trance en el desierto",
+    "int_name": "Sirat",
+    "dir": "Oliver Laxe.",
+    "pais": "España-Francia",
+    "year": 2025,
+    "dur": "115",
+    "date": "25/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00007793",
+    "movie": "Underground",
+    "int_name": "Podzemlje",
+    "dir": "Emir Kusturica",
+    "pais": "",
+    "year": 1995,
+    "dur": "172",
+    "date": "25/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "12:00",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00009316",
+    "movie": "Palestina animada",
+    "int_name": "PALESTINA ANIMADA",
+    "dir": "Varios",
+    "pais": "",
+    "year": 2015,
+    "dur": "75",
+    "date": "25/11/2025",
+    "sala": "SALA 7 Xoco",
+    "times": [
+      "20:00"
+    ]
+  }
+]

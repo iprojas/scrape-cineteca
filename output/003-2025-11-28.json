@@ -1,0 +1,62 @@
+[
+  {
+    "filmid": "HO00009287",
+    "movie": "Dos extraños, dos estaciones",
+    "int_name": "Tabi to hibi",
+    "dir": "Shô Miyake",
+    "pais": "Japón",
+    "year": 2025,
+    "dur": "89",
+    "date": "28/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "12:00",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00009089",
+    "movie": "El sonido al caer",
+    "int_name": "In die Sonne schauen / Sound of Falling",
+    "dir": "Mascha Schilinski",
+    "pais": "Alemania",
+    "year": 2025,
+    "dur": "149",
+    "date": "28/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "15:30",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00009288",
+    "movie": "La voz de Hind Rajab",
+    "int_name": "Sawt Hind Rajab",
+    "dir": "Kaouther Ben Hania",
+    "pais": "Francia",
+    "year": 2025,
+    "dur": "89",
+    "date": "28/11/2025",
+    "sala": "SALA 8 Xoco",
+    "times": [
+      "13:30",
+      "18:30"
+    ]
+  },
+  {
+    "filmid": "HO00007793",
+    "movie": "Underground",
+    "int_name": "Podzemlje",
+    "dir": "Emir Kusturica",
+    "pais": "",
+    "year": 1995,
+    "dur": "172",
+    "date": "28/11/2025",
+    "sala": "SALA 10 Xoco",
+    "times": [
+      "14:00",
+      "19:30"
+    ]
+  }
+]
