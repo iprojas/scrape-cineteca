@@ -1,0 +1,336 @@
+[
+  {
+    "filmid": "HO00009263",
+    "movie": "¡Viva la aventura!",
+    "int_name": "Hurá za dobrodružstvom!",
+    "dir": "Marta Prokopová",
+    "pais": "Eslovaquia-Estonia-Portugal",
+    "year": 2025,
+    "dur": "48",
+    "date": "01/12/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "14:40",
+      "16:50"
+    ]
+  },
+  {
+    "filmid": "HO00009244",
+    "movie": "Después",
+    "int_name": "Después",
+    "dir": "Sofía Gómez Córdova.",
+    "pais": "México",
+    "year": 2024,
+    "dur": "100",
+    "date": "01/12/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "14:30",
+      "16:30"
+    ]
+  },
+  {
+    "filmid": "HO00009021",
+    "movie": "El acusado",
+    "int_name": "Le fil",
+    "dir": "Daniel Auteui",
+    "pais": "Francia",
+    "year": 2024,
+    "dur": "115",
+    "date": "01/12/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "16:00",
+      "20:40"
+    ]
+  },
+  {
+    "filmid": "HO00008167",
+    "movie": "El día es largo y oscuro",
+    "int_name": "El día es largo y oscuro",
+    "dir": "Julio Hernández Cordón",
+    "pais": "México",
+    "year": 2024,
+    "dur": "77",
+    "date": "01/12/2025",
+    "sala": "SALA 9 CNA",
+    "times": [
+      "15:50",
+      "17:40",
+      "19:20",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00009099",
+    "movie": "Frankenstein",
+    "int_name": "Frankenstein",
+    "dir": "Guillermo del Toro.",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "149",
+    "date": "01/12/2025",
+    "sala": "SALA 12 CNA",
+    "times": [
+      "14:00",
+      "17:00",
+      "20:00"
+    ]
+  },
+  {
+    "filmid": "HO00006664",
+    "movie": "La singla",
+    "int_name": "La Singla",
+    "dir": "Paloma Zapata",
+    "pais": "España-Alemania",
+    "year": 2023,
+    "dur": "95",
+    "date": "01/12/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "14:10",
+      "16:10"
+    ]
+  },
+  {
+    "filmid": "HO00009246",
+    "movie": "La sombra del Catire",
+    "int_name": "La sombra del Catire",
+    "dir": "Jorge Hernández Aldama",
+    "pais": "Venezuela",
+    "year": 2023,
+    "dur": "81",
+    "date": "01/12/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "16:20",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00009247",
+    "movie": "Las mutaciones",
+    "int_name": "Las mutaciones",
+    "dir": "Jorge Ramírez-Suárez",
+    "pais": "México",
+    "year": 2024,
+    "dur": "112",
+    "date": "01/12/2025",
+    "sala": "SALA 5 CNA",
+    "times": [
+      "18:10",
+      "20:30"
+    ]
+  },
+  {
+    "filmid": "HO00007573",
+    "movie": "Lo que perdimos en el fuego",
+    "int_name": "Lo que perdimos en el fuego",
+    "dir": "Arturo González Villaseñor",
+    "pais": "México",
+    "year": 2024,
+    "dur": "78",
+    "date": "01/12/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "15:10",
+      "19:10"
+    ]
+  },
+  {
+    "filmid": "HO00009240",
+    "movie": "Mátate, amor",
+    "int_name": "Die",
+    "dir": "Lynne Ramsay",
+    "pais": "Reino Unido-Canadá-Estados Unidos",
+    "year": 2025,
+    "dur": "118",
+    "date": "01/12/2025",
+    "sala": "SALA 10 CNA",
+    "times": [
+      "13:40",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00009242",
+    "movie": "Noviembre",
+    "int_name": "NOVIEMBRE",
+    "dir": "Tomás Corredor.",
+    "pais": "México/Colombia.",
+    "year": 2025,
+    "dur": "75",
+    "date": "01/12/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "15:40",
+      "19:40"
+    ]
+  },
+  {
+    "filmid": "HO00009239",
+    "movie": "Perseverancia. Un ensayo documental sobre Tomás Sá",
+    "int_name": "Perseverancia",
+    "dir": "Juan Carlos Martín Méndez",
+    "pais": "México",
+    "year": 2024,
+    "dur": "108",
+    "date": "01/12/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "13:00",
+      "16:40",
+      "20:20"
+    ]
+  },
+  {
+    "filmid": "HO00008942",
+    "movie": "Sorda",
+    "int_name": "Sorda",
+    "dir": "Eva Libertad",
+    "pais": "España",
+    "year": 2025,
+    "dur": "99",
+    "date": "01/12/2025",
+    "sala": "SALA 4 CNA",
+    "times": [
+      "13:10",
+      "17:10",
+      "20:50"
+    ]
+  },
+  {
+    "filmid": "HO00009100",
+    "movie": "Soy Frankelda",
+    "int_name": "Soy Frankelda",
+    "dir": "Arturo Ambriz",
+    "pais": "México",
+    "year": 2025,
+    "dur": "114",
+    "date": "01/12/2025",
+    "sala": "SALA 7 CNA",
+    "times": [
+      "13:20",
+      "17:30"
+    ]
+  },
+  {
+    "filmid": "HO00008170",
+    "movie": "Soy lo que nunca fui",
+    "int_name": "Soy lo que nunca fui",
+    "dir": "Rodrigo Álvarez Flores",
+    "pais": "México",
+    "year": 2023,
+    "dur": "120",
+    "date": "01/12/2025",
+    "sala": "SALA 11 CNA",
+    "times": [
+      "18:30",
+      "21:00"
+    ]
+  },
+  {
+    "filmid": "HO00009243",
+    "movie": "Yuku y la flor del himalaya",
+    "int_name": "Yuku et la fleur de l'Himalaya",
+    "dir": "Arnaud Demuynck",
+    "pais": "Bélgica-Francia-Suiza",
+    "year": 2022,
+    "dur": "65",
+    "date": "01/12/2025",
+    "sala": "SALA 3 CNA",
+    "times": [
+      "15:10",
+      "18:50"
+    ]
+  },
+  {
+    "filmid": "HO00009245",
+    "movie": "Zoopocalipsis",
+    "int_name": "Night of the Zoopocalypse",
+    "dir": "Ricardo Curtis y Rodrigo Perez-Castro.",
+    "pais": "Canadá-Bélgica-Francia",
+    "year": 2024,
+    "dur": "91",
+    "date": "01/12/2025",
+    "sala": "SALA 8 CNA",
+    "times": [
+      "14:20",
+      "18:10"
+    ]
+  },
+  {
+    "filmid": "HO00009317",
+    "movie": "Zootopia 2 DOB",
+    "int_name": "Zootopia 2 DOB",
+    "dir": "Jared Bush y Byron Howard.",
+    "pais": "Estados Unidos",
+    "year": 2025,
+    "dur": "107",
+    "date": "01/12/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "13:30",
+      "15:30",
+      "17:50"
+    ]
+  },
+  {
+    "filmid": "HO00009249",
+    "movie": "Zootopia 2 SUB",
+    "int_name": "Zootopia 2",
+    "dir": "Jared Bush y Byron Howard.",
+    "pais": "Dir.: Jared Bush y Byron Howard.",
+    "year": 2025,
+    "dur": "107",
+    "date": "01/12/2025",
+    "sala": "SALA 1 CNA",
+    "times": [
+      "19:50"
+    ]
+  },
+  {
+    "filmid": "HO00009167",
+    "movie": "Arráncame la vida",
+    "int_name": "Arráncame la vida",
+    "dir": "Roberto Sneider",
+    "pais": "México- España",
+    "year": 2007,
+    "dur": "110",
+    "date": "01/12/2025",
+    "sala": "SALA 6 CNA",
+    "times": [
+      "19:00"
+    ]
+  },
+  {
+    "filmid": "HO00009284",
+    "movie": "Romería",
+    "int_name": "Romería",
+    "dir": "Carla Simón",
+    "pais": "España-Alemania",
+    "year": 2025,
+    "dur": "112",
+    "date": "01/12/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "13:00",
+      "18:20"
+    ]
+  },
+  {
+    "filmid": "HO00009283",
+    "movie": "Un fantasma para servirte",
+    "int_name": "Pee chai dai ka",
+    "dir": "Ratchapoom Boonbunchachoke",
+    "pais": "Tailandia-Singapur-Alemania-Francia",
+    "year": 2025,
+    "dur": "130",
+    "date": "01/12/2025",
+    "sala": "SALA 2 CNA",
+    "times": [
+      "15:20",
+      "20:40"
+    ]
+  }
+]
